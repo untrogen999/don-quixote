@@ -1,0 +1,31 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+# AZ: Draft schema for the English translations.
+# AZ: Anything used in multiple elements are defined at the bottom of this file.
+
+start = book
+
+# AZ: Root element
+book = element book { name, volume, author, illustrator, translator, chapter+ }
+
+# AZ: Basic info about the text. Can add them manually if they're not in the original text.
+volume = element volume {xsd:integer}
+author = element author {text}
+illustrator = element illustrator {text}
+translator = element translator {text}
+
+# AZ: What each chapter and paragraph element contains.
+chapter = element chapter { n, roman, name, paragraph+ }
+# The chapter number as a roman numeral (i.e. "LI").
+roman = attribute roman {text}
+
+# AZ: For now, paragraphs just have raw text as their body. No sentences, quotes, etc. yet.
+paragraph = element paragraph { n, text }
+
+
+# AZ: Elements/attributes used in multiple places.
+
+# AZ: The nth paragraph, chapter, etc. as an arabic numeral (i.e. "45").
+n = attribute n {xsd:integer}
+# AZ: The full name of the book, chapter, paragraph, etc.
+name = element name {text}
