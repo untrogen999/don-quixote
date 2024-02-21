@@ -20,7 +20,7 @@ chapter = element chapter { n, roman, title, paragraph+ }
 roman = attribute roman {text}
 
 # AZ: For now, paragraphs just have raw text as their body. No sentences, quotes, etc. yet.
-paragraph = element paragraph { n, text }
+para = element paragraph { n, text }
 
 
 # AZ: Elements/attributes used in multiple places.
