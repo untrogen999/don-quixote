@@ -1,0 +1,9 @@
+DonQ
+
+1. added root
+
+2. added title
+
+3. to find chapters
+f: (Capítulo [primero,IVXL]+\.)
+r: <chapter>\1</chapter>
