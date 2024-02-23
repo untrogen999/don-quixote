@@ -1,13 +1,14 @@
 Basic auto-tagging en-masse.
 
 1. Remove extraneous text
-	1. **TODO**
+	1. Delete every line after line 19830, then add two blank lines. Note there are invisible spaces in the lines after line 19830, so delete those as well.
+	2. Delete lines 1-2259, both inclusive.
 1. Special/misleading character replacement
 	1. Find `&` to replace with `&amp;`.
 	2. Find `<` to replace with `&lt;`.
 	3. Find `>` to replace with `&gt;`.
 	4. Fancy quotes/apostrophes are left as-is for now.
-	4. Normalize number of newlines. Find `\n{3,}` to replace with `\n\n`
+	5. Normalize number of newlines. Find `\n{3,}` to replace with `\n\n`
 2. Clopen strategy.
 	1. Annotate paragraphs.
 		1. Make sure "Dot matches all" is UNCHECKED.
