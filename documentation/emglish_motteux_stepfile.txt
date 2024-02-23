@@ -8,6 +8,6 @@
 3. find \n\n
 4. replace with </para>\0<para>
 5. find \n{2}<para>CHAPTER ([IVXL]+)\.</para>
-6. replace <chapter n="X" roman="I"> 
+6. replace <chapter n="X" roman="I"> (whatever the roman numeral is) 
 7. find \n
 8. replace <title> </title>
