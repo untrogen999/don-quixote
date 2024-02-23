@@ -1,18 +1,18 @@
 ﻿<root>
 
-<para>Author: Miguel de Cervantes Saavedra </para>
+<author>Author: Miguel de Cervantes Saavedra </author>
 
-<para>Translator: Peter Anthony Motteux</para>
+<translate>Translator: Peter Anthony Motteux</translate>
 
 <para>Release date: April 29, 2011 [eBook #35993]</para>
 
-<para>Language: English</para>
+<language>Language: English</language>
 
-<para>The History of Don Quixote </para>
+<title>The History of Don Quixote </title>
 
-<para>CHAPTER I.</para>
+<chapter n="X" roman="I">CHAPTER I.</chapter>
 
-<para>_The quality and way of living of Don Quixote._</para>
+<title>_The quality and way of living of Don Quixote._</title>
 
 <para>In a certain village in La Mancha, in the kingdom of Arragon, of which
 I cannot remember the name, there lived not long ago one of those
@@ -182,15 +182,11 @@ call her Dulcinea, with the addition of del Toboso, from the place
 where she was born; a name, in his opinion, sweet, harmonious, and
 dignified, like the others which he had devised.</para>
 
-<para></para>
+<chapter n="X" roman="II">CHAPTER II.</chapter>
 
-<para>
-CHAPTER II.</para>
+<title>_Which treats of Don Quixote's first sally._</title>
 
-<para>_Which treats of Don Quixote's first sally._</para>
-
-<para>
-These preparations being made, he found his designs ripe for action,
+<para>These preparations being made, he found his designs ripe for action,
 and thought it now a crime to deny himself any longer to the injured
 world that wanted such a deliverer; the more when he considered what
 grievances he was to redress, what wrongs and injuries to remove, what
@@ -330,16 +326,12 @@ that he was not yet dubbed a knight; for he fancied he could not
 lawfully undertake any adventure till he had received the order of
 knighthood.</para>
 
-<para></para>
+<chapter n="X" roman="III">CHAPTER III.</chapter>
 
-<para>
-CHAPTER III.</para>
+<title>_An account of the pleasant method taken by Don Quixote to be dubbed a
+knight._</title>
 
-<para>_An account of the pleasant method taken by Don Quixote to be dubbed a
-knight._</para>
-
-<para>
-Don Quixote's mind being disturbed with that thought, he abridged even
+<para>Don Quixote's mind being disturbed with that thought, he abridged even
 his short supper; and as soon as he had done, he called his host, then
 shut him and himself up in the stable, and falling at his feet, "I
 will never rise from this place," cried he, "most valorous knight,
@@ -538,15 +530,11 @@ of him, returned as rhetorical though shorter answers; and without
 stopping his horse for the reckoning, was glad with all his heart to
 see him go.</para>
 
-<para></para>
+<chapter n="X" roman="IV">CHAPTER IV.</chapter>
 
-<para>
-CHAPTER IV.</para>
+<title>_What befel the Knight after he had left the inn._</title>
 
-<para>_What befel the Knight after he had left the inn._</para>
-
-<para>
-Aurora began to usher in the morn, when Don Quixote sallied out of the
+<para>Aurora began to usher in the morn, when Don Quixote sallied out of the
 inn, so overjoyed to find himself knighted, that he infused the same
 satisfaction into his horse, who seemed ready to burst his girths for
 joy. But calling to mind the admonitions which the innkeeper had given
@@ -740,15 +728,11 @@ man, being still persuaded that his misfortune was one of those
 accidents common in knight-errantry, and such a one as he could wholly
 attribute to the falling of his horse.</para>
 
-<para></para>
+<chapter n="X" roman="V">CHAPTER V.</chapter>
 
-<para>
-CHAPTER V.</para>
+<title>_A further account of our Knight's misfortunes._</title>
 
-<para>_A further account of our Knight's misfortunes._</para>
-
-<para>
-Don Quixote perceiving that he was not able to stir, resolved to have
+<para>Don Quixote perceiving that he was not able to stir, resolved to have
 recourse to his usual remedy, which was to bethink himself what
 passage in his books might afford him some comfort: and presently his
 frenzy brought to his remembrance the story of Baldwin and the Marquis
@@ -898,16 +882,12 @@ him home, this increased the curate's desire of effecting what he had
 resolved to do next morning: at which time he called upon his friend,
 Mr. Nicholas the barber, and went with him to Don Quixote's house.</para>
 
-<para></para>
+<chapter n="X" roman="VI">CHAPTER VI.</chapter>
 
-<para>
-CHAPTER VI.</para>
+<title>_Of the pleasant and curious scrutiny which the Curate and the Barber
+made of the library of our ingenious gentleman._</title>
 
-<para>_Of the pleasant and curious scrutiny which the Curate and the Barber
-made of the library of our ingenious gentleman._</para>
-
-<para>
-The knight was yet asleep, when the curate came, attended by the
+<para>The knight was yet asleep, when the curate came, attended by the
 barber, and desired his niece to let him have the key of the room
 where her uncle kept his books, the author of his woes: she readily
 consented; and so in they went, and the housekeeper with them. There
@@ -1078,15 +1058,11 @@ book to share the condemnation of the rest; for the author was not
 only one of the best poets in Spain, but in the whole world, and
 translated some of Ovid's fables with extraordinary success."</para>
 
-<para></para>
+<chapter n="X" roman="VII">CHAPTER VII.</chapter>
 
-<para>
-CHAPTER VII.</para>
+<title>_Don Quixote's second sally in quest of adventures._</title>
 
-<para>_Don Quixote's second sally in quest of adventures._</para>
-
-<para>
-Full fifteen days did our knight remain quietly at home, without
+<para>Full fifteen days did our knight remain quietly at home, without
 betraying the least sign of his desire to renew his rambling; during
 which time there passed a great deal of pleasant discourse between him
 and his two friends, the curate and the barber; while he maintained,
@@ -1169,17 +1145,13 @@ as much as she can handsomely manage." "Recommend the matter to
 providence," returned Don Quixote; "'twill be sure to give what is
 most expedient for thee."</para>
 
-<para></para>
+<chapter n="X" roman="VIII">CHAPTER VIII.</chapter>
 
-<para>
-CHAPTER VIII.</para>
-
-<para>_Of the good success which the valorous Don Quixote had in the most
+<title>_Of the good success which the valorous Don Quixote had in the most
 terrifying and incredible adventure of the Windmills, with other
-transactions worthy to be transmitted to posterity._</para>
+transactions worthy to be transmitted to posterity._</title>
 
-<para>
-As they were thus discoursing, they discovered some thirty or forty
+<para>As they were thus discoursing, they discovered some thirty or forty
 windmills, in the plain; and as soon as the knight had spied them,
 "Fortune," cried he, "directs our affairs better than we could have
 wished: look yonder, Sancho, there are at least thirty outrageous
@@ -1334,15 +1306,11 @@ present yourself to that lady, and let her know what I have done to
 purchase your deliverance." So saying he bade her courteously
 farewell, and pursued his way.</para>
 
-<para></para>
+<chapter n="X" roman="IX">CHAPTER IX.</chapter>
 
-<para>
-CHAPTER IX.</para>
+<title>_What passed between Don Quixote and the Goatherds._</title>
 
-<para>_What passed between Don Quixote and the Goatherds._</para>
-
-<para>
-After travelling the remainder of the day without further adventure,
+<para>After travelling the remainder of the day without further adventure,
 they came to a place where some goatherds had set up some small huts;
 and there they concluded to take up their lodging that night. This was
 as great a mortification to Sancho, who was altogether for a good
@@ -1500,15 +1468,11 @@ will to be buried." "I intend to be there," answered Don Quixote; "and
 in the mean time I return thee many thanks for the extraordinary
 satisfaction this story has afforded me."</para>
 
-<para></para>
+<chapter n="X" roman="X">CHAPTER X.</chapter>
 
-<para>
-CHAPTER X.</para>
+<title>_A continuation of the story of Marcella._</title>
 
-<para>_A continuation of the story of Marcella._</para>
-
-<para>
-Scarce had day begun to appear from the balconies of the east, when
+<para>Scarce had day begun to appear from the balconies of the east, when
 five of the goatherds got up, and having waked Don Quixote, asked him
 if he held to his resolution of going to the funeral, whither they
 were ready to bear him company. Thereupon the knight presently arose,
@@ -2149,15 +2113,11 @@ answered Sancho; "but let us begone hence, and endeavour to get a
 lodging to-night; and pray God it be where there are neither blankets
 or blanket-heavers, hobgoblins or enchanted Moors."</para>
 
-<para></para>
+<chapter n="X" roman="XI">CHAPTER XI.</chapter>
 
-<para>
-CHAPTER XI.</para>
+<title>_The sage discourse continued, with the adventures of a dead body._</title>
 
-<para>_The sage discourse continued, with the adventures of a dead body._</para>
-
-<para>
-Thus discoursing, night overtook them, and they were still in the high
+<para>Thus discoursing, night overtook them, and they were still in the high
 road; and the worst of it was, they were famished with hunger: for
 with their wallets they had lost their whole larder of provisions,
 and, to complete their misfortunes, an adventure now befell them which
@@ -2598,16 +2558,12 @@ truth," said Sancho, "since the noise of the hammers of a fulling-mill
 were sufficient to disturb and discompose the heart of so valorous a
 knight as your worship."</para>
 
-<para></para>
+<chapter n="X" roman="XII">CHAPTER XII.</chapter>
 
-<para>
-CHAPTER XII.</para>
+<title>_Which treats of the grand adventure of Mambrino's helmet, with other
+things which befel our invincible Knight._</title>
 
-<para>_Which treats of the grand adventure of Mambrino's helmet, with other
-things which befel our invincible Knight._</para>
-
-<para>
-About this time it began to rain, and Sancho proposed entering the
+<para>About this time it began to rain, and Sancho proposed entering the
 fulling-mill; but Don Quixote had conceived such an abhorrence for the
 late jest that he would by no means go in. Soon after he discovered a
 man on horseback, who had on his head something which glittered, as if
@@ -2995,16 +2951,12 @@ off, each taking a different course; more solicitous to escape the
 holy brotherhood than to drag their chain to Toboso and present
 themselves before the Lady Dulcinea.</para>
 
-<para></para>
+<chapter n="X" roman="XIII">CHAPTER XIII.</chapter>
 
-<para>
-CHAPTER XIII.</para>
+<title>_Of what befel Don Quixote in the Sierra Morena, being one of the most
+extraordinary adventures related in this faithful history._</title>
 
-<para>_Of what befel Don Quixote in the Sierra Morena, being one of the most
-extraordinary adventures related in this faithful history._</para>
-
-<para>
-Don Quixote, finding himself thus ill-requited, said to his squire:
+<para>Don Quixote, finding himself thus ill-requited, said to his squire:
 "Sancho, I have always heard it said that to do good to the vulgar is
 to throw water into the sea. Had I believed what you said to me, I
 might have prevented this trouble; but it is done, I must have
@@ -3297,15 +3249,11 @@ at the sight of him. In short, the first who broke silence after this
 prelude was the Tattered Knight; and what he said shall be told in the
 next chapter.</para>
 
-<para></para>
+<chapter n="X" roman="XIV">CHAPTER XIV.</chapter>
 
-<para>
-CHAPTER XIV.</para>
+<title>_A continuation of the adventure in the Sierra Morena._</title>
 
-<para>_A continuation of the adventure in the Sierra Morena._</para>
-
-<para>
-Don Quixote listened to the Tattered Knight of the mountain, who thus
+<para>Don Quixote listened to the Tattered Knight of the mountain, who thus
 addressed himself to him: "Assuredly, sigñor, whoever you are, I am
 obliged to you for the courtesy you have manifested towards me; and I
 wish it were in my power to serve you with more than my good-will,
@@ -3801,8 +3749,7 @@ forget my own name. Your worship, however, may read it to me; I shall
 be glad to hear it, for it must needs be very much to the purpose."
 "Listen, then," said Don Quixote, "this is what I have written:</para>
 
-<para>
-_Don Quixote's Letter to Dulcinea del Toboso._</para>
+<para>_Don Quixote's Letter to Dulcinea del Toboso._</para>
 
 <para>"High and sovereign lady,--He who is stabbed by the point of absence,
 and pierced by the arrows of love, O sweetest Dulcinea del Toboso,
@@ -3819,8 +3766,7 @@ my death I shall at once appease thy cruelty and my own passion.</para>
 
 <para>  THE KNIGHT OF THE SORROWFUL FIGURE."</para>
 
-<para>
-"By the life of my father," quoth Sancho, after hearing the letter,
+<para>"By the life of my father," quoth Sancho, after hearing the letter,
 "it is the finest thing I ever heard. How choicely your worship
 expresses whatever you please! and how well you close all with 'the
 Knight of the Sorrowful Figure!' Verily, there is nothing but what you
@@ -3867,16 +3813,12 @@ with an especial charge from Don Quixote to regard him as he would his
 own proper person, he rode towards the plain, strewing the boughs at
 intervals, as his master had directed him.</para>
 
-<para></para>
+<chapter n="X" roman="XV">CHAPTER XV.</chapter>
 
-<para>
-CHAPTER XV.</para>
+<title>_Of what happened to Don Quixote's Squire, with the famous device of
+the Curate and the Barber._</title>
 
-<para>_Of what happened to Don Quixote's Squire, with the famous device of
-the Curate and the Barber._</para>
-
-<para>
-The history recounting what the Knight of the Sorrowful Figure did
+<para>The history recounting what the Knight of the Sorrowful Figure did
 when he found himself alone, informs us that, having performed many
 strange antics after Sancho's departure, he mounted the top of a high
 rock, and began to deliberate on a subject that he had often
@@ -4044,16 +3986,12 @@ Quixote would consent to any such terms; and they might thus get him
 away from that place, and carry him home, where they would endeavour
 to find some remedy for his extraordinary malady.</para>
 
-<para></para>
+<chapter n="X" roman="XVI">CHAPTER XVI.</chapter>
 
-<para>
-CHAPTER XVI.</para>
+<title>_How the Priest and the Barber proceeded in their project; with other
+things worthy of being related._</title>
 
-<para>_How the Priest and the Barber proceeded in their project; with other
-things worthy of being related._</para>
-
-<para>
-The barber liked well the priest's contrivance, and they immediately
+<para>The barber liked well the priest's contrivance, and they immediately
 began to carry it into execution. They borrowed a petticoat and
 head-dress of the landlady; and the barber made himself a huge beard
 of the tail of a pied ox, in which the innkeeper used to hang his
@@ -4197,8 +4135,7 @@ repeated one which Don Fernando found between the leaves of Amadis de
 Gaul, which had been first lent to Lucinda, and afterwards to him. It
 was as follows:</para>
 
-<para>
-"'Each day I discover in you qualities which raise you in my esteem;
+<para>"'Each day I discover in you qualities which raise you in my esteem;
 and therefore, if you would put it in my power to discharge my
 obligations to you, without prejudice to my honour, you may easily do
 it. I have a father who knows you, and has an affection for me; who
@@ -4206,8 +4143,7 @@ will never force my inclinations, and will comply with whatever you
 can justly desire, if you really have that value for me which you
 profess, and which I trust you have.'</para>
 
-<para>
-"This letter had made me resolve to demand Lucinda in marriage; but it
+<para>"This letter had made me resolve to demand Lucinda in marriage; but it
 was this letter, also, which made him determine upon my ruin before my
 design could be effected. I told Don Fernando that Lucinda's father
 expected that the proposal should come from mine, but that I durst not
@@ -4264,8 +4200,7 @@ days hence! Conceive my situation! Heaven grant this may come to your
 hand before mine be compelled to join his who breaks his promised
 faith!'</para>
 
-<para>
-"I set out immediately; my rage against Don Fernando, and the fear of
+<para>"I set out immediately; my rage against Don Fernando, and the fear of
 losing the rich reward of my long service and affection, gave wings to
 my speed; and the next day I reached our town, at the moment
 favourable for an interview with Lucinda. I went privately, having
@@ -4394,16 +4329,12 @@ the priest was preparing to say something consolatory, he was
 prevented by the sound of a human voice, which, in a mournful tone,
 was heard to say what will be related in the following chapter.</para>
 
-<para></para>
-
-<para>
-CHAPTER XVII.</para>
+<para>CHAPTER XVII.</para>
 
 <para>_Of the new and agreeable adventure that befell the Priest and the
 Barber, and of the beautiful Dorothea._</para>
 
-<para>
-"Alas, is it possible that I have at last found out a place which will
+<para>"Alas, is it possible that I have at last found out a place which will
 afford a private grave to this miserable body, whose load I so repine
 to bear? Yes, if the silence and solitude of these deserts do not
 deceive me, here I may die concealed from human eyes. Ah me! ah
@@ -4697,16 +4628,12 @@ incessant sighs and tears, I implore Heaven to have pity on me, and
 either alleviate my misery or put an end to my life in this desert,
 that no traces may remain of so wretched a creature."</para>
 
-<para></para>
+<chapter n="X" roman="XVIII">CHAPTER XVIII.</chapter>
 
-<para>
-CHAPTER XVIII.</para>
+<title>_Which treats of the beautiful Dorothea's discretion; with other
+particulars._</title>
 
-<para>_Which treats of the beautiful Dorothea's discretion; with other
-particulars._</para>
-
-<para>
-"This, gentlemen," added Dorothea, "is my tragical story; think
+<para>"This, gentlemen," added Dorothea, "is my tragical story; think
 whether the sighs and tears which you have witnessed have not been
 more than justified. My misfortunes, as you will confess, are
 incapable of a remedy; and all I desire of you is to advise me how to
@@ -4966,16 +4893,12 @@ heavily to see what effect it would have upon Don Quixote; whose
 colour changed at every word, and he dared not confess that he had
 been the deliverer of those worthy gentlemen.</para>
 
-<para></para>
+<chapter n="X" roman="XIX">CHAPTER XIX.</chapter>
 
-<para>
-CHAPTER XIX.</para>
+<title>_Of the ingenious method pursued to withdraw our enamoured Knight from
+the rigorous penance which he had imposed on himself._</title>
 
-<para>_Of the ingenious method pursued to withdraw our enamoured Knight from
-the rigorous penance which he had imposed on himself._</para>
-
-<para>
-As soon as the priest had done speaking, Sancho said, "By my troth,
+<para>As soon as the priest had done speaking, Sancho said, "By my troth,
 sigñor, it was my master who did that feat; not but that I gave him
 fair warning, and advised him to mind what he was about, telling him
 that it was a sin to set them at liberty; for they were all going to
@@ -5301,16 +5224,12 @@ would say sovereign, lady; and at the bottom, 'yours until death, the
 Knight of the Sorrowful Figure;' and I put between these two things
 three hundred souls and lives."</para>
 
-<para></para>
+<chapter n="X" roman="XX">CHAPTER XX.</chapter>
 
-<para>
-CHAPTER XX.</para>
+<title>_The pleasant dialogue between Don Quixote and his Squire continued;
+with other adventures._</title>
 
-<para>_The pleasant dialogue between Don Quixote and his Squire continued;
-with other adventures._</para>
-
-<para>
-"All this is mighty well," said Don Quixote; "proceed therefore: you
+<para>"All this is mighty well," said Don Quixote; "proceed therefore: you
 arrived, and how was that queen of beauty then employed? On my
 conscience thou foundst her stringing of orient pearls, or
 embroidering some curious device in gold for me her captive knight;
@@ -5562,15 +5481,11 @@ him off, leaving Don Quixote highly incensed at his story, which moved
 the company to hold their laughter, lest they should raise his anger
 to a dangerous height.</para>
 
-<para></para>
+<chapter n="X" roman="XXI">CHAPTER XXI.</chapter>
 
-<para>
-CHAPTER XXI.</para>
+<title>_What befell Don Quixote and his company at the inn._</title>
 
-<para>_What befell Don Quixote and his company at the inn._</para>
-
-<para>
-When they had eaten plentifully they left that place, and travelled
+<para>When they had eaten plentifully they left that place, and travelled
 all that day and the next without meeting anything worth notice, till
 they came to the inn, which was so frightful a sight to poor Sancho,
 that he would willingly not have gone in, but could by no means avoid
@@ -5726,15 +5641,11 @@ supported the noble order are quite out of doors."</para>
 <para>[7] These were not fabulous heroes, though romantic authors have added
 much of fable to their true history.</para>
 
-<para></para>
+<chapter n="X" roman="XXII">CHAPTER XXII.</chapter>
 
-<para>
-CHAPTER XXII.</para>
+<title>_Of the dreadful battle betwixt Don Quixote and certain Wine-skins._</title>
 
-<para>_Of the dreadful battle betwixt Don Quixote and certain Wine-skins._</para>
-
-<para>
-The conversation was hardly concluded when Sancho Panza came running
+<para>The conversation was hardly concluded when Sancho Panza came running
 out of Don Quixote's chamber in a terrible fright, crying out, "Help,
 help, good people! help my master! He is just now at it tooth and nail
 with that same giant, the Princess Micomicona's foe; I never saw a
@@ -5844,15 +5755,11 @@ his cost when he was there before." Dorothea answered that she
 believed him; and desired him to pluck up his spirits, for all things
 would be well.</para>
 
-<para></para>
+<chapter n="X" roman="XXIII">CHAPTER XXIII.</chapter>
 
-<para>
-CHAPTER XXIII.</para>
+<title>_Containing an account of many surprising accidents in the inn._</title>
 
-<para>_Containing an account of many surprising accidents in the inn._</para>
-
-<para>
-At the same time the innkeeper, who stood at the door, seeing company
+<para>At the same time the innkeeper, who stood at the door, seeing company
 coming, "More guests," cried he; "a brave jolly troop, on my word. If
 they stop here, we may rejoice." "What are they?" said Cardenio. "Four
 men," said the host, "on horseback, with black masks on their faces,
@@ -6083,16 +5990,12 @@ accompanied with silence only and tears, they had travelled till they
 came to that inn, which proved to him as his arrival at heaven, having
 put a happy conclusion to all his earthly misfortunes.</para>
 
-<para></para>
+<chapter n="X" roman="XXIV">CHAPTER XXIV.</chapter>
 
-<para>
-CHAPTER XXIV.</para>
+<title>_The history of the famous Princess Micomicona continued; with other
+pleasant adventures._</title>
 
-<para>_The history of the famous Princess Micomicona continued; with other
-pleasant adventures._</para>
-
-<para>
-The joy of the whole company was unspeakable by the happy conclusion
+<para>The joy of the whole company was unspeakable by the happy conclusion
 of this perplexed business. Dorothea, Cardenio, and Lucinda thought
 the sudden change of their affairs too surprising to be real; and
 could hardly be induced to believe their happiness. Fernando thanked
@@ -6305,16 +6208,12 @@ stately beds of costly silks and softest linen, a reward due to their
 virtue. But yet their sufferings being compared to those the soldier
 endures, appear much inferior, as I shall in the next place make out."</para>
 
-<para></para>
+<chapter n="X" roman="XXV">CHAPTER XXV.</chapter>
 
-<para>
-CHAPTER XXV.</para>
+<title>_A continuation of Don Quixote's curious and excellent discourse upon
+arms and learning._</title>
 
-<para>_A continuation of Don Quixote's curious and excellent discourse upon
-arms and learning._</para>
-
-<para>
-"Since, speaking of the scholar, we began with his poverty, and its
+<para>"Since, speaking of the scholar, we began with his poverty, and its
 several parts," continued Don Quixote, "let us now observe whether the
 soldier be any richer than he; and we shall find that poverty itself
 is not poorer; for he depends on his miserable pay, which he receives
@@ -6414,16 +6313,12 @@ moved with compassion, to see a man who seemed, in all other respects,
 to have a sound judgment, so distracted when any mention was made of
 knight-errantry.</para>
 
-<para></para>
+<chapter n="X" roman="XXVI">CHAPTER XXVI.</chapter>
 
-<para>
-CHAPTER XXVI.</para>
+<title>_Of occurrences at the inn; and of many other things worthy to be
+known._</title>
 
-<para>_Of occurrences at the inn; and of many other things worthy to be
-known._</para>
-
-<para>
-Night was now advanced, and a coach arrived at the inn with some
+<para>Night was now advanced, and a coach arrived at the inn with some
 horsemen. The travellers wanted lodging for the night, but the
 hostess told them that there was not an inch of room disengaged in the
 whole inn. "Notwithstanding that," said one of the men on horseback,
@@ -6495,16 +6390,12 @@ enchantingly." Dorothea told him that they had heard him, upon which
 Cardenio retired. Then listening with much attention, Dorothea plainly
 distinguished the following words.</para>
 
-<para></para>
+<chapter n="X" roman="XXVII">CHAPTER XXVII.</chapter>
 
-<para>
-CHAPTER XXVII.</para>
+<title>_The agreeable history of the young muleteer; with other strange
+accidents._</title>
 
-<para>_The agreeable history of the young muleteer; with other strange
-accidents._</para>
-
-<para>
-  I.</para>
+<para>I.</para>
 
 <para>  Toss'd in doubts and fears I rove
   On the stormy seas of love;
@@ -6661,16 +6552,12 @@ very common in chivalry." The other horseman, impatient at the
 dialogue, repeated his knocks with so much violence that he roused not
 only the host, but all the company in the house.</para>
 
-<para></para>
+<chapter n="X" roman="XXVIII">CHAPTER XXVIII.</chapter>
 
-<para>
-CHAPTER XXVIII.</para>
+<title>_A continuation of the extraordinary adventures that happened in the
+inn._</title>
 
-<para>_A continuation of the extraordinary adventures that happened in the
-inn._</para>
-
-<para>
-The door being opened, they inquired of the host whether there was not
+<para>The door being opened, they inquired of the host whether there was not
 in the house a youth about fifteen years old, habited like a
 muleteer--in short, describing Donna Clara's lover. The host said that
 there were so many people in the inn, that he had not observed such a
@@ -6821,16 +6708,12 @@ those unlucky galley-slaves; and had it not been for that same
 basin-helmet, he would not have got off so well from the showers of
 stones which rained upon him in that skirmish."</para>
 
-<para></para>
+<chapter n="X" roman="XXIX">CHAPTER XXIX.</chapter>
 
-<para>
-CHAPTER XXIX.</para>
+<title>_In which the dispute concerning Mambrino's helmet is decided; with
+other adventures that really and truly happened._</title>
 
-<para>_In which the dispute concerning Mambrino's helmet is decided; with
-other adventures that really and truly happened._</para>
-
-<para>
-"Good sirs," quoth the barber, "hear what these gentlefolks say! They
+<para>"Good sirs," quoth the barber, "hear what these gentlefolks say! They
 will have it that this is no basin, but a helmet!" "Ay," said Don
 Quixote; "and whoever shall affirm the contrary, I will convince him,
 if he be a knight, that he lies, and if a squire, that he lies and
@@ -6965,16 +6848,12 @@ not courage, with his single arm, to bestow a hundred bastinadoes on
 any four hundred troopers of the holy brotherhood who shall dare to
 oppose him?"</para>
 
-<para></para>
+<chapter n="X" roman="XXX">CHAPTER XXX.</chapter>
 
-<para>
-CHAPTER XXX.</para>
+<title>_The notable adventure of the Holy Brotherhood; with an account of the
+ferocity of our good Knight, Don Quixote._</title>
 
-<para>_The notable adventure of the Holy Brotherhood; with an account of the
-ferocity of our good Knight, Don Quixote._</para>
-
-<para>
-While Don Quixote was thus haranguing the officers, the priest was
+<para>While Don Quixote was thus haranguing the officers, the priest was
 endeavouring to persuade them that, since Don Quixote, as they might
 easily perceive, was deranged in his mind, it was useless for them to
 proceed farther in the affair; for, if they were to apprehend him, he
@@ -7166,16 +7045,12 @@ perish in the prison wherein I am now enclosed, before these promises
 of joyful and heavenly import are fulfilled." The goblins then took
 the cage on their shoulders, and placed it on the waggon.</para>
 
-<para></para>
+<chapter n="X" roman="XXXI">CHAPTER XXXI.</chapter>
 
-<para>
-CHAPTER XXXI.</para>
+<title>_Of the strange and wonderful manner in which Don Quixote de la Mancha
+was enchanted; with other remarkable occurrences._</title>
 
-<para>_Of the strange and wonderful manner in which Don Quixote de la Mancha
-was enchanted; with other remarkable occurrences._</para>
-
-<para>
-"Many very grave historians of knights-errant have I read," said Don
+<para>"Many very grave historians of knights-errant have I read," said Don
 Quixote, on finding himself thus cooped up and carted, "but I never
 read, saw, or heard of enchanted knights being transported in this
 manner, and so slowly as these lazy, heavy animals seem to proceed;
@@ -7413,16 +7288,12 @@ knights-errant; and it is extraordinary that a gentleman possessed of
 your understanding and talents should give credit to such extravagance
 and absurdity."</para>
 
-<para></para>
+<chapter n="X" roman="XXXII">CHAPTER XXXII.</chapter>
 
-<para>
-CHAPTER XXXII.</para>
+<title>_Of the ingenious contest between Don Quixote and the Canon; with
+other incidents._</title>
 
-<para>_Of the ingenious contest between Don Quixote and the Canon; with
-other incidents._</para>
-
-<para>
-"A good jest, truly," said Don Quixote, "that books printed with the
+<para>"A good jest, truly," said Don Quixote, "that books printed with the
 license of kings and the approbation of the examiners, read with
 general pleasure, and applauded by great and small, poor and rich,
 learned and ignorant, nobles and plebeians,--in short, by people of
@@ -7540,15 +7411,11 @@ fold." The goat seemed to understand him; for as soon as her master
 was seated, she laid herself quietly down by him, and, looking up into
 his face, seemed to listen to his story, which he began as follows.</para>
 
-<para></para>
+<chapter n="X" roman="XXXIII">CHAPTER XXXIII.</chapter>
 
-<para>
-CHAPTER XXXIII.</para>
+<title>_The Goatherd's narrative._</title>
 
-<para>_The Goatherd's narrative._</para>
-
-<para>
-"Three leagues from this valley there is a town, which, though small,
+<para>"Three leagues from this valley there is a town, which, though small,
 is one of the richest in these parts; and among its inhabitants was a
 farmer of such an excellent character, that, though riches generally
 gain esteem, he was more respected for his good qualities than for his
@@ -7692,16 +7559,12 @@ tedious; but I shall be glad to make you amends by regaling you at my
 cottage, which is near, and where you will find new milk, good cheese,
 and abundance of fruit."</para>
 
-<para></para>
+<chapter n="X" roman="XXXIV">CHAPTER XXXIV.</chapter>
 
-<para>
-CHAPTER XXXIV.</para>
+<title>_Of the quarrel between Don Quixote and the Goatherd, with the rare
+adventure of the Disciplinants._</title>
 
-<para>_Of the quarrel between Don Quixote and the Goatherd, with the rare
-adventure of the Disciplinants._</para>
-
-<para>
-The goatherd's tale amused all his auditors, especially the canon, who
+<para>The goatherd's tale amused all his auditors, especially the canon, who
 was struck by his manner of telling it, which was more like that of a
 scholar and a gentleman than an unpolished goatherd; and he was
 convinced that the priest was perfectly right when he affirmed that
@@ -7911,16 +7774,12 @@ they were full of apprehensions lest they should lose him again as
 soon as he found himself a little better; and, indeed, the event
 proved that their fears were not groundless.</para>
 
-<para></para>
+<chapter n="X" roman="XXXV">CHAPTER XXXV.</chapter>
 
-<para>
-CHAPTER XXXV.</para>
+<title>_What passed between the Curate, the Barber, and Don Quixote,
+concerning his indisposition._</title>
 
-<para>_What passed between the Curate, the Barber, and Don Quixote,
-concerning his indisposition._</para>
-
-<para>
-The curate and the barber were almost a whole month without paying Don
+<para>The curate and the barber were almost a whole month without paying Don
 Quixote a visit, lest, calling to mind his former extravagances, he
 might take occasion to renew them. However, they failed not every day
 to see his niece and his housekeeper, whom they charged to treat and
@@ -8214,16 +8073,12 @@ niece and the housekeeper, who had left them some time before, were
 very obstreperous; which made them all hasten to know what was the
 matter.</para>
 
-<para></para>
+<chapter n="X" roman="XXXVI">CHAPTER XXXVI.</chapter>
 
-<para>
-CHAPTER XXXVI.</para>
+<title>_Of the memorable quarrel between Sancho Panza and Don Quixote's Niece
+and Housekeeper; with other pleasant passages._</title>
 
-<para>_Of the memorable quarrel between Sancho Panza and Don Quixote's Niece
-and Housekeeper; with other pleasant passages._</para>
-
-<para>
-The occasion of the noise which the niece and housekeeper made, was
+<para>The occasion of the noise which the niece and housekeeper made, was
 Sancho Panza's endeavouring to force his way into the house, while
 they at the same time held the door against him to keep him out. "What
 have you to do in this house?" cried one of them. "Go, keep to your
@@ -8362,16 +8217,12 @@ dialogue.</para>
 <para>[10] A sort of fruit in Spain, brought over by the Moors. Sancho meant
 Benengeli.</para>
 
-<para></para>
+<chapter n="X" roman="XXXVII">CHAPTER XXXVII.</chapter>
 
-<para>
-CHAPTER XXXVII.</para>
+<title>_The pleasant discourse between Don Quixote, Sancho Panza, and the
+bachelor Samson Carrasco._</title>
 
-<para>_The pleasant discourse between Don Quixote, Sancho Panza, and the
-bachelor Samson Carrasco._</para>
-
-<para>
-Don Quixote could not be persuaded that there was a history of
+<para>Don Quixote could not be persuaded that there was a history of
 himself extant, while yet the blood of those enemies he had cut off
 had scarce done reeking on the blade of his sword; so that they could
 not have already finished and printed the history of his mighty feats
@@ -8526,17 +8377,13 @@ then he struck his forehead, accompanied with convulsions of laughter.
 "That student," said the king, "is either out of his wits, or is
 _reading_ the _History of Don Quixote_."</para>
 
-<para></para>
+<chapter n="X" roman="XXXVIII">CHAPTER XXXVIII.</chapter>
 
-<para>
-CHAPTER XXXVIII.</para>
-
-<para>_The discourse continued; also the wise and pleasant dialogue between
+<title>_The discourse continued; also the wise and pleasant dialogue between
 Sancho Panza and Teresa Panza his wife; together with other passages
-worthy of happy memory._</para>
+worthy of happy memory._</title>
 
-<para>
-During this discourse Rozinante's neighing reached the ears of the
+<para>During this discourse Rozinante's neighing reached the ears of the
 party. Don Quixote took this for a lucky omen, and resolved to set out
 upon another sally within three or four days. He discovered his
 resolutions to the bachelor, and consulted him to know which way to
@@ -8702,16 +8549,12 @@ make her a countess, yet he would see and put it off as long as he
 could. Thus ended their dialogue, and he went back to Don Quixote to
 dispose every thing for a march.</para>
 
-<para></para>
+<chapter n="X" roman="XXXIX">CHAPTER XXXIX.</chapter>
 
-<para>
-CHAPTER XXXIX.</para>
+<title>_What passed between Don Quixote, his Niece, and the Housekeeper;
+being one of the most important chapters in the whole history._</title>
 
-<para>_What passed between Don Quixote, his Niece, and the Housekeeper;
-being one of the most important chapters in the whole history._</para>
-
-<para>
-While Sancho Panza and his wife Teresa Cascajo had the foregoing
+<para>While Sancho Panza and his wife Teresa Cascajo had the foregoing
 dialogue, Don Quixote's niece and housekeeper were not idle, guessing
 by a thousand signs that the knight intended a third sally. Therefore
 they endeavoured by all possible means to divert him from his design;
@@ -8841,16 +8684,12 @@ sympathise in his good or evil fortune. Don Quixote made him a
 promise, and then they parted; Samson went home, and the knight and
 squire continued their journey for the great city of Toboso.</para>
 
-<para></para>
+<chapter n="X" roman="XL">CHAPTER XL.</chapter>
 
-<para>
-CHAPTER XL.</para>
+<title>_Don Quixote's success in his journey to visit the Lady Dulcinea del
+Toboso._</title>
 
-<para>_Don Quixote's success in his journey to visit the Lady Dulcinea del
-Toboso._</para>
-
-<para>
-Don Quixote and his squire were no sooner parted from the bachelor,
+<para>Don Quixote and his squire were no sooner parted from the bachelor,
 but Rozinante began to neigh, and Dapple to bray; which both the
 knight and the squire interpreted as good omens, and most fortunate
 presages of their success; though the truth of the story is, that as
@@ -9006,16 +8845,12 @@ entry in the daytime, they spent the evening among some oaks not far
 distant from the place, till the prefixed moment came; then they
 entered the city, where they met with adventures indeed.</para>
 
-<para></para>
+<chapter n="X" roman="XLI">CHAPTER XLI.</chapter>
 
-<para>
-CHAPTER XLI.</para>
+<title>_That gives an account of things which you will know when you have
+read it._</title>
 
-<para>_That gives an account of things which you will know when you have
-read it._</para>
-
-<para>
-The sable night had spun out half her course, when Don Quixote and
+<para>The sable night had spun out half her course, when Don Quixote and
 Sancho entered Toboso. A profound silence reigned over all the town,
 and the inhabitants were fast asleep, and stretched out at their ease.
 Nothing disturbed the general tranquillity but now and then the
@@ -9109,16 +8944,12 @@ knight retired to a shady grove, while the squire returned in quest of
 the Lady Dulcinea; on which embassy things occurred well worthy of
 credit and renewed attention.</para>
 
-<para></para>
+<chapter n="X" roman="XLII">CHAPTER XLII.</chapter>
 
-<para>
-CHAPTER XLII.</para>
+<title>_Wherein is related the stratagem practised by Sancho, of enchanting
+the Lady Dulcinea; with other events no less ludicrous than true._</title>
 
-<para>_Wherein is related the stratagem practised by Sancho, of enchanting
-the Lady Dulcinea; with other events no less ludicrous than true._</para>
-
-<para>
-The knight's frenzy appears now to be carried to an excess beyond all
+<para>The knight's frenzy appears now to be carried to an excess beyond all
 conception. Having retired into a grove near the city of Toboso, he
 despatched Sancho with orders not to return into his presence till he
 had spoken to his lady, beseeching her that she would be pleased to
@@ -9316,16 +9147,12 @@ be present at a solemn festival annually held in that city. But before
 they reached it, events befell them which, for their importance,
 variety, and novelty, well deserve to be recorded and read.</para>
 
-<para></para>
+<chapter n="X" roman="XLIII">CHAPTER XLIII.</chapter>
 
-<para>
-CHAPTER XLIII.</para>
+<title>_Of the strange adventure which befell the valorous Don Quixote with
+the cart, or Death's caravan._</title>
 
-<para>_Of the strange adventure which befell the valorous Don Quixote with
-the cart, or Death's caravan._</para>
-
-<para>
-Don Quixote proceeded on his way at a slow pace, exceedingly pensive,
+<para>Don Quixote proceeded on his way at a slow pace, exceedingly pensive,
 musing on the base trick the enchanters had played him, in
 transforming his Lady Dulcinea into the homely figure of a peasant
 wench; nor could he devise any means of restoring her to her former
@@ -9474,16 +9301,12 @@ the wholesome advice that Sancho Panza gave his master, who the next
 day encountering an enamoured knight-errant, met with an adventure not
 a whit less important than the one just related.</para>
 
-<para></para>
+<chapter n="X" roman="XLIV">CHAPTER XLIV.</chapter>
 
-<para>
-CHAPTER XLIV.</para>
+<title>_Of the strange adventure which befell the valorous Don Quixote with
+the brave Knight of the Mirrors._</title>
 
-<para>_Of the strange adventure which befell the valorous Don Quixote with
-the brave Knight of the Mirrors._</para>
-
-<para>
-Don Quixote and his squire passed the night following their encounter
+<para>Don Quixote and his squire passed the night following their encounter
 with Death under some tall, umbrageous trees; and as they were
 refreshing themselves, by Sancho's advice, from the store of
 provisions carried by Dapple, he said to his master, "What a fool,
@@ -9652,16 +9475,12 @@ make one among the talking squires." The squires then withdrew, and a
 dialogue passed between them as lively as that of their masters was
 grave.</para>
 
-<para></para>
+<chapter n="X" roman="XLV">CHAPTER XLV.</chapter>
 
-<para>
-CHAPTER XLV.</para>
+<title>_Wherein is continued the adventure of the Knight of the Wood, with
+the wise and witty dialogue between the two Squires._</title>
 
-<para>_Wherein is continued the adventure of the Knight of the Wood, with
-the wise and witty dialogue between the two Squires._</para>
-
-<para>
-Having retired a little apart, the Squire of the Wood said to Sancho,
+<para>Having retired a little apart, the Squire of the Wood said to Sancho,
 "This is a toilsome life we squires to knights-errant lead; in good
 truth, we eat our bread by the sweat of our brows, which is one of the
 curses God laid upon our first parents." "You may say too, that we eat
@@ -9807,15 +9626,11 @@ of them, still keeping hold of the almost empty bottle, fell fast
 asleep; in which situation we will leave them at present, to relate
 what passed between the two knights.</para>
 
-<para></para>
+<chapter n="X" roman="XLVI">CHAPTER XLVI.</chapter>
 
-<para>
-CHAPTER XLVI.</para>
+<title>_Continuation again of the adventure of the Knight of the Wood._</title>
 
-<para>_Continuation again of the adventure of the Knight of the Wood._</para>
-
-<para>
-Much conversation passed between the two knights. Among other things,
+<para>Much conversation passed between the two knights. Among other things,
 he of the Wood said to Don Quixote, "In fact, sir knight, I must
 confess that, by destiny, or rather by choice, I became enamoured of
 the peerless Casildea de Vandalia:--peerless I call her, because she
@@ -10133,15 +9948,11 @@ and splinter his ribs. Don Quixote and Sancho continued their journey
 to Saragosa, where the history leaves them; to give some account of
 the Knight of the Mirrors and his well-snouted squire.</para>
 
-<para></para>
+<chapter n="X" roman="XLVII">CHAPTER XLVII.</chapter>
 
-<para>
-CHAPTER XLVII.</para>
+<title>_Giving an account of the Knight of the Mirrors and his Squire._</title>
 
-<para>_Giving an account of the Knight of the Mirrors and his Squire._</para>
-
-<para>
-Exceedingly happy, elated, and self-satisfied was Don Quixote at his
+<para>Exceedingly happy, elated, and self-satisfied was Don Quixote at his
 triumph over so valiant a knight as he imagined him of the Mirrors to
 be, and from whose promise he hoped to learn whether his adored
 mistress still remained in a state of enchantment. But Don Quixote
@@ -10253,15 +10064,11 @@ over him was complete." Sancho, well knowing the transformation of
 Dulcinea to have been a device of his own, would make no reply, lest
 he should betray himself.</para>
 
-<para></para>
+<chapter n="X" roman="XLVIII">CHAPTER XLVIII.</chapter>
 
-<para>
-CHAPTER XLVIII.</para>
+<title>_Of what befell Don Quixote with a worthy gentleman of La Mancha._</title>
 
-<para>_Of what befell Don Quixote with a worthy gentleman of La Mancha._</para>
-
-<para>
-While thus discoursing, they were overtaken by a gentleman, mounted on
+<para>While thus discoursing, they were overtaken by a gentleman, mounted on
 a fine mare, and dressed in a green cloth riding-coat faced with
 murry-coloured velvet, and a hunter's cap of the same; the mare's
 furniture corresponded in colour with his dress, and was adapted to
@@ -10436,17 +10243,13 @@ Sancho to bring him his helmet. Sancho, hearing him call aloud, left
 the shepherds, and clapping his heels vigorously to Dapple's sides,
 soon came trotting up to his master.</para>
 
-<para></para>
+<chapter n="X" roman="XLIX">CHAPTER XLIX.</chapter>
 
-<para>
-CHAPTER XLIX.</para>
-
-<para>_Where you will find set forth the highest proof that Don Quixote ever
+<title>_Where you will find set forth the highest proof that Don Quixote ever
 gave, or could give, of his courage; with the successful issue of the
-adventure of the Lions._</para>
+adventure of the Lions._</title>
 
-<para>
-They were now overtaken by the waggon, which was attended only by the
+<para>They were now overtaken by the waggon, which was attended only by the
 driver, mounted on one of the mules, and another man that sat on the
 fore part of it. Don Quixote making up to them, "Whither go ye,
 friends?" said he. "What waggon is this? What do you convey in it? And
@@ -10676,16 +10479,12 @@ so, proceeding a little faster than they had done before, about two in
 the afternoon they reached the village, and got to the house of Don
 Diego, whom now Don Quixote called the Knight of the Green Coat.</para>
 
-<para></para>
+<chapter n="X" roman="L">CHAPTER L.</chapter>
 
-<para>
-CHAPTER L.</para>
+<title>_How Don Quixote was entertained at the castle or house of the Knight
+of the Green Coat, with other extraordinary matters._</title>
 
-<para>_How Don Quixote was entertained at the castle or house of the Knight
-of the Green Coat, with other extraordinary matters._</para>
-
-<para>
-Don Quixote found that Don Diego de Miranda's house was spacious,
+<para>Don Quixote found that Don Diego de Miranda's house was spacious,
 after the country manner; the arms of the family were over the gate in
 rough stone,--the buttery in the foreyard, the cellar under the porch,
 and all around several great jars of the sort commonly made at Toboso;
@@ -10810,16 +10609,12 @@ ordered. But that which Don Quixote most admired was, the
 extraordinary silence he observed through the whole house, as if it
 had been a monastery of Carthusians.</para>
 
-<para></para>
+<chapter n="X" roman="LI">CHAPTER LI.</chapter>
 
-<para>
-CHAPTER LI.</para>
+<title>_The adventure of the Shepherd-Lover, and other truly comical
+passages._</title>
 
-<para>_The adventure of the Shepherd-Lover, and other truly comical
-passages._</para>
-
-<para>
-Don Quixote stayed four days at Don Diego's house, and during all that
+<para>Don Quixote stayed four days at Don Diego's house, and during all that
 time met with a very generous entertainment. However, he then desired
 his leave to go, and returned him a thousand thanks for his kind
 reception; letting him know that the duty of his profession did not
@@ -11036,15 +10831,11 @@ little out of the road, full sore against Sancho's will, who had not
 yet forgot the good lodging and entertainment he had at Don Diego's
 house or castle.</para>
 
-<para></para>
+<chapter n="X" roman="LII">CHAPTER LII.</chapter>
 
-<para>
-CHAPTER LII.</para>
+<title>_An account of rich Camacho's wedding, and what befell poor Basil._</title>
 
-<para>_An account of rich Camacho's wedding, and what befell poor Basil._</para>
-
-<para>
-Scarce had the fair Aurora given place to the refulgent ruler of the
+<para>Scarce had the fair Aurora given place to the refulgent ruler of the
 day, and given him time, with the heat of his prevailing rays, to dry
 the liquid pearls on his golden locks, when Don Quixote, shaking off
 sluggish sleep from his drowsy limbs, arose and called his squire:
@@ -11163,15 +10954,11 @@ fairest in the world!" Poor ignorants (thought Don Quixote,
 overhearing them), you speak as you know; but had you ever seen my
 Dulcinea del Toboso, you would not be so lavish of your praises.</para>
 
-<para></para>
+<chapter n="X" roman="LIII">CHAPTER LIII.</chapter>
 
-<para>
-CHAPTER LIII.</para>
+<title>_The progress of Camacho's wedding; with other delightful accidents._</title>
 
-<para>_The progress of Camacho's wedding; with other delightful accidents._</para>
-
-<para>
-Don Quixote and Sancho were now interrupted by a great noise of joy
+<para>Don Quixote and Sancho were now interrupted by a great noise of joy
 and acclamation raised by the horsemen, who, shouting and galloping,
 went to meet the young couple; who, surrounded by a thousand
 instruments and devices, were coming to the arbour, accompanied by the
@@ -11397,15 +11184,11 @@ appearance of modesty is in one sense as good as the reality; since a
 private sin is not so prejudicial in this world as a public
 indecency."</para>
 
-<para></para>
+<chapter n="X" roman="LIV">CHAPTER LIV.</chapter>
 
-<para>
-CHAPTER LIV.</para>
+<title>_An account of the great adventure of Montesinos' cave._</title>
 
-<para>_An account of the great adventure of Montesinos' cave._</para>
-
-<para>
-Don Quixote having tarried three days with the young couple, and been
+<para>Don Quixote having tarried three days with the young couple, and been
 entertained like a prince, he entreated the student who fenced so well
 to help him to a guide that might conduct him to Montesinos' cave,
 resolving to go down into it, and prove by his own eyesight the
@@ -11540,17 +11323,13 @@ together, like men that were a meal or two behindhand. When they had
 done, "Let no man stir," said Don Quixote; "sit still, and hear me
 with attention."</para>
 
-<para></para>
+<chapter n="X" roman="LV">CHAPTER LV.</chapter>
 
-<para>
-CHAPTER LV.</para>
-
-<para>_Of the wonderful things which the unparalleled Don Quixote declared
+<title>_Of the wonderful things which the unparalleled Don Quixote declared
 he had seen in the deep cave of Montesinos, the greatness and
-impossibility of which make this adventure pass for apocryphal._</para>
+impossibility of which make this adventure pass for apocryphal._</title>
 
-<para>
-It was now past four in the afternoon, and the sun was opportunely hid
+<para>It was now past four in the afternoon, and the sun was opportunely hid
 behind the clouds, which, interposing between his rays, invited Don
 Quixote, without heat or trouble, to relate the wonders he had seen in
 Montesinos' cave.</para>
@@ -11828,17 +11607,13 @@ there will come a time when I shall give thee an account of some
 things I have seen below, that will convince thee of the reality of
 those I told thee now, the truth of which admits of no dispute."</para>
 
-<para></para>
+<chapter n="X" roman="LVI">CHAPTER LVI.</chapter>
 
-<para>
-CHAPTER LVI.</para>
-
-<para>_Which gives an account of a thousand trifles and stories, as
+<title>_Which gives an account of a thousand trifles and stories, as
 impertinent as necessary to the right understanding of this grand
-history._</para>
+history._</title>
 
-<para>
-The scholar thought Sancho the most saucy servant, and his master the
+<para>The scholar thought Sancho the most saucy servant, and his master the
 calmest madman, that ever he saw; though he attributed the patience of
 the latter to a certain good humour and easiness of temper, infused
 into him by the sight of his mistress Dulcinea, even under
@@ -12007,16 +11782,12 @@ stable. Sancho was very well pleased to be at his journey's end; and
 the more that his master took the house for a real inn, and not for a
 castle, as he used to do.</para>
 
-<para></para>
+<chapter n="X" roman="LVII">CHAPTER LVII.</chapter>
 
-<para>
-CHAPTER LVII.</para>
+<title>_Where you find the grounds of the braying adventures, that of the
+Puppet-player, and the memorable divining of the fortune-telling Ape._</title>
 
-<para>_Where you find the grounds of the braying adventures, that of the
-Puppet-player, and the memorable divining of the fortune-telling Ape._</para>
-
-<para>
-Don Quixote was on thorns to know the strange story that the fellow
+<para>Don Quixote was on thorns to know the strange story that the fellow
 upon the road engaged to tell him; so that, going into the stable, he
 minded him of his promise, and pressed him to relate the whole matter.
 "My story will take up some time," quoth the man, "and is not to be
@@ -12266,15 +12037,11 @@ the scholar, and the page, being preferred to the rest, the boy began
 a story that shall be heard or seen by those who will take the pains
 to read or hear the next chapter.</para>
 
-<para></para>
+<chapter n="X" roman="LVIII">CHAPTER LVIII.</chapter>
 
-<para>
-CHAPTER LVIII.</para>
+<title>_A pleasant account of the Puppet-play; with other very good things._</title>
 
-<para>_A pleasant account of the Puppet-play; with other very good things._</para>
-
-<para>
-"Gentlemen," said the boy, raising his voice, "we present you here
+<para>"Gentlemen," said the boy, raising his voice, "we present you here
 with a true history, taken out of the chronicles of France, and the
 Spanish ballads, sung even by the boys about the streets, and in every
 body's mouth; it tells you how Don Gayferos delivered his wife
@@ -12523,16 +12290,12 @@ and proceeded on their journey; during which some other matters
 occurred, a knowledge of which is very requisite for the better
 understanding of this famous history.</para>
 
-<para></para>
+<chapter n="X" roman="LIX">CHAPTER LIX.</chapter>
 
-<para>
-CHAPTER LIX.</para>
+<title>_Wherein is shewn Don Quixote's ill success in the braying adventure,
+which did not end so happily as he desired and expected._</title>
 
-<para>_Wherein is shewn Don Quixote's ill success in the braying adventure,
-which did not end so happily as he desired and expected._</para>
-
-<para>
-After Don Quixote had left the inn, he resolved to take a sight of the
+<para>After Don Quixote had left the inn, he resolved to take a sight of the
 river Ebro, and the country about it, before he went to Saragosa,
 since he was not straitened for time; but might do that, and yet
 arrive soon enough to make one at the jousts and tournaments in that
@@ -12702,16 +12465,12 @@ overjoyed to have shewn their courage, without danger, that, had they
 been so well bred as to have known the ancient custom of the Greeks,
 they would have erected a trophy in that place.</para>
 
-<para></para>
+<chapter n="X" roman="LX">CHAPTER LX.</chapter>
 
-<para>
-CHAPTER LX.</para>
+<title>_Of some things which he that reads shall know, if he reads them with
+attention._</title>
 
-<para>_Of some things which he that reads shall know, if he reads them with
-attention._</para>
-
-<para>
-When the valiant man flies, he must have discovered some foul play,
+<para>When the valiant man flies, he must have discovered some foul play,
 and it is the part of prudent persons to reserve themselves for more
 favourable opportunities. This truth is verified in Don Quixote; who,
 rather than expose himself to the fury of an incensed and
@@ -12868,15 +12627,11 @@ cold. As for Don Quixote, he entertained himself with his usual
 imaginations. However, they both slept, and by break of day were ready
 to continue their journey.</para>
 
-<para></para>
-
-<para>
-CHAPTER LXI.</para>
+<chapter n="X" roman="LXI">CHAPTER LXI.</chapter>
 
 <para>_What happened to Don Quixote with the fair Huntress._</para>
 
-<para>
-It happened that the next day about sunset, as they were coming out of
+<para>It happened that the next day about sunset, as they were coming out of
 the wood, Don Quixote cast his eyes on a verdant meadow, and at the
 farther end of it descried a company, whom, upon a nearer view, he
 judged to be persons of quality taking the diversion of hawking.
@@ -12999,15 +12754,11 @@ duchess, who esteemed themselves very fortunate in having an
 opportunity to entertain at their castle such a knight-errant and such
 an erring squire.</para>
 
-<para></para>
+<chapter n="X" roman="LXII">CHAPTER LXII.</chapter>
 
-<para>
-CHAPTER LXII.</para>
+<title>_Which treats of many and great matters._</title>
 
-<para>_Which treats of many and great matters._</para>
-
-<para>
-Sancho was overjoyed to find himself so much in the duchess's favour,
+<para>Sancho was overjoyed to find himself so much in the duchess's favour,
 flattering himself that he should fare no worse at her castle than he
 had done at Don Diego's and Basil's houses; for he was ever a cordial
 friend to a plentiful way of living, and therefore never failed to
@@ -13187,16 +12938,12 @@ But at last, seeing him silent, without minding his respect to the
 duke and duchess, up he started with indignation and fury in his
 looks, and said----But his answer deserves a chapter by itself.</para>
 
-<para></para>
+<chapter n="X" roman="LXIII">CHAPTER LXIII.</chapter>
 
-<para>
-CHAPTER LXIII.</para>
+<title>_Don Quixote's answer to his reprover; with other grave and merry
+accidents._</title>
 
-<para>_Don Quixote's answer to his reprover; with other grave and merry
-accidents._</para>
-
-<para>
-Don Quixote having thus suddenly got up, with his whole frame agitated
+<para>Don Quixote having thus suddenly got up, with his whole frame agitated
 with indignation, cast an angry look on his indiscreet censor, and
 thus spake: "This place, the presence of these noble persons, and the
 respect I have always had for your function, check my just resentment,
@@ -13459,16 +13206,12 @@ nap, some four or five hours long, in a summer's afternoon; but to do
 her good honour a kindness, he would break an old custom for once, and
 do his best to hold up that day, and wait on her worship.</para>
 
-<para></para>
+<chapter n="X" roman="LXIV">CHAPTER LXIV.</chapter>
 
-<para>
-CHAPTER LXIV.</para>
+<title>_Containing ways and means for disenchanting the peerless Dulcinea del
+Toboso, being one of the most famous adventures in the whole book._</title>
 
-<para>_Containing ways and means for disenchanting the peerless Dulcinea del
-Toboso, being one of the most famous adventures in the whole book._</para>
-
-<para>
-The duke and duchess were extremely diverted with the humours of their
+<para>The duke and duchess were extremely diverted with the humours of their
 guests. Resolving, therefore, to improve their sport by carrying on
 some pleasant design that might bear the appearance of an adventure,
 they took the hint from Don Quixote's account of Montesinos' cave, as
@@ -13691,16 +13434,12 @@ sign of feasting and merriment." "We shall know presently what this
 will come to," said Don Quixote; and he said right, for you will find
 it in the next chapter.</para>
 
-<para></para>
+<chapter n="X" roman="LXV">CHAPTER LXV.</chapter>
 
-<para>
-CHAPTER LXV.</para>
+<title>_Wherein is contained the information given to Don Quixote how to
+disenchant Dulcinea; with other wonderful passages._</title>
 
-<para>_Wherein is contained the information given to Don Quixote how to
-disenchant Dulcinea; with other wonderful passages._</para>
-
-<para>
-When the pleasant music drew near, there appeared a stately triumphal
+<para>When the pleasant music drew near, there appeared a stately triumphal
 chariot, drawn by six dun mules, covered with white, upon each of
 which sat a penitent, clad also in white, and holding a great lighted
 torch in his hand. The carriage was twice or thrice longer than any of
@@ -13845,17 +13584,13 @@ ingenious project, returned highly gratified to their castle, and
 determined on the continuation of fictions, which afforded more
 pleasures than realities.</para>
 
-<para></para>
+<chapter n="X" roman="LXVI">CHAPTER LXVI.</chapter>
 
-<para>
-CHAPTER LXVI.</para>
-
-<para>_Wherein is recorded the wonderful and inconceivable adventure of the
+<title>_Wherein is recorded the wonderful and inconceivable adventure of the
 afflicted Duenna, or the Countess of Trifaldi; and likewise Sancho
-Panza's letter to his wife Teresa Panza._</para>
+Panza's letter to his wife Teresa Panza._</title>
 
-<para>
-The whole contrivance of the last adventure was the work of the duke's
+<para>The whole contrivance of the last adventure was the work of the duke's
 steward; a man of a humorous and facetious turn of mind. He it was who
 composed the verses, instructed a page to perform the part of
 Dulcinea, and personated himself the shade of Merlin. Assisted by the
@@ -13889,8 +13624,7 @@ duchess; "for I dare say it shews the quality and extent of your
 genius." Sancho took the letter out of his bosom, unsealed, and the
 duchess read as follows:--</para>
 
-<para>
-_Sancho Panza's Letter to his wife Teresa Panza._</para>
+<para>_Sancho Panza's Letter to his wife Teresa Panza._</para>
 
 <para>"If I have been finely lashed, I have been finely mounted up; if I
 have got a good government, it has cost me many good lashes. This, my
@@ -13927,8 +13661,7 @@ art sure to be rich and happy.</para>
 
 <para>  "From this castle, the 20th of July, 1614."</para>
 
-<para>
-The duchess, having read the letter, said to Sancho: "In two things
+<para>The duchess, having read the letter, said to Sancho: "In two things
 the good governor is a little out of the way; the one in saying, or
 insinuating, that this government is conferred on him on account of
 the lashes he is to give himself; whereas he cannot deny that, when my
@@ -14009,15 +13742,11 @@ lady come forward and make known her request, and, be it whatever it
 may, she may rely on the strength of this arm, and the resolute
 courage of my soul."</para>
 
-<para></para>
+<chapter n="X" roman="LXVII">CHAPTER LXVII.</chapter>
 
-<para>
-CHAPTER LXVII.</para>
+<title>_In which is continued the famous adventure of the afflicted Duenna._</title>
 
-<para>_In which is continued the famous adventure of the afflicted Duenna._</para>
-
-<para>
-The duke and duchess were extremely delighted to find Don Quixote
+<para>The duke and duchess were extremely delighted to find Don Quixote
 wrought up into a mood so favourable to their design; but Sancho was
 not so well satisfied. "I should be sorry," said he, "that this madam
 duenna should lay any stumbling-block in the way of my promised
@@ -14063,15 +13792,11 @@ a word is enough to the wise." "Sancho is right," quoth the duke; "but
 let us see what kind of a countess this is, and then we shall judge
 what courtesy is due to her."</para>
 
-<para></para>
+<chapter n="X" roman="LXVIII">CHAPTER LXVIII.</chapter>
 
-<para>
-CHAPTER LXVIII.</para>
+<title>_Of the account given by the afflicted Duenna of her misfortunes._</title>
 
-<para>_Of the account given by the afflicted Duenna of her misfortunes._</para>
-
-<para>
-The doleful musicians were followed by twelve duennas, in two ranks,
+<para>The doleful musicians were followed by twelve duennas, in two ranks,
 clad in large mourning robes, with white veils of thin muslin that
 almost reached to their feet. Then came the Countess Trifaldi herself,
 led by her squire Trifaldin of the White Beard. She was clad in a
@@ -14242,16 +13967,12 @@ swear the world is the same every where! But pray get on, good Madam
 Trifaldi, for it grows late, and I am on thorns till I know the end of
 this long story." "I shall be brief," answered the countess.</para>
 
-<para></para>
+<chapter n="X" roman="LXIX">CHAPTER LXIX.</chapter>
 
-<para>
-CHAPTER LXIX.</para>
+<title>_Wherein the Countess Trifaldi continues her stupendous and memorable
+history._</title>
 
-<para>_Wherein the Countess Trifaldi continues her stupendous and memorable
-history._</para>
-
-<para>
-Every word uttered by Sancho was the cause of much delight to the
+<para>Every word uttered by Sancho was the cause of much delight to the
 duchess, and disgust to Don Quixote, who having commanded him to hold
 his peace, the Afflicted went on. "After many questions and answers,"
 said she, "the infanta stood firm to her engagement, without varying a
@@ -14322,16 +14043,12 @@ scimitar, rather than have obscured the light of our countenances with
 such an odious cloud!" Here, being overcome with the strong sense of
 her calamity, she fell into a swoon.</para>
 
-<para></para>
+<chapter n="X" roman="LXX">CHAPTER LXX.</chapter>
 
-<para>
-CHAPTER LXX.</para>
+<title>_Which treats of matters relating and appertaining to this adventure,
+and to this memorable history._</title>
 
-<para>_Which treats of matters relating and appertaining to this adventure,
-and to this memorable history._</para>
-
-<para>
-The history then proceeds to relate, that when Sancho saw the
+<para>The history then proceeds to relate, that when Sancho saw the
 afflicted lady faint away, he said, "Upon the word of an honest man, I
 swear I never heard or saw, nor has my master ever told me, nor did
 such an adventure as this ever enter into his thoughts! A thousand
@@ -14483,16 +14200,12 @@ shield and refuge of the reviled and oppressed duennian order,
 abominated by apothecaries, calumniated by squires, and scoffed at by
 pages!"</para>
 
-<para></para>
+<chapter n="X" roman="LXXI">CHAPTER LXXI.</chapter>
 
-<para>
-CHAPTER LXXI.</para>
+<title>_Of the arrival of Clavileno; with the conclusion of this prolix
+adventure._</title>
 
-<para>_Of the arrival of Clavileno; with the conclusion of this prolix
-adventure._</para>
-
-<para>
-Evening now came on, which was the time when the famous horse
+<para>Evening now came on, which was the time when the famous horse
 Clavileno was expected to arrive. When lo, on a sudden, four savages
 entered the garden, all clad in green ivy, and bearing on their
 shoulders a large wooden horse! They set him upon his legs on the
@@ -14683,8 +14396,7 @@ increased when, on a huge lance sticking in the earth they beheld a
 sheet of white parchment attached to it by silken strings, whereon was
 written, in letters of gold, the following words:</para>
 
-<para>
-"The renowned knight Don Quixote de la Mancha has achieved the
+<para>"The renowned knight Don Quixote de la Mancha has achieved the
 stupendous adventure of Trifaldi the Afflicted, and her companions in
 grief, only by attempting it. Malambruno is satisfied, his wrath is
 appeased, the beards of the unhappy are vanished, and Don Clavijo and
@@ -14693,8 +14405,7 @@ penance shall be completed, then shall the white dove, delivered from
 the cruel talons of the pursuing hawks, be enfolded in the arms of her
 beloved turtle:--such is the will of Merlin, prince of enchanters."</para>
 
-<para>
-Don Quixote having read the prophetic decree, and perceiving at once
+<para>Don Quixote having read the prophetic decree, and perceiving at once
 that it referred to the disenchantment of Dulcinea, he expressed his
 gratitude to Heaven for having, with so much ease, performed so great
 an exploit, whereby many venerable females had been happily rescued
@@ -14779,16 +14490,12 @@ ear), "if thou wouldst have us credit all thou hast told us just now,
 I expect thee to believe what I saw in Montesinos' cave--I say no
 more."</para>
 
-<para></para>
+<chapter n="X" roman="LXXII">CHAPTER LXXII.</chapter>
 
-<para>
-CHAPTER LXXII.</para>
+<title>_The instructions which Don Quixote gave to Sancho Panza, before he
+went to his government; with other well-digested matter._</title>
 
-<para>_The instructions which Don Quixote gave to Sancho Panza, before he
-went to his government; with other well-digested matter._</para>
-
-<para>
-The duke and duchess being so well pleased with the adventure of the
+<para>The duke and duchess being so well pleased with the adventure of the
 afflicted duenna were encouraged to proceed with other projects,
 seeing that there was nothing too extravagant for the credulity of the
 knight and the squire. The necessary orders were accordingly issued to
@@ -14920,15 +14627,11 @@ and pious hands, shall close thine eyes.</para>
 ornament of thy mind; now listen to the directions I have to give
 concerning thy person and deportment."</para>
 
-<para></para>
+<chapter n="X" roman="LXXIII">CHAPTER LXXIII.</chapter>
 
-<para>
-CHAPTER LXXIII.</para>
+<title>_Of the second instruction Don Quixote gave Sancho Panza._</title>
 
-<para>_Of the second instruction Don Quixote gave Sancho Panza._</para>
-
-<para>
-During the whole of this private conference, Sancho listened to his
+<para>During the whole of this private conference, Sancho listened to his
 master with great attention, and endeavoured so to register his
 counsel in his mind that he might thereby be enabled to bear the
 burden of government, and acquit himself honourably. Don Quixote now
@@ -15051,16 +14754,12 @@ before thee; and act upon just grounds, for Heaven always favours good
 desires. And so let us go to dinner; for I believe now the duke and
 duchess expect us."</para>
 
-<para></para>
+<chapter n="X" roman="LXXIV">CHAPTER LXXIV.</chapter>
 
-<para>
-CHAPTER LXXIV.</para>
+<title>_How Sancho Panza was carried to his government; and of the strange
+adventure that befell Don Quixote in the castle._</title>
 
-<para>_How Sancho Panza was carried to his government; and of the strange
-adventure that befell Don Quixote in the castle._</para>
-
-<para>
-After dinner, Don Quixote gave Sancho, in writing, the copy of his
+<para>After dinner, Don Quixote gave Sancho, in writing, the copy of his
 verbal instructions, ordering him to get somebody to read them to him.
 But the squire had no sooner got them, than he dropt the paper, which
 fell into the duke's hands, who communicating the same to the duchess,
@@ -15206,16 +14905,12 @@ affront. There let us leave him a while, seeing that the great Sancho
 Panza calls upon us to attend him on the commencement of his famous
 government.</para>
 
-<para></para>
+<chapter n="X" roman="LXXV">CHAPTER LXXV.</chapter>
 
-<para>
-CHAPTER LXXV.</para>
+<title>_How the great Sancho Panza took possession of his island, and in what
+manner he began to govern._</title>
 
-<para>_How the great Sancho Panza took possession of his island, and in what
-manner he began to govern._</para>
-
-<para>
-After having travelled a certain distance, Governor Sancho, with his
+<para>After having travelled a certain distance, Governor Sancho, with his
 attendants, came to a town that had about a thousand inhabitants, and
 was one of the best in the duke's territories. They gave him to
 understand that the name of the place was the island of Barataria. As
@@ -15350,15 +15045,11 @@ he had been thought to deserve.</para>
 who requires our attendance, Altisidora's serenade having strangely
 discomposed his mind.</para>
 
-<para></para>
+<chapter n="X" roman="LXXVI">CHAPTER LXXVI.</chapter>
 
-<para>
-CHAPTER LXXVI.</para>
+<title>_Of a dreadful alarm which Don Quixote experienced._</title>
 
-<para>_Of a dreadful alarm which Don Quixote experienced._</para>
-
-<para>
-We left the great Don Quixote profoundly buried in the thoughts into
+<para>We left the great Don Quixote profoundly buried in the thoughts into
 which Altisidora's serenade had plunged him. At the return of light,
 our knight, more early than the sun, forsook his downy bed, put on his
 chamois apparel, and, drawing on his walking-boots, concealed in one
@@ -15487,16 +15178,12 @@ pleasant than the last; which, however, cannot be now related; for the
 historian must return to Sancho Panza, who was very busy, and no less
 pleasant, in his government.</para>
 
-<para></para>
+<chapter n="X" roman="LXXVII">CHAPTER LXXVII.</chapter>
 
-<para>
-CHAPTER LXXVII.</para>
+<title>_Which gives a further account of Sancho Panza's behaviour in his
+government_.</title>
 
-<para>_Which gives a further account of Sancho Panza's behaviour in his
-government_.</para>
-
-<para>
-The history informs us that Sancho was conducted from the court of
+<para>The history informs us that Sancho was conducted from the court of
 justice to a sumptuous palace, where, in a spacious room, he found the
 cloth laid, and a magnificent entertainment prepared. As soon as he
 entered, the wind-music played, and four pages waited on him with
@@ -15600,8 +15287,7 @@ business that was to be told only in private. Sancho ordered every one
 to leave the room, except the steward and the carver, and then the
 secretary read what follows.</para>
 
-<para>
-"I have received information, my Lord Don Sancho Panza, that some of
+<para>"I have received information, my Lord Don Sancho Panza, that some of
 our enemies intend to attack your island with great fury one of these
 nights: you ought, therefore, to be watchful, and stand upon your
 guard, that you may not be found unprovided. I have also had
@@ -15617,8 +15303,7 @@ castle, the 16th of August, at four in the morning.</para>
 
 <para>  "THE DUKE."</para>
 
-<para>
-Sancho was astonished at the news, and those that were with him were
+<para>Sancho was astonished at the news, and those that were with him were
 no less concerned. But at last, turning to the steward, "I will tell
 you," said he, "what is first to be done in this case, and that with
 all speed. Clap that same Doctor Rezio in a dungeon; for if any body
@@ -15748,16 +15433,12 @@ than eight days' retirement; during which time there happened that
 which we promise to relate with the same punctuality and veracity with
 which all the particulars of this history are detailed.</para>
 
-<para></para>
+<chapter n="X" roman="LXXVIII">CHAPTER LXXVIII.</chapter>
 
-<para>
-CHAPTER LXXVIII.</para>
+<title>_What happened to Don Quixote with Donna Rodriguez; as also other
+passages worthy to be recorded._</title>
 
-<para>_What happened to Don Quixote with Donna Rodriguez; as also other
-passages worthy to be recorded._</para>
-
-<para>
-Don Quixote, thus unhappily hurt, was extremely discontented and
+<para>Don Quixote, thus unhappily hurt, was extremely discontented and
 melancholy. He was some days without appearing in public; and one
 night, when he was thus confined to his apartment, as he lay awake
 reflecting on his misfortunes and Altisidora's importunities, he
@@ -15880,15 +15561,11 @@ enchanter could be that had used him in that manner. But now let us
 leave him, and return to Sancho Panza, who calls upon us, as the order
 of our history requires.</para>
 
-<para></para>
+<chapter n="X" roman="LXXIX">CHAPTER LXXIX.</chapter>
 
-<para>
-CHAPTER LXXIX.</para>
+<title>_What happened to Sancho Panza as he went the rounds in his island._</title>
 
-<para>_What happened to Sancho Panza as he went the rounds in his island._</para>
-
-<para>
-We left our mighty governor much out of humour with that saucy knave
+<para>We left our mighty governor much out of humour with that saucy knave
 of a countryman, who, according to the instructions he had received
 from the steward, and the steward from the duke, had bantered his
 worship with his impertinence. Yet, as much a dunce and fool as he
@@ -16211,16 +15888,12 @@ to strike a match between the young man and his daughter Sanchica; and
 he resolved to bring it about as soon as possible--believing no man's son
 could think himself too good for a governor's daughter.</para>
 
-<para></para>
+<chapter n="X" roman="LXXX">CHAPTER LXXX.</chapter>
 
-<para>
-CHAPTER LXXX.</para>
+<title>_Which narrates the success of the page that carried Sancho's letter
+to his wife._</title>
 
-<para>_Which narrates the success of the page that carried Sancho's letter
-to his wife._</para>
-
-<para>
-The duchess, having a great desire to continue the merriment which Don
+<para>The duchess, having a great desire to continue the merriment which Don
 Quixote's extravagances afforded them, the page that acted the part of
 Dulcinea in the wood was despatched away to Teresa Panza with a letter
 from her husband (for Sancho, having his head full of his government,
@@ -16290,8 +15963,7 @@ you." With that he read the letter, which is now omitted, because it
 has been inserted before. That done, he pulled out another from the
 duchess, which runs as follows:</para>
 
-<para>
-  "FRIEND TERESA,</para>
+<para>"FRIEND TERESA,</para>
 
 <para>"Your husband Sancho's good parts, his wit and honesty, obliged me to
 desire the duke, my husband, to bestow on him the government of one of
@@ -16319,8 +15991,7 @@ and have.</para>
 
 <para>  "From this castle."</para>
 
-<para>
-"Ah!" quoth Teresa, when she had heard the letter, "what a good lady
+<para>"Ah!" quoth Teresa, when she had heard the letter, "what a good lady
 is this! not a bit of pride in her! Let me be buried with such ladies,
 and not with such proud madams as we have in our town; who, because
 they are gentlefolks, forsooth, think the wind must not blow on them,
@@ -16449,16 +16120,12 @@ wrote two letters for her,--one to her husband, and the other to the
 duchess, all of her own inditing; and perhaps not the worst in this
 famous history, as hereafter may be seen.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXI">CHAPTER LXXXI.</chapter>
 
-<para>
-CHAPTER LXXXI.</para>
+<title>_A continuation of Sancho Panza's government; with other entertaining
+passages._</title>
 
-<para>_A continuation of Sancho Panza's government; with other entertaining
-passages._</para>
-
-<para>
-The morning of that day arose which succeeded the governor's round,
+<para>The morning of that day arose which succeeded the governor's round,
 the remainder of which the gentleman-waiter spent not in sleep, but in
 the pleasing thoughts of the lovely face and charming grace of the
 disguised maiden; on the other side, the steward bestowed that time in
@@ -16555,8 +16222,7 @@ run it over accordingly, "My lord," said he, "the letter may not only
 be publicly read, but deserves to be engraved in characters of gold;
 and thus it is:"</para>
 
-<para>
-_Don Quixote de la Mancha to Sancho Panza, Governor of the Island of
+<para>_Don Quixote de la Mancha to Sancho Panza, Governor of the Island of
 Barataria._</para>
 
 <para>"When I expected to have had an account of thy carelessness and
@@ -16634,16 +16300,14 @@ world.</para>
 
 <para>  "DON QUIXOTE DE LA MANCHA."</para>
 
-<para>
-Sancho gave great attention to the letter; and it was highly
+<para>Sancho gave great attention to the letter; and it was highly
 applauded, both for sense and integrity, by every body that heard it.
 After that, he rose from table, and calling the secretary, went
 without any further delay, and locked himself up with him in his
 chamber, to write an answer to his master Don Quixote, which was as
 follows:</para>
 
-<para>
-_Sancho Panza to Don Quixote de la Mancha._</para>
+<para>_Sancho Panza to Don Quixote de la Mancha._</para>
 
 <para>"I am so taken up with business, that I have not yet had time to let
 you know whether it goes well or ill with me in this same government,
@@ -16706,8 +16370,7 @@ house and children.</para>
 
 <para>  "SANCHO PANZA, the Governor."</para>
 
-<para>
-The secretary made up the letter, and immediately despatched it. Then
+<para>The secretary made up the letter, and immediately despatched it. Then
 those who carried on the plot against Sancho combined together, and
 consulted how to release him from the cares of government; and Sancho
 passed that afternoon in making several regulations for the better
@@ -16717,17 +16380,13 @@ establishment of that which he imagined to be an island.</para>
 they are observed in that place, and called "The Constitutions of the
 great Governor Sancho Panza."</para>
 
-<para></para>
+<chapter n="X" roman="LXXXII">CHAPTER LXXXII.</chapter>
 
-<para>
-CHAPTER LXXXII.</para>
-
-<para>_A relation of the adventures of the second disconsolate or distressed
+<title>_A relation of the adventures of the second disconsolate or distressed
 matron, otherwise called Donna Rodriguez; with the letters of Teresa
-Panza to the Duchess and to her husband._</para>
+Panza to the Duchess and to her husband._</title>
 
-<para>
-Don Quixote's wounds being healed, he began to think the life he led
+<para>Don Quixote's wounds being healed, he began to think the life he led
 in the castle not suitable to the order which he professed; he
 resolved, therefore, to set off for Saragosa, where, at the
 approaching tournament, he hoped to win the armour, the usual prize at
@@ -16816,8 +16475,7 @@ of I do not know what place;" and the direction on the other, thus,
 <para>The duchess having opened her letter, read it aloud, that the whole
 company might hear what follows:</para>
 
-<para>
-"MY LADY,</para>
+<para>"MY LADY,</para>
 
 <para>"The letter your honour sent me pleased me hugeously; for, troth, it
 is what I heartily longed for. The string of coral is a good thing,
@@ -16861,15 +16519,13 @@ your worship's hands.</para>
 
 <para>  "TERESA PANZA."</para>
 
-<para>
-This letter was very entertaining to all the company, especially to
+<para>This letter was very entertaining to all the company, especially to
 the duke and duchess; insomuch that her grace asked Don Quixote
 whether it would be amiss to open the governor's letter, which she
 imagined was a very good one? The knight told her that, to satisfy her
 curiosity, he would open it; which being done, he found what follows:</para>
 
-<para>
-"I received thy letter, dear Sancho; and I vow and swear to thee, as I
+<para>"I received thy letter, dear Sancho; and I vow and swear to thee, as I
 am a Catholic Christian, I was within two fingers' breadth of running
 mad for joy. When I heard thou wert made a governor, I was so
 transported, I had like to have fallen down dead with mere gladness;
@@ -16913,8 +16569,7 @@ court.</para>
 
 <para>  "TERESA PANZA."</para>
 
-<para>
-These letters were admired, and caused a great deal of laughter and
+<para>These letters were admired, and caused a great deal of laughter and
 diversion; and, to complete the mirth, at the same time the express
 returned that brought Sancho's answer to Don Quixote, which was
 likewise publicly read, and startled and delighted all the hearers.
@@ -16922,15 +16577,11 @@ Afterwards, the duchess withdrew to know of the page what he had to
 relate of Sancho's village; of which he gave her a full account,
 without omitting the least particular.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXIII">CHAPTER LXXXIII.</chapter>
 
-<para>
-CHAPTER LXXXIII.</para>
+<title>_The toilsome end and conclusion of Sancho Panza's government._</title>
 
-<para>_The toilsome end and conclusion of Sancho Panza's government._</para>
-
-<para>
-To think the affairs of this life are always to remain in the same
+<para>To think the affairs of this life are always to remain in the same
 state, is an erroneous fancy. The face of things rather seems
 continually to change and roll with circular motion; summer succeeds
 the spring, autumn the summer, winter the autumn, and then spring
@@ -17082,16 +16733,12 @@ embraced them all, not without tears in his eyes; leaving them in
 admiration of the good sense which he discovered, both in his
 discourse and unalterable resolution.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXIV">CHAPTER LXXXIV.</chapter>
 
-<para>
-CHAPTER LXXXIV.</para>
+<title>_What happened to Sancho by the way; with other matters which you will
+have no more to do than to see._</title>
 
-<para>_What happened to Sancho by the way; with other matters which you will
-have no more to do than to see._</para>
-
-<para>
-Sancho pursued his way until the night overtook him within half a
+<para>Sancho pursued his way until the night overtook him within half a
 league of the duke's castle. However, as it was summer-time, he was
 not much uneasy, and chose to go out of the road, with a design to
 stay there till the morning. But, while he sought some place where he
@@ -17168,15 +16815,11 @@ entertained and pleased himself with the hopes of a speedy combat
 between him and Donna Rodriguez's enemy, whose wrongs he designed to
 see redressed.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXV">CHAPTER LXXXV.</chapter>
 
-<para>
-CHAPTER LXXXV.</para>
+<title>_Which treats of matters that relate to this history, and no other._</title>
 
-<para>_Which treats of matters that relate to this history, and no other._</para>
-
-<para>
-The duke and duchess resolved that Don Quixote's challenge against
+<para>The duke and duchess resolved that Don Quixote's challenge against
 their vassal should not be ineffectual; and the young man being fled
 into Flanders, to avoid having Donna Rodriguez to his mother-in-law,
 they made choice of a Gascoin lackey, named Tosilos, to supply his
@@ -17299,17 +16942,13 @@ troublesome, and more profitable. The duchess was no less kind, giving
 order he should want for nothing; for he seemed sadly bruised and out
 of order.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXVI">CHAPTER LXXXVI.</chapter>
 
-<para>
-CHAPTER LXXXVI.</para>
-
-<para>_Of the extraordinary and unaccountable combat between Don Quixote de
+<title>_Of the extraordinary and unaccountable combat between Don Quixote de
 la Mancha and the lackey Tosilos, in vindication of the matron Donna
-Rodriguez's daughter._</para>
+Rodriguez's daughter._</title>
 
-<para>
-The day appointed for the combat was now come; nor had the duke
+<para>The day appointed for the combat was now come; nor had the duke
 forgotten to give his lackey, Tosilos, all requisite instructions how
 to vanquish Don Quixote, and yet neither kill nor wound him; to which
 purpose he gave orders that the spears, or steel heads of their
@@ -17464,16 +17103,12 @@ As for Donna Rodriguez and her daughter, they were very well pleased
 to see, one way or another, that the business would end in marriage;
 and Tosilos flattered himself with the like expectation.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXVII">CHAPTER LXXXVII.</chapter>
 
-<para>
-CHAPTER LXXXVII.</para>
+<title>_How adventures crowded so thick on Don Quixote that they trod upon
+one another's heels._</title>
 
-<para>_How adventures crowded so thick on Don Quixote that they trod upon
-one another's heels._</para>
-
-<para>
-Don Quixote thought it now time to leave the idle life he had led in
+<para>Don Quixote thought it now time to leave the idle life he had led in
 the castle, believing it a mighty fault thus to shut himself up, and
 indulge his appetite among the tempting varieties of dainties and
 delights which the lord and lady of the place provided for his
@@ -17813,16 +17448,12 @@ man made a shift to remount; and, with more shame than satisfaction,
 hastened their journey, without taking leave of their friends of the
 new Arcadia.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXVIII">CHAPTER LXXXVIII.</chapter>
 
-<para>
-CHAPTER LXXXVIII.</para>
+<title>_Of an extraordinary accident that happened to Don Quixote, which may
+well pass for an adventure._</title>
 
-<para>_Of an extraordinary accident that happened to Don Quixote, which may
-well pass for an adventure._</para>
-
-<para>
-A clear fountain, which Don Quixote and Sancho found among some
+<para>A clear fountain, which Don Quixote and Sancho found among some
 verdant trees, served to refresh them, besmeared with dust, and tired
 as they were, after the rude encounter of the bulls. There, by the
 brink, leaving Rozinante and Dapple, unbridled and unhaltered, to
@@ -18045,15 +17676,11 @@ that parted his chamber from that of the gentlemen, he took his leave
 of them. Sancho paid the host nobly, but advised him either to keep
 better provisions in his inn, or to commend it less.</para>
 
-<para></para>
+<chapter n="X" roman="LXXXIX">CHAPTER LXXXIX.</chapter>
 
-<para>
-CHAPTER LXXXIX.</para>
+<title>_What happened to Don Quixote going to Barcelona._</title>
 
-<para>_What happened to Don Quixote going to Barcelona._</para>
-
-<para>
-The morning was cool, and seemed to promise a temperate day, when Don
+<para>The morning was cool, and seemed to promise a temperate day, when Don
 Quixote left the inn, having first informed himself which was the
 readiest way to Barcelona; for he was resolved he would not so much as
 see Saragosa, that he might prove that new author a liar, who, as he
@@ -18437,16 +18064,12 @@ delighted with. He despatched this epistle by one of his troop, who,
 changing the habit of his vocation for that of a peasant, entered the
 city, and delivered it as directed.</para>
 
-<para></para>
+<chapter n="X" roman="XC">CHAPTER XC.</chapter>
 
-<para>
-CHAPTER XC.</para>
+<title>_Of what befell Don Quixote at his entrance into Barcelona; with other
+events more true than ingenious._</title>
 
-<para>_Of what befell Don Quixote at his entrance into Barcelona; with other
-events more true than ingenious._</para>
-
-<para>
-Three days and three nights Don Quixote sojourned with the great
+<para>Three days and three nights Don Quixote sojourned with the great
 Roque; and, had he remained with him three hundred years, in such a
 mode of life he might still have found new matter for observation and
 wonder. Here they sleep, there they eat; sometimes flying from they
@@ -18518,16 +18141,12 @@ until they reached their conductor's house, which was large and
 handsome, declaring the owner to be a man of wealth and
 consideration.</para>
 
-<para></para>
+<chapter n="X" roman="XCI">CHAPTER XCI.</chapter>
 
-<para>
-CHAPTER XCI.</para>
+<title>_Of the adventure of the enchanted head; with other trifling matters
+that must not be omitted._</title>
 
-<para>_Of the adventure of the enchanted head; with other trifling matters
-that must not be omitted._</para>
-
-<para>
-The name of Don Quixote's present host was Don Antonio Moreno; he was
+<para>The name of Don Quixote's present host was Don Antonio Moreno; he was
 rich, sensible, and good-humoured; and being cheerfully disposed, with
 such an inmate he soon began to consider how he might extract
 amusement from his whimsical infirmity, but without offence to his
@@ -18746,16 +18365,12 @@ readily and directly, to the first questions; and by conjectures or
 evasions make a return handsomely to the rest, with the help of his
 ingenuity.</para>
 
-<para></para>
+<chapter n="X" roman="XCII">CHAPTER XCII.</chapter>
 
-<para>
-CHAPTER XCII.</para>
+<title>_Of an unlucky adventure which Don Quixote laid most to heart of any
+that had yet befallen him._</title>
 
-<para>_Of an unlucky adventure which Don Quixote laid most to heart of any
-that had yet befallen him._</para>
-
-<para>
-It happened one morning that Don Quixote, going abroad to take the air
+<para>It happened one morning that Don Quixote, going abroad to take the air
 upon the sea-shore, armed at all points, according to his custom--his
 arms, as he said, being his best attire--he spied a knight riding
 towards him, armed like himself from head to foot, with a bright moon
@@ -18868,16 +18483,12 @@ him into town, accompanied likewise by the viceroy, who had a great
 curiosity to know who this Knight of the White Moon was, that had left
 Don Quixote in so sad a condition.</para>
 
-<para></para>
+<chapter n="X" roman="XCIII">CHAPTER XCIII.</chapter>
 
-<para>
-CHAPTER XCIII.</para>
+<title>_Wherein is given an account of the Knight of the White Moon; with
+other matters._</title>
 
-<para>_Wherein is given an account of the Knight of the White Moon; with
-other matters._</para>
-
-<para>
-Don Antonio Moreno followed the Knight of the White Moon to his inn,
+<para>Don Antonio Moreno followed the Knight of the White Moon to his inn,
 whither he was attended by a rabble of boys. The knight being got to
 his chamber, where his squire waited to take off his armour, Don
 Antonio came in, declaring he would not be shaken off till he had
@@ -19040,17 +18651,13 @@ the squire had brushed his clothes and put himself to rights, he drove
 Dapple along, and with a good-by-to-ye, left Tosilos, in order to
 overtake his master, who stayed for him under the cover of a tree.</para>
 
-<para></para>
+<chapter n="X" roman="XCIV">CHAPTER XCIV.</chapter>
 
-<para>
-CHAPTER XCIV.</para>
-
-<para>_How Don Quixote resolved to turn shepherd, and lead a rural life for
+<title>_How Don Quixote resolved to turn shepherd, and lead a rural life for
 the year's time he was obliged not to bear arms; with other passages
-truly good and diverting._</para>
+truly good and diverting._</title>
 
-<para>
-They travelled on conversing together till they came near the place
+<para>They travelled on conversing together till they came near the place
 where the bulls had run over them; and Don Quixote knowing it again,
 "Sancho," said he, "yonder is that meadow where we met the fine
 shepherdesses, and the gallant shepherds, who had a mind to renew or
@@ -19359,17 +18966,13 @@ three words to the purpose without a proverb, nor bring you any
 proverb but what I think to the purpose; but I will mend, if I can."
 And so they went on direct towards their own village.</para>
 
-<para></para>
+<chapter n="X" roman="XCV">CHAPTER XCV.</chapter>
 
-<para>
-CHAPTER XCV.</para>
-
-<para>_Of the ominous accidents that crossed Don Quixote as he entered his
+<title>_Of the ominous accidents that crossed Don Quixote as he entered his
 village; with other transactions that illustrate and adorn this
-memorable history._</para>
+memorable history._</title>
 
-<para>
-When they were entering the village, Don Quixote observed two little
+<para>When they were entering the village, Don Quixote observed two little
 boys contesting together in an adjoining field; and one said to the
 other, "Never fret thy gizzard about it: for thou shalt never see her
 whilst thou hast breath in thy body." Don Quixote overhearing this,
@@ -19504,15 +19107,11 @@ errant-shepherd, you shall always find that I will provide for you."</para>
 made no answer, but brought him something to eat, and tended him with
 all imaginable care.</para>
 
-<para></para>
+<chapter n="X" roman="XCVI">CHAPTER XCVI.</chapter>
 
-<para>
-CHAPTER XCVI.</para>
+<title>_How Don Quixote fell sick, made his last will, and died._</title>
 
-<para>_How Don Quixote fell sick, made his last will, and died._</para>
-
-<para>
-As all human things, especially the lives of men, are transitory,
+<para>As all human things, especially the lives of men, are transitory,
 their very beginnings being but steps to their dissolution; so Don
 Quixote, who was no way exempted from the common fate, was snatched
 away by death when he least expected it. He was seized with a violent
@@ -19718,15 +19317,13 @@ put over it:</para>
 
 <para>Great New Street, Fetter Lane.</para>
 
-<para>
-POPULAR WORKS</para>
+<para>POPULAR WORKS</para>
 
 <para>RECENTLY PUBLISHED BY</para>
 
 <para>JAMES BURNS, 17 PORTMAN STREET, PORTMAN SQUARE.</para>
 
-<para>
-Select Library.</para>
+<para>Select Library.</para>
 
 <para>Volumes published.</para>
 
@@ -19746,8 +19343,7 @@ the Battle of Waterloo; comprising a complete Account of the Career of
 Napoleon Bonaparte. Cloth, 5_s._ 6_d._; half-morocco, 6_s._ 6_d._ To
 be published January 1st.</para>
 
-<para>
-Among other Works which will speedily appear are the following:--</para>
+<para>Among other Works which will speedily appear are the following:--</para>
 
 <para>1. TALES of ADVENTURE by SEA and LAND. (Nearly Ready.)</para>
 
@@ -19833,8 +19429,7 @@ itself. The price will vary with the thickness of the volumes; but
 will be made as moderate as is consistent with proper editorial care,
 good typography, and a due proportion of embellishment.</para>
 
-<para>
-BURNS' ILLUSTRATED CATALOGUE and SCRAP BOOK of ENGRAVINGS for 1847: a
+<para>BURNS' ILLUSTRATED CATALOGUE and SCRAP BOOK of ENGRAVINGS for 1847: a
 Descriptive List of Works in General Literature, suited for
 Drawing-room Books, Presents,c., accompanied with SPECIMENS of the
 Engravings contained in each volume. The Catalogue is printed in small
@@ -19845,8 +19440,7 @@ Engraving, which will be found suitable for Scrap Books,c.</para>
 <para>N.B. The price (4_s._) is deducted to purchasers to the amount of Two
 pounds.</para>
 
-<para>
-_Elegant Gifts._</para>
+<para>_Elegant Gifts._</para>
 
 <para>Fcp. 8vo., with numerous Illustrations on Wood, by the best Artists.</para>
 
@@ -19856,8 +19450,7 @@ _Elegant Gifts._</para>
 Editions, chastely bound in half-morocco, marbled edges, at little
 more than the price in cloth.</para>
 
-<para>
-  1. THE FOUR SEASONS, Undine, Sintram,c., entirely re-translated,
+<para> 1. THE FOUR SEASONS, Undine, Sintram,c., entirely re-translated,
      and with 30 wood-engravings, hf. mor., 12_s._
   2. ROMANTIC FICTION, half morocco, 8_s._
   3. WILD LOVE,            ditto,    8_s._
@@ -19867,8 +19460,7 @@ more than the price in cloth.</para>
 
 <para>  Or the Six Vols., if taken together, 45_s._</para>
 
-<para>
-_Romantic Tales for Youth._</para>
+<para>_Romantic Tales for Youth._</para>
 
 <para>HAUFF'S POPULAR TALES from the German. This Volume contains 17 of the
 best Tales of this clever and amusing writer, than whom no author has
@@ -19881,8 +19473,7 @@ been more popular in his own country.</para>
 <para>SELECT POPULAR TALES from the celebrated collection of Musaeus. Cloth,
 2_s._ 6_d._, morocco elegant, 4_s._</para>
 
-<para>
-_Gift Books for Young Ladies._</para>
+<para>_Gift Books for Young Ladies._</para>
 
 <para>1. LAYS and BALLADS from English and Scottish History. Second Edition,
 improved, with Notes and Explanations. Cloth, 3_s._ 6_d._, morocco
@@ -19915,8 +19506,7 @@ interesting volume. Cloth, 2_s._ 6_d._, morocco, 4_s._</para>
 <para>N.B. Catalogues, containing a great variety of others, may be had on
 application to the Publisher.</para>
 
-<para>
-_Presents for Children._</para>
+<para>_Presents for Children._</para>
 
 <para>1. NURSERY TALES: containing Twenty of the best old Nursery
 favourites, and illustrated with engravings. Half-bound elegant
@@ -19936,8 +19526,7 @@ England, Scotland, Germany,c. Fifty Stories, twenty-one cuts, cloth,
 <para>N.B. A Catalogue with a variety of others may be had, gratis, on
 application.</para>
 
-<para>
-_Books for Boys, combining Amusement and Instruction._</para>
+<para>_Books for Boys, combining Amusement and Instruction._</para>
 
 <para>1. CHOICE BALLADS and METRICAL TALES, from Percy, Scott, Jameson,
 Ritson,c. (18 Engravings). Cloth, 3_s._, morocco, 4_s._ 6_d._</para>
@@ -19982,8 +19571,7 @@ down to the battle of Waterloo; with Engravings and Plans.</para>
 <para>N.B. A Catalogue containing a large variety of others may be had,
 gratis, on application.</para>
 
-<para>
-_Lives of the Ancients._</para>
+<para>_Lives of the Ancients._</para>
 
 <para>PLUTARCH'S LIVES, newly edited by the Rev. A. J. Howell, with
 engravings by Pickersgill. Cloth, 4_s._ 6_d._, morocco elegant, 6_s._
@@ -19991,8 +19579,7 @@ This will be found a very suitable volume for the Young.</para>
 
 <para>An extensive List of Educational Books,c.</para>
 
-<para>
-_Cheap Library of Recreation and Instruction._</para>
+<para>_Cheap Library of Recreation and Instruction._</para>
 
 <para>With 120 Engravings.</para>
 
@@ -20038,8 +19625,7 @@ cloth.</para>
 <para>N.B.--Each Part or Volume may be had separately. Descriptive
 Catalogues on application.</para>
 
-<para>
-FOUQUE'S SEASONS. BY DE LA MOTTE FOUQUE. In separate Vols.</para>
+<para>FOUQUE'S SEASONS. BY DE LA MOTTE FOUQUE. In separate Vols.</para>
 
 <para>1. SPRING:--UNDINE. An entirely new translation, which it is believed
 reflects the peculiar beauties of the original much more accurately
@@ -20059,8 +19645,7 @@ the above, and containing ten Designs by Henry C. Selous, price 5_s._</para>
 <para>N.B.--New Catalogues, Show Boards, and Specimens may be had by the
 trade on application to the Publisher.</para>
 
-<para>
-_Magnificent Drawing-room Table or Gift-Book._</para>
+<para>_Magnificent Drawing-room Table or Gift-Book._</para>
 
 <para>POEMS AND PICTURES: a Collection of Ballads, Songs, and other Poems.
 Illustrated by English Artists, with an ornamental border round each

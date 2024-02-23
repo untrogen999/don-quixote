@@ -10,4 +10,4 @@
 5. find \n{2}<para>CHAPTER ([IVXL]+)\.</para>
 6. replace <chapter n="X" roman="I"> (whatever the roman numeral is) 
 7. find \n
-8. replace <title> </title>
+8. replace <title> </title> 
