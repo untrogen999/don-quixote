@@ -1,8 +1,10 @@
 Basic auto-tagging en-masse.
 
+All find and replace expressions are in backticks (`). Don't copy the backticks themselves.
+
 1. Remove extraneous text
 	1. Delete every line after line 19830, then add two blank lines. Note there are invisible spaces in the lines after line 19830, so delete those as well.
-	2. Delete lines 1-2259, both inclusive.
+	2. Delete lines 1-10 and 27-2259, with the first and last lines of the ranges also deleted.
 1. Special/misleading character replacement
 	1. Find `&` to replace with `&amp;`.
 	2. Find `<` to replace with `&lt;`.
