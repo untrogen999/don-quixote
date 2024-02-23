@@ -5,8 +5,5 @@
 	3. Find `>` to replace with `&gt;`.
 	4. Fancy quotes/apostrophes are left as-is for now.
 	4. Normalize number of newlines. Find `\n{3,}` to replace with `\n\n`
-2. Clopen strategy.
-	1. Annotate paragraphs.
-		1. Make sure "Dot matches all" is UNCHECKED.
-		2. Find `\n{2}(.+)` to replace with `\n\n<para n="X">\1`.
-		3. Find `(.+)\n{2}` to replace with `\1</para>\n\n`.
+2. find \n\n
+3. replace with </para>\0<para>
