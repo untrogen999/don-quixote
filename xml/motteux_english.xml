@@ -2,8 +2,7 @@
 
 <author>Author: Miguel de Cervantes Saavedra </author>
 
-<translate>Translator: Peter Anthony Motteux</translate>
-
+<translate>Translator: Peter Anthony Motteux</translate> 
 <para>Release date: April 29, 2011 [eBook #35993]</para>
 
 <language>Language: English</language>
@@ -745,7 +744,8 @@ fell a rolling and tumbling up and down, expressing the greatest pain
 and resentment, and breathing out, with a languishing voice, the same
 complaints which the wounded Knight of the Wood is said to have made!</para>
 
-<para>  "Alas! where are you, lady dear,
+<!--JS: quote-->
+<para> "Alas! where are you, lady dear,
     That for my woe you do not moan?
   You little know what ails me here,
     Or are to me disloyal grown."</para>
@@ -755,6 +755,7 @@ these verses:--</para>
 
 <para>  "O thou, my uncle and my prince,
     Marquis of Mantua, noble lord!"--</para>
+<!--JS: quote-->
 
 <para>When kind fortune so ordered it that a ploughman, who lived in the
 same village, and near his house, happened to pass by, as he came from
@@ -3059,6 +3060,7 @@ and the first thing he found was a rough copy of verses, and, being
 legible, he read aloud, that Sancho might hear it, the following
 sonnet:</para>
 
+<!-- JS: sonnet-->
 <para>  I.</para>
 
 <para>  Love either cruel is or blind,
@@ -3072,6 +3074,8 @@ sonnet:</para>
     Is Chloe, then, the fatal source?
   Sure ill from good can never flow,
     Or so much beauty gild a curse![4]</para>
+<!-- JS: sonnet-->
+  
 
 <para>[4] From Smollett's translation.</para>
 
@@ -3847,6 +3851,7 @@ time, and in writing and graving on the barks of trees many verses of
 a plaintive kind, or in praise of his Dulcinea. Among those afterwards
 discovered, only the following were entire and legible:</para>
 
+<!-- JS: ballad-->
 <para>  I.</para>
 
 <para>  Ye lofty trees, with spreading arms,
@@ -3878,6 +3883,7 @@ discovered, only the following were entire and legible:</para>
     Distant, though present in idea,
     I mourn my absent Dulcinea
                               Del Toboso.</para>
+<!-- JS: ballad-->
 
 <para>The whimsical addition at the end of each stanza occasioned no small
 amusement to those who found the verses; for they concluded that Don
@@ -4055,6 +4061,7 @@ yet this is rather poetical fancy than plain truth. Besides, the
 verses they heard were not those of a rustic muse, but of refined and
 courtly invention, as will appear by the following stanzas:</para>
 
+<!-- JS: stanza-->
 <para>  I.</para>
 
 <para>  What makes me languish and complain?
@@ -4080,6 +4087,7 @@ courtly invention, as will appear by the following stanzas:</para>
       O rather let me madness choose!
       But judge what we endure,
       When death or madness are a cure!</para>
+<!-- JS: stanza-->
 
 <para>The hour, the season, the solitude, the voice, and the skill of the
 singer, all conspired to impress the auditors with wonder and delight,
@@ -4088,6 +4096,7 @@ more; but finding the silence continue, they resolved to see who it
 was who had sung so agreeably; and were again detained by the same
 voice regaling their ears with this other song:</para>
 
+<!-- JS: sonnet-->
 <para>  A Sonnet.</para>
 
 <para>  O sacred Friendship, Heaven's delight,
@@ -4099,6 +4108,7 @@ voice regaling their ears with this other song:</para>
   Destroy imposture and deceit;
   Harmonious peace and truth renew,
   Shew the false friendship from the true.</para>
+<!-- JS: sonnet-->
 
 <para>The song ended with a deep sigh; and they went in search of the
 unhappy person whose voice was no less excellent than his complaints
@@ -5341,7 +5351,7 @@ curiously. Come, master, I have hair enough in my beard to make a
 counsellor, and my advice is as fit for you as your shoe for your
 foot--a bird in hand is worth two in the bush, and</para>
 
-<para>  He that will not when he may,
+<para> He that will not when he may,
   When he would he shall have nay."</para>
 
 <para>"Thou advisest me thus," answered Don Quixote, "that I may be able to
@@ -6395,6 +6405,7 @@ distinguished the following words.</para>
 <title>_The agreeable history of the young muleteer; with other strange
 accidents._</title>
 
+<!-- JS: sonnet-->
 <para>I.</para>
 
 <para>  Toss'd in doubts and fears I rove
@@ -6412,6 +6423,7 @@ accidents._</title>
   Be auspicious as you're bright.
   As you hide or dart your beams,
   Your adorer sinks or swims!</para>
+<!-- JS: sonnet-->
 
 <para>Dorothea thought it was a great loss to Donna Clara not to hear such
 excellent singing; she therefore gave her a gentle shake and awoke
@@ -9398,6 +9410,7 @@ discover his thoughts by his song." Sancho would have replied; but the
 Knight of the Wood, whose voice was only moderately good, began to
 sing, and they both attentively listened to the following:</para>
 
+<!-- JS: sonnet-->
 <para>  Sonnet.</para>
 
 <para>  Bright queen, how shall your loving slave
@@ -9414,6 +9427,7 @@ sing, and they both attentively listened to the following:</para>
     Like diamonds firm and true:
   For what th' impression can remove,
     That's stamp'd by love and you?</para>
+<!-- JS: sonnet-->
 
 <para>With a deep sigh, that seemed to be drawn from the very bottom of his
 heart, the Knight of the Wood ended his song; and after some pause, in
@@ -11694,9 +11708,11 @@ active disposition. To pass the fatigue of his journey, he sung all
 the way; and, as they came near him, was just ending the last words of
 a ballad, which were these:</para>
 
+<!-- JS: quote-->
 <para>  "For want of the pence to the wars I must go:
   Oh! had I but money it would not be so."</para>
-
+<!-- JS: quote-->
+  
 <para>"So, young gentleman," said Don Quixote to him, "methinks you go very
 light and airy. Whither are you bound, I pray you?" "I am going to the
 wars, sir," answered the youth; "and for my travelling thus, heat and
@@ -12050,8 +12066,10 @@ of Sansuena, now called Saragosa. Now, gallants, the first figure we
 present you with is Don Gayferos, playing at tables, according to the
 ballad:</para>
 
+<!-- JS: ballad-->
 <para>  'Gayferos now at tables plays,
   Forgetful of his lady dear.'</para>
+  <!-- JS: ballad-->
 
 <para>"Next you will mark that personage that peeps out there with a crown
 on his head and a sceptre in his hand. It is the Emperor Charlemagne,
@@ -12101,10 +12119,12 @@ his wife, now revenged on the Moor for his impudence, seeing from the
 battlements of the tower, takes him for a stranger, and talks with him
 as such, according to the ballad,</para>
 
+<!-- JS: ballad-->
 <para>  'Quoth Melisandra, if perchance,
   Sir Traveller, you go for France,
   For pity's sake, ask when you're there,
   For Gayferos, my husband dear.'</para>
+<!-- JS: ballad-->
 
 <para>"I omit the rest, not to tire you with a long story. It is sufficient
 that he makes himself known to her; and accordingly, see how she lets
@@ -12316,8 +12336,10 @@ his head, stretching out his neck, and thrusting out his tongue, in
 the very posture of an ass that is braying, with this distich written
 in fair characters about it:</para>
 
+<!-- JS: quote-->
 <para>  "'Twas something more than nothing which one day
   Made one and t'other worthy bailiff bray."</para>
+<!-- JS: quote-->
 
 <para>Don Quixote drew this inference from the motto, that those were the
 inhabitants of the braying town; and he acquainted Sancho with what he
@@ -12608,8 +12630,10 @@ my youth. Consider I have but a dull head-piece of my own; and if
 tongue runs at random sometimes, it is because I am more fool than
 knave, sir:</para>
 
+<!-- JS: quote-->
 <para>  'He who errs and mends,
   To heaven himself commends.'</para>
+<!-- JS: quote-->
 
 <para>"I should wonder much," said Don Quixote, "if thou shouldst not
 interlard thy discourse with some pretty proverb. Well, I will pardon
@@ -13287,8 +13311,10 @@ there can be in beating the bushes for a beast which, if it does but
 come at you, may be the death of you. I have not forgotten an old song
 to this purpose:</para>
 
+<!-- JS: quote-->
 <para>  'May Fabila's sad fate be thine,
   And make thee food for bears or swine.'"</para>
+<!-- JS: quote-->
 
 <para>"That Fabila," said Don Quixote, "was a king of the Goths; who, going
 a-hunting once, was devoured by a bear." "That is it I say," quoth
@@ -13466,6 +13492,7 @@ to seem more than commonly disturbed. This living Death being thus got
 up, in a dull, heavy, sleepy tone, as if its tongue had not been well
 awake, began in this manner:</para>
 
+<!-- JS: quote-->
 <para>  "O glory thou of all that e'er could grace
   A coat of steel, and fence of adamant!
   Light, lantern, path, and polar star and guide
@@ -13482,6 +13509,7 @@ awake, began in this manner:</para>
   Each to afflict and sting and gall him sore;
   So shall relent the authors of her woes,
   Whose awful will I for her ease disclose."</para>
+<!-- JS: quote-->
 
 <para>"What!" quoth Sancho, "three thousand lashes! I will not give myself
 three; I will as soon give myself three stabs. Mr. Merlin, if you have
@@ -13899,10 +13927,12 @@ bewitched. But that which chiefly brought me down, and levelled me
 with the ground, was a copy of verses which I heard him sing one night
 under my window; and, if I remember right, the words were these:</para>
 
+<!-- JS: sonnet-->
 <para>  'The tyrant fair whose beauty sent
     The throbbing mischief to my heart,
   The more my anguish to augment,
     Forbids me to reveal the smart.'</para>
+<!-- JS: sonnet-->
 
 <para>The words of his song were to me so many pearls, and his voice was
 sweeter than honey; and many a time since have I thought, reflecting
@@ -13914,10 +13944,12 @@ in soft strokes and tender touches, which pierce the soul, and,
 entering the body like lightning, consume all within, while the
 garment is left unsinged. Another time he sung:</para>
 
+<!-- JS: ballad-->
 <para>  'Come death, with gently stealing pace,
     And take me unperceived away,
   Nor let me see thy wished-for face,
     Lest joy my fleeting life should stay.'</para>
+<!-- JS: ballad-->
 
 <para>Thus was I assailed with these and such like couplets, that astonish,
 and, when chanted, are bewitching. But when our poets deign to compose
@@ -14535,8 +14567,10 @@ knowing how, jumps at once into the preferment for which so many had
 sued in vain. It is truly said that 'merit does much, but fortune
 more.'</para>
 
+<!-- JS: sonnet-->
 <para>  'The happy have their days, and those they choose;
   Th' unhappy have but hours, and those they lose!'</para>
+<!-- JS: sonnet-->
 
 <para>Thou, who, in respect to me, art but a very simpleton, without either
 early rising or late watching, without labour of body or mind, by the
@@ -15092,6 +15126,7 @@ coughed and cleared his throat; and then, with a voice somewhat
 hoarse, yet not unmusical, he sang the following song, which he had
 composed himself that very day:</para>
 
+<!--JS: sonnet-->
 <para>  The Advice.</para>
 
 <para>  Love, a strong designing foe,
@@ -15118,6 +15153,7 @@ composed himself that very day:</para>
     Nothing shall my faith remove;
   Constant truth, the lover's crown,
     Can work miracles in love.</para>
+<!-- JS: sonnet-->
 
 <para>No sooner had Don Quixote made an end of his song, to which the duke,
 duchess, Altisidora, and almost all the people in the castle listened
@@ -19299,6 +19335,7 @@ the housekeeper, as also several epitaphs that were made for his tomb,
 and will only give you this, which the bachelor Carrasco caused to be
 put over it:</para>
 
+<!-- JS: ballad -->
 <para>  The body of a knight lies here,
     So brave, that, to his latest breath,
   Immortal glory was his care,
@@ -19308,6 +19345,7 @@ put over it:</para>
     Less than his wondrous life surprised;
   For if he like a madman lived,
     At least he like a wise one died.</para>
+<!-- JS: ballad -->
 
 <para>[Illustration: Finis.]</para>
 
