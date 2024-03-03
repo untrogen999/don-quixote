@@ -6282,6 +6282,7 @@ hear it, he found that it ran as follows:</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: sonnet block -->
 <para n="X">Or Love is lacking in intelligence,
   Or to the height of cruelty attains,
   Or else it is my doom to suffer pains
@@ -7354,6 +7355,7 @@ for surely it will run as if it was in print.”</para>
 
 <para n="X">“Listen,” said Don Quixote, “this is what it says:</para>
 
+<!-- AZ: letter block -->
 <para n="X">“DON QUIXOTE’S LETTER TO DULCINEA DEL TOBOSO</para>
 
 <para n="X">“Sovereign and exalted Lady,--The pierced by the point of absence, the
@@ -7541,6 +7543,7 @@ verses all in harmony with his sadness, and some in praise of Dulcinea;
 but, when he was found there afterwards, the only ones completely legible
 that could be discovered were those that follow here:</para>
 
+<!-- AZ: Verse/sonnet block -->
 <para n="X">Ye on the mountain side that grow,
   Ye green things all, trees, shrubs, and bushes,
 Are ye aweary of the woe
@@ -7872,6 +7875,7 @@ still more surprised were they when they perceived that what they heard
 sung were the verses not of rustic shepherds, but of the polished wits of
 the city; and so it proved, for the verses they heard were these:</para>
 
+<!-- AZ: Song/verse block -->
 <para n="X">What makes my quest of happiness seem vain?
     Disdain.
 What bids me to abandon hope of ease?
@@ -7915,6 +7919,7 @@ fell upon their ears, singing this</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet/verse block -->
 <para n="X">When heavenward, holy Friendship, thou didst go
   Soaring to seek thy home beyond the sky,
   And take thy seat among the saints on high,
@@ -10546,6 +10551,7 @@ of what I say, let me repeat to thee a stanza made by the famous poet
 Luigi Tansillo at the end of the first part of his ‘Tears of Saint
 Peter,’ which says thus:</para>
 
+<!-- AZ: Poem/stanza block -->
 <para n="X">The anguish and the shame but greater grew
     In Peter’s heart as morning slowly came;
 No eye was there to see him, well he knew,
@@ -10620,6 +10626,7 @@ the point we are discussing. A prudent old man was giving advice to
 another, the father of a young girl, to lock her up, watch over her and
 keep her in seclusion, and among other arguments he used these:</para>
 
+<!-- AZ: Comedy/quote block -->
 <para n="X">Woman is a thing of glass;
 But her brittleness ‘tis best
 Not too curiously to test:
@@ -10867,6 +10874,7 @@ nature? Bethink thee that from him who seeks impossibilities that which
 is possible may with justice be withheld, as was better expressed by a
 poet who said:</para>
 
+<!-- AZ: Quote block -->
 <para n="X">‘Tis mine to seek for life in death,
 Health in disease seek I,
 I seek in prison freedom’s breath,
@@ -11074,6 +11082,7 @@ goes thus:</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">At midnight, in the silence, when the eyes
   Of happier mortals balmy slumbers close,
   The weary tale of my unnumbered woes
@@ -11110,6 +11119,7 @@ it is this.</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">I know that I am doomed; death is to me
   As certain as that thou, ungrateful fair,
   Dead at thy feet shouldst see me lying, ere
@@ -13044,6 +13054,7 @@ recite them better than I can.”</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">“Blest souls, that, from this mortal husk set free,
   In guerdon of brave deeds beatified,
   Above this lowly orb of ours abide
@@ -13065,6 +13076,7 @@ me, goes thus:</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">“Up from this wasted soil, this shattered shell,
   Whose walls and towers here in ruin lie,
   Three thousand soldier souls took wing on high,
@@ -14414,6 +14426,7 @@ words of the song to be these:</para>
 <title>WHEREIN IS RELATED THE PLEASANT STORY OF THE MULETEER, TOGETHER WITH
 OTHER STRANGE THINGS THAT CAME TO PASS IN THE INN</title>
 
+<!-- AZ: Song block -->
 <para n="X">Ah me, Love’s mariner am I
   On Love’s deep ocean sailing;
 I know not where the haven lies,
@@ -14481,6 +14494,7 @@ stopped both ears with her hands, at which Dorothea was again surprised;
 but turning her attention to the song she found that it ran in this
 fashion:</para>
 
+<!-- AZ: Song block -->
 <para n="X">  Sweet Hope, my stay,
 That onward to the goal of thy intent
   Dost make thy way,
@@ -17254,6 +17268,7 @@ MONICONGO, ACADEMICIAN OF ARGAMASILLA,</para>
 <para n="X">ON THE TOMB OF DON QUIXOTE
 EPITAPH</para>
 
+<!-- AZ: Epitaph block -->
 <para n="X">The scatterbrain that gave La Mancha more
   Rich spoils than Jason’s; who a point so keen
   Had to his wit, and happier far had been
@@ -17275,6 +17290,7 @@ IN LAUDEM DULCINEAE DEL TOBOSO</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">She, whose full features may be here descried,
   High-bosomed, with a bearing of disdain,
   Is Dulcinea, she for whom in vain
@@ -17296,6 +17312,7 @@ STEED OF DON QUIXOTE OF LA MANCHA</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">On that proud throne of diamantine sheen,
   Which the blood-reeking feet of Mars degrade,
 The mad Manchegan’s banner now hath been
@@ -17320,6 +17337,7 @@ ON SANCHO PANZA</para>
 
 <para n="X">SONNET</para>
 
+<!-- AZ: Sonnet block -->
 <para n="X">  The worthy Sancho Panza here you see;
     A great soul once was in that body small,
     Nor was there squire upon this earthly ball
@@ -17340,6 +17358,7 @@ ACADEMICIAN OF ARGAMASILLA,
 ON THE TOMB OF DON QUIXOTE
 EPITAPH</para>
 
+<!-- AZ: Epitaph block -->
 <para n="X">The knight lies here below,
   Ill-errant and bruised sore,
   Whom Rocinante bore
@@ -17353,6 +17372,7 @@ Was not in the esquire trade.</para>
    ACADEMICIAN OF ARGAMASILLA,
 ON THE TOMB OF DULCINEA DEL TOBOSO</para>
 
+<!-- AZ: Epitaph block -->
 <para n="X">           EPITAPH
 Here Dulcinea lies.
   Plump was she and robust:
