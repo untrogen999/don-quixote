@@ -36,6 +36,7 @@ piece = element piece {text}
 # AZ: Elements/attributes used in multiple places.
 
 # AZ: The nth paragraph, chapter, etc. as an arabic numeral (i.e. "45").
-n = attribute n {xsd:integer}
+# AZ: For now, the attribute n will be plain text until the xslt file from prof. is run.
+n = attribute n {text}
 # AZ: The full name of the book, chapter, paragraph, etc.
 title = element title {text}
