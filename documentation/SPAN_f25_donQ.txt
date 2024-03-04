@@ -1,0 +1,22 @@
+Don Quijote markup 
+
+1. add root tags
+2. add <para> tags
+3. add chapter 
+find: (Capítulo [primeroIXVL.]+)
+rep:  <chapter n="X"> \1 </chapter>
+4. remove <para> before and after chapter 
+find:  <para n="X"><chapter n="X">
+rep: <chapter n="X">
+5. add titles
+find: </chapter>([A-Z,a-z, í,ó,é,á,ñ,ú]+)</para>
+*only some changed & I saw what other formats of letters there were 
+rep: </chapter><title>\1</title>
+find: </chapter>([A-Z, a-z,í,ó,é,á,ñ,ú,\n]+)</para>
+*some had a new line within the title 
+rep: </chapter><title>\1</title>
+find: </chapter>([A-Z, a-z,í,ó,é,á,ñ,ú,ü,\n]+)</para>
+*forgot about the ü
+rep: </chapter><title>\1</title>
+--manually change Capítulo XLIII. because there was a , and ]
+the bracket was not pair and it was like that on the original text 
