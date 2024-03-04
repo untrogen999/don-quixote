@@ -11,4 +11,5 @@
 6. replace <chapter n="X" roman="I"> (whatever the roman numeral is) 
 7. (manually changed title)
 8. replace <title> </title>
-9. Used comments like <-- JS: sonnet (or other terms) --> 
+9. Used comments like <-- JS: sonnet (or other terms) -->
+10. add <quote> </quote>  
