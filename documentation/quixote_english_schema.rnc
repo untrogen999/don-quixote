@@ -19,8 +19,18 @@ chapter = element chapter { n, roman, title, para+ }
 # The chapter number as a roman numeral (i.e. "LI").
 roman = attribute roman {text}
 
-# AZ: For now, paragraphs just have raw text as their body. No sentences, quotes, etc. yet.
-para = element paragraph { n, text }
+# AZ: "poem" is part of a paragraph here because some paragraphs have quotes that extend into and sometimes out of a poem-like block, so Dr. Campbell told me that the block itself should be part of the paragraph. 
+para = element para { n, mixed {(quote | poem)*} }
+
+# AZ: This is a generic poem tag that can have sonnets, 
+# AZ: Poems should probably have their lines tagged separately, but for now they're just text.
+poem = element poem {type, text}
+type = attribute type {text}
+
+# AZ: Quotes
+# AZ: Some quotes are what you could call "whole," meaning they're not broken up into pieces, where they may or may not have other non-quote text in the same sentence.
+quote = element quote {mixed {piece*}}
+piece = element piece {text}
 
 
 # AZ: Elements/attributes used in multiple places.
