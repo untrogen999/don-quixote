@@ -1,4 +1,9 @@
-<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../documentation/quixote_english_schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<!-- Ormsby English translation -->
+
+<book>
 <title>The History of Don Quixote, Volume 1, Complete</title>
 <author>Miguel de Cervantes Saavedra</author>
 <illustrator>Gustave Doré</illustrator>
@@ -36457,4 +36462,4 @@ the detestation of mankind the false and foolish tales of the books of
 chivalry, which, thanks to that of my true Don Quixote, are even now
 tottering, and doubtless doomed to fall for ever. Farewell.”</para>
 </chapter>
-</root>
+</book>
