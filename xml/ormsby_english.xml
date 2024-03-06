@@ -1,16 +1,8 @@
-Title: The History of Don Quixote, Volume 1, Complete</para>
-
-<para n="X">Author: Miguel de Cervantes Saavedra</para>
-
-<para n="X">Illustrator: Gustave Doré</para>
-
-<para n="X">Translator: John Ormsby</para>
-
-<para n="X">Release date: July 19, 2004 [eBook #5921]
-                Most recently updated: March 23, 2023</para>
-
-<para n="X">Language: English</para>
-</chapter>
+<root>
+<title>The History of Don Quixote, Volume 1, Complete</title>
+<author>Miguel de Cervantes Saavedra</author>
+<illustrator>Gustave Doré</illustrator>
+<translator>John Ormsby</translator>
 
 <chapter n="X" roman="I">
 <title>WHICH TREATS OF THE CHARACTER AND PURSUITS OF THE FAMOUS GENTLEMAN DON
@@ -36464,4 +36456,5 @@ he could desire; for my desire has been no other than to deliver over to
 the detestation of mankind the false and foolish tales of the books of
 chivalry, which, thanks to that of my true Don Quixote, are even now
 tottering, and doubtless doomed to fall for ever. Farewell.”</para>
-
+</chapter>
+</root>
