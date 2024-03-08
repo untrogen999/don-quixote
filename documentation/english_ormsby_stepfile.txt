@@ -27,5 +27,10 @@ All find and replace expressions are in backticks (`). Don't copy the backticks 
 	1. Make sure "Dot matches all" is CHECKED.
 	2. Find `\n{2}<para n="X">CHAPTER ([IVXL]+)\.</para>` to replace the chapter header (with the roman numeral) with `\n</chapter>\n\n<chapter n="X" roman="\1">`.
 	3. Find `(<chapter n="X" .+?)\n{2}<para n="X">(.+?)</para>` to replace the chapter titles with `\1\n<title>\2</title>`.
-6. Comment all locations where sonnets, ballads, epitaphs, and in general any block of text that is formatted differently from a standard paragraph. Try to make what you put in the comments consistent in case you want to filter through them.
-
+6. Add comments to indicate where sonnets, ballads, epitaphs, and in general any block of text that is formatted differently from a standard paragraph is located. Try to make what you put in the comments consistent to be able to filter through them.
+7. Cleanup XML to get green square:
+	1. Remove the extra `</chapter>` tag above the first chapter
+	2. Add a concluding `</chapter>` tag after the last chapter.
+	3. Encase the entire file in a root `<book>` tag.
+	4. Add the `<title>`, `<author>`, `<illustrator>`, and `<translator>` tags using the information included in the original source file. Put them above the first `<chapter>` tag.
+	5. Add the XML declaration and the association to the schema above the starting root tag.
