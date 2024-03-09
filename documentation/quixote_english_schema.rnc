@@ -28,8 +28,8 @@ poem = element poem {type, text}
 type = attribute type {text}
 
 # AZ: Quotes
-# AZ: Some quotes are what you could call "whole," meaning they're not broken up into pieces, where they may or may not have other non-quote text in the same sentence. Also, some quotes are in the form of ballads, stanzas, etc., and sometimes stretch across paragraphs!
-quote = element quote {mixed {(piece | poem)*}}
+# AZ: Some quotes are not "whole", meaning they're broken up into pieces, where there may or may not be other parts of the same quote elsewhere. Also, some quotes are in the form of ballads, stanzas, etc. and sometimes stretch across paragraphs, while some quotes are inside another quote!
+quote = element quote {mixed {(piece | poem | quote)*}}
 piece = element piece {text}
 
 
