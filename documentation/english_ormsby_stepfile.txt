@@ -1,6 +1,6 @@
 John Ormsby translation stepfile.
 
-All find and replace expressions are in backticks (`). Don't copy the backticks themselves.
+All XPaths and find and replace expressions are in backticks (`). Don't copy the backticks themselves.
 
 1. Remove extraneous text
 	* For volume 1:
@@ -17,7 +17,7 @@ All find and replace expressions are in backticks (`). Don't copy the backticks 
 	1. Find `&` to replace with `&amp;`.
 	2. Find `<` to replace with `&lt;`.
 	3. Find `>` to replace with `&gt;`.
-	4. Fancy quotes/apostrophes are left as-is for now.
+	4. Fancy quotes/apostrophes are left as-is to be handled later.
 	5. Normalize number of newlines. Find `\n{3,}` to replace with `\n\n`
 4. Annotate paragraphs.
 	1. Make sure "Dot matches all" is UNCHECKED.
@@ -27,10 +27,21 @@ All find and replace expressions are in backticks (`). Don't copy the backticks 
 	1. Make sure "Dot matches all" is CHECKED.
 	2. Find `\n{2}<para n="X">CHAPTER ([IVXL]+)\.</para>` to replace the chapter header (with the roman numeral) with `\n</chapter>\n\n<chapter n="X" roman="\1">`.
 	3. Find `(<chapter n="X" .+?)\n{2}<para n="X">(.+?)</para>` to replace the chapter titles with `\1\n<title>\2</title>`.
-6. Add comments to indicate where sonnets, ballads, epitaphs, and in general any block of text that is formatted differently from a standard paragraph is located. Try to make what you put in the comments consistent to be able to filter through them.
-7. Cleanup XML to get green square:
-	1. Remove the extra `</chapter>` tag above the first chapter
-	2. Add a concluding `</chapter>` tag after the last chapter.
+6. Add comments to indicate where sonnets, ballads, epitaphs, and in general any block of text that is formatted differently from a standard paragraph is located.
+	1. Be consistent in what you say in the comments to be able to filter through them later, if needed.
+	2. Put the first line of each discovered block and which chapter it appears in in the file "ormsby_text_block_loc.txt".
+7. Cleanup XML to get a green square:
+	1. Remove the extra `</chapter>` tag above the first chapter.
+	2. Add a `</chapter>` tag after the last chapter.
 	3. Encase the entire file in a root `<book>` tag.
 	4. Add the `<title>`, `<author>`, `<illustrator>`, and `<translator>` tags using the information included in the original source file. Put them above the first `<chapter>` tag.
-	5. Add the XML declaration and the association to the schema above the starting root tag.
+	5. Add the XML declaration and the association to the schema at the top of the file.
+8. Take advantage of the separate characters used for starting and ending quotes (double curly ticks):
+	1. Before doing the actual replacements, here are two tips:
+		* Search for all chapters with the XPath `//chapter[N]` in the find-and-replace window XPath field, with "N" being whatever chapter you want to look at. Then you can apply the find-and-replace across a single chapter.
+		* `position()` is used like `last()`, as a predicate in the XPath to filter for ranges of positions. For example, `//chapter[position() > 1 and position() < 4]` returns chapters 2 and 3.
+	2. For each chapter, INDIVIDUALLY, use the XPath field in the find-and-replace window to do the following. The start and end curly quotes are done separetely because finding them both with something like `“(.+?)”` won't handle quotes inside other quotes well without doing the find multiple times:
+		1. Find `“` to replace with `<piece>` (notice it's the OPENING curly quote).
+		2. Find `(<piece>.+?)”` to replace with `\1</piece>` (notice it's the CLOSING curly quote).
+		   The reason the find expression isn't just `”` is because the "XPath" field in oXygen's find-and-replace window is disabled if the file has malformed XML, so then all future finds will search across the whole file. This means that `<piece>` has to be included since that used to be the starting curly quote, since otherwise every closing curly quote in the entire file will become `</piece>` with no corresponding `<piece>`.
+		3. Go to the file "ormsby_piece_tag_manual_changes.txt" and record any manual changes to do for the quotes in the current chapter.
