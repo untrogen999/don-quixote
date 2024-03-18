@@ -24,13 +24,14 @@ para = element para { n, mixed {(quote | poem)*} }
 
 # AZ: This is a generic poem tag that can have sonnets, 
 # AZ: Poems should probably have their lines tagged separately, but for now they're just text.
-poem = element poem {type, text}
+poem = element poem {type, title?, text}
 type = attribute type {text}
 
 # AZ: Quotes
 # AZ: Some quotes are not "whole", meaning they're broken up into pieces, where there may or may not be other parts of the same quote elsewhere. Also, some quotes are in the form of ballads, stanzas, etc. and sometimes stretch across paragraphs, while some quotes are inside another quote!
 quote = element quote {mixed {(piece | poem | quote)*}}
-piece = element piece {text}
+# AZ: Even a broken up quote can have other quotes, poems, sonnets, etc. inside it.
+piece = element piece {mixed {(piece | poem | quote)*}}
 
 
 # AZ: Elements/attributes used in multiple places.
