@@ -7,7 +7,7 @@ start = book
 
 # AZ: Root element
 # AZ: Both volumes should have the same author, translator, and illustrator for both translations.
-book = element book { title, author, illustrator, translator, chapter+ }
+book = element book { title, author, illustrator?, translator?, chapter+ }
 
 # AZ: Basic info about the text. Can add them manually if they're not in the original text.
 author = element author {text}
