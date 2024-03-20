@@ -1,0 +1,11 @@
+All the manual changes to do after auto-replacing the curly quotes for each chapter with `<piece>`/`</piece>` elements, for the Ormsby translation.
+
+All XPaths and find and replace expressions are in backticks (`). Don't copy the backticks themselves.
+
+This file tracks all manual changes of the auto-replaced `<piece>`/`</piece>` tags from the stepfile. All the numbered list items correspond to the chapter in the novel, i.e. "5." means chapter 5 of volume 1 and "55." means chapter 55, or chapter 3 of volume 2.
+
+Volume 1:
+
+1. Rename all `<piece>` elements to `<quote>`.
+2. TODO
+

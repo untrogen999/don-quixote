@@ -7,7 +7,7 @@ start = book
 
 # AZ: Root element
 # AZ: Both volumes should have the same author, translator, and illustrator for both translations.
-book = element book { title, author, illustrator, translator, chapter+ }
+book = element book { title, author, illustrator?, translator?, chapter+ }
 
 # AZ: Basic info about the text. Can add them manually if they're not in the original text.
 author = element author {text}
@@ -24,18 +24,21 @@ para = element para { n, mixed {(quote | poem)*} }
 
 # AZ: This is a generic poem tag that can have sonnets, 
 # AZ: Poems should probably have their lines tagged separately, but for now they're just text.
-poem = element poem {type, text}
+poem = element poem {type, title?, verse+}
 type = attribute type {text}
+verse = element verse {mixed {title?}}
 
 # AZ: Quotes
-# AZ: Some quotes are what you could call "whole," meaning they're not broken up into pieces, where they may or may not have other non-quote text in the same sentence.
-quote = element quote {mixed {piece*}}
-piece = element piece {text}
+# AZ: Some quotes are not "whole", meaning they're broken up into pieces, where there may or may not be other parts of the same quote elsewhere. Also, some quotes are in the form of ballads, stanzas, etc. and sometimes stretch across paragraphs, while some quotes are inside another quote!
+quote = element quote {mixed {(piece | poem | quote)*}}
+# AZ: Even a broken up quote can have other quotes, poems, sonnets, etc. inside it.
+piece = element piece {mixed {(piece | poem | quote)*}}
 
 
 # AZ: Elements/attributes used in multiple places.
 
 # AZ: The nth paragraph, chapter, etc. as an arabic numeral (i.e. "45").
-n = attribute n {xsd:integer}
+# AZ: For now, the attribute n will be plain text until the xslt file from prof. is run.
+n = attribute n {text}
 # AZ: The full name of the book, chapter, paragraph, etc.
 title = element title {text}

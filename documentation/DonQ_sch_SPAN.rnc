@@ -1,7 +1,9 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start = book
-book = element book {title, chapter+}
-title = element title {text}
-chapter = element chapter {text}
-
+start=root
+root= element root {(title|author|date|language|para|text)+}
+title= element title{text}
+author= element author{text}
+date= element date{text}
+language= element language{text}
+para= element para{text}

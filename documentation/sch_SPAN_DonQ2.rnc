@@ -1,9 +1,21 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-start=root
-root= element root {(title|author|date|language|para|text)+}
+#JM: Spanish schema simulating to English schema 
+start=book
+book= element book {language,title,author,chapter+}
+
+language= element language{text}
 title= element title{text}
 author= element author{text}
-date= element date{text}
-language= element language{text}
-para= element para{text}
+
+chapter= element chapter {text}
+#chapter = element chapter{n, roman, title, para+ }
+#roman = attribute roman {text}
+#para= element para{ n, mixed {(quote | poem)*} }
+#poem = element poem {type, title?, verse+}
+#type = attribute type {text}
+#verse = element verse {mixed {title?}}
+#quote = element quote {mixed {(piece | poem | quote)*}}
+#piece = element piece {mixed {(piece | poem | quote)*}}
+#n = attribute n {text}
+#title = element title {text}
