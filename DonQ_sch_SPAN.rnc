@@ -1,7 +1,0 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-
-start = book
-book = element book {title, chapter+}
-title = element title {text}
-chapter = element chapter {text}
-
