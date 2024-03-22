@@ -7,5 +7,34 @@ This file tracks all manual changes of the auto-replaced `<piece>`/`</piece>` ta
 Volume 1:
 
 1. Rename all `<piece>` elements to `<quote>`.
-2. TODO
+2. Starting from the first replaced quote, going downwards:
+	1. 2nd paragraph:
+		1. Rename the first `<piece>` element to `<quote>`.
+		2. Put the next two `<piece>` elements in a parent `<quote>` element.
+		3. Rename the next `<piece>` element to `<quote>`.
+	2. 5th paragraph: rename the two `<piece>` elements to `<quote>`
+	3. 6th paragraph:
+		1. Rename the two `<piece>` elements to `<quote>`. Note there's no closing `<quote>` tag.
+		2. Remove the closing `</para>` tag.
+	4. 7th paragraph (first poem):
+		1. Replace the starting `<para>` tag with `<poem type="poem"><verse>`. Remove the curly apostrophes.
+		2. Insert `</verse></poem></quote>` right before the closing `</para>` tag.
+	5. 8th paragraph:
+		1. Rename the first `<piece>` element to `<quote>`.
+		2. Add a starting `<quote>` tag before the next `<piece>` tag.
+		3. Remove the closing `</para>` tag.
+	6. 9th paragraph (second poem):
+		1. Replace the starting `<para>` tag with `<piece><poem type="poem"><verse>`. Remove the curly apostrophes.
+		2. Replace the ending `</para>` tag with `</verse></poem>`.
+	7. 10th paragraph:
+		1. Remove the starting and closing `<para>` tags.
+		2. Add a closing `</quote>` tag after the closing `</piece>` tag.
+	8. 11th paragraph (third poem):
+		1. Replace the starting `<para>` tag with `<quote><poem type="poem"><verse>`. Remove the curly apostrophes.
+		2. Replace the closing `</para>` tag with `</verse></poem>`.
+	9. 12th paragraph: Remove the starting `<para>` tag and insert a closing `</quote>` tag before the closing `</para>` tag.
+	10. 13th paragraph:
+		1. Put the first two `<piece>` elements in a parent `<quote>` element.
+		2. Rename the next four `<piece>` elements to `<quote>`.
+		3. Put the remaining (last two) `<piece>` elements in a parent `<quote>` element.
 
