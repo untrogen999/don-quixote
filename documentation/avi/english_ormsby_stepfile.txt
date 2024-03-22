@@ -42,6 +42,6 @@ All XPaths and find and replace expressions are in backticks (`). Don't copy the
 		* `position()` is used like `last()`, as a predicate in the XPath to filter for ranges of positions. For example, `//chapter[position() > 1 and position() < 4]` returns chapters 2 and 3.
 	2. For each chapter, INDIVIDUALLY, use the XPath field in the find-and-replace window to do the following. The start and end curly quotes are done separetely because finding them both with something like `“(.+?)”` won't handle quotes inside other quotes well without doing the find multiple times:
 		1. Find `“` to replace with `<piece>` (notice it's the OPENING curly quote).
-		2. Find `(<piece>.+?)”` to replace with `\1</piece>` (notice it's the CLOSING curly quote).
+		2. Find `(<piece>.+?)”` to replace with `\1</piece>` (notice it's the CLOSING curly quote). Make sure "Dot matches all" is CHECKED.
 		   The reason the find expression isn't just `”` is because the "XPath" field in oXygen's find-and-replace window is disabled if the file has malformed XML, so then all future finds will search across the whole file. This means that `<piece>` has to be included since that used to be the starting curly quote, since otherwise every closing curly quote in the entire file will become `</piece>` with no corresponding `<piece>`.
 		3. Go to the file "ormsby_piece_tag_manual_changes.txt" and record any manual changes to do for the quotes in the current chapter.
