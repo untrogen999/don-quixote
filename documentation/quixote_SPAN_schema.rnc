@@ -1,0 +1,23 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+#JM: Spanish schema simulating to English schema 
+start=book
+book= element book {language,title,author,chapter+}
+
+language= element language{text}
+title= element title{text}
+author= element author{text}
+
+
+chapter = element chapter{n, roman, title, para+ } 
+n = attribute n {text}
+roman = attribute roman {text}
+para= element para{ n, mixed {(quote | poem)*} }
+
+poem = element poem {type, title?, verse+}
+type = attribute type {text}
+verse = element verse {mixed {title?}}
+
+quote = element quote {mixed {(piece | poem | quote)*}}
+piece = element piece {mixed {(piece | poem | quote)*}}
+
