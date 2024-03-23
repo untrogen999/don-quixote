@@ -9,16 +9,15 @@ title= element title{text}
 author= element author{text}
 
 
-chapter = element chapter{n, roman, title, para+ }
+chapter = element chapter{n, roman, title, para+ } 
 n = attribute n {text}
 roman = attribute roman {text}
-para = element para{n, text}
-#//para= element para{ n, mixed {(quote | poem)*} }
-#///quote = element quote {text}
-#///poem = element poem {text}
-#poem = element poem {type, title?, verse+}
-#type = attribute type {text}
-#verse = element verse {mixed {title?}}
-#quote = element quote {mixed {(piece | poem | quote)*}}
-#piece = element piece {mixed {(piece | poem | quote)*}}
+para= element para{ n, mixed {(quote | poem)*} }
+
+poem = element poem {type, title?, verse+}
+type = attribute type {text}
+verse = element verse {mixed {title?}}
+
+quote = element quote {mixed {(piece | poem | quote)*}}
+piece = element piece {mixed {(piece | poem | quote)*}}
 
