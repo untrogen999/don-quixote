@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="../documentation/sch_SPAN_DonQ2.rnc" type="application/relax-ng-compact-syntax"?>
 
-<book>
- 
+<book> 
 <language>Language: Spanish</language> 
-
 <title>El ingenioso hidalgo don Quijote de la Mancha</title> 
-
 <author>por Miguel de Cervantes Saavedra</author> 
- 
-<chapter n="X" roman="I"><title> Que trata de la condición y ejercicio del famoso hidalgo
+
+<chapter n="X" roman="I">
+<title> Que trata de la condición y ejercicio del famoso hidalgo
 don Quijote de la Mancha</title> 
 
 <para n="X">En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho
@@ -172,7 +169,8 @@ peregrino y significativo, como todos los demás que a él y a sus cosas
 había puesto.</para> 
 </chapter> 
 
-<chapter n="X" roman="II"><title> Que trata de la primera salida que de su tierra hizo el
+<chapter n="X" roman="II">
+<title> Que trata de la primera salida que de su tierra hizo el
 ingenioso don Quijote</title> 
 
 <para n="X">Hechas, pues, estas prevenciones, no quiso aguardar más tiempo a poner en
@@ -392,7 +390,8 @@ el no verse armado caballero, por parecerle que no se podría poner
 legítimamente en aventura alguna sin recebir la orden de caballería.</para> 
 </chapter> 
 
-<chapter n="X" roman="III"><title> Donde se cuenta la graciosa manera que tuvo don Quijote en
+<chapter n="X" roman="III">
+<title> Donde se cuenta la graciosa manera que tuvo don Quijote en
 armarse caballero</title> 
 
 <para n="X">Y así, fatigado deste pensamiento, abrevió su venteril y limitada cena; la
@@ -605,7 +604,8 @@ la buen hora.</para>
 
 </chapter> 
 
-<chapter n="X" roman="IV"><title> De lo que le sucedió a nuestro caballero cuando salió de la
+<chapter n="X" roman="IV">
+<title> De lo que le sucedió a nuestro caballero cuando salió de la
 venta</title> 
 
 <para n="X">La del alba sería cuando don Quijote salió de la venta, tan contento, tan
@@ -852,7 +852,8 @@ según tenía brumado todo el cuerpo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="V"><title> Donde se prosigue la narración de la desgracia de nuestro
+<chapter n="X" roman="V">
+<title> Donde se prosigue la narración de la desgracia de nuestro
 caballero</title> 
 
 <para n="X">Viendo, pues, que, en efeto, no podía menearse, acordó de acogerse a su
@@ -1016,7 +1017,8 @@ amigo el barbero maese Nicolás, con el cual se vino a casa de don Quijote,</par
 
 </chapter> 
 
-<chapter n="X" roman="VI"><title> Del donoso y grande escrutinio que el cura y el barbero
+<chapter n="X" roman="VI">
+<title> Del donoso y grande escrutinio que el cura y el barbero
 hicieron en la librería de nuestro ingenioso hidalgo</title> 
 
 <para n="X">el cual aún todavía dormía. Pidió las llaves, a la sobrina, del aposento
@@ -1301,7 +1303,8 @@ Ovidio.</para>
 
 </chapter> 
 
-<chapter n="X" roman="VII"><title> De la segunda salida de nuestro buen caballero don Quijote de
+<chapter n="X" roman="VII">
+<title> De la segunda salida de nuestro buen caballero don Quijote de
 la Mancha</title> 
 
 <para n="X">Estando en esto, comenzó a dar voces don Quijote, diciendo:</para> 
@@ -1487,7 +1490,8 @@ en vuestra merced, que me sabrá dar todo aquello que me esté bien y yo
 pueda llevar.</para> 
 </chapter> 
 
-<chapter n="X" roman="VIII"><title> Del buen suceso que el valeroso don Quijote tuvo en la
+<chapter n="X" roman="VIII">
+<title> Del buen suceso que el valeroso don Quijote tuvo en la
 espantable y jamás imaginada aventura de los molinos de viento, con otros
 sucesos dignos de felice recordación</title> 
 
@@ -1794,7 +1798,8 @@ contará en la segunda parte.</para>
 
 </chapter> 
 
-<chapter n="X" roman="IX"><title> Donde se concluye y da fin a la estupenda batalla que el
+<chapter n="X" roman="IX">
+<title> Donde se concluye y da fin a la estupenda batalla que el
 gallardo vizcaíno y el valiente manchego tuvieron</title> 
 
 <para n="X">Dejamos en la primera parte desta historia al valeroso vizcaíno y al famoso
@@ -1972,7 +1977,8 @@ bien merecido.</para>
 
 </chapter> 
 
-<chapter n="X" roman="X"><title> De lo que más le avino a don Quijote con el vizcaíno, y del
+<chapter n="X" roman="X">
+<title> De lo que más le avino a don Quijote con el vizcaíno, y del
 peligro en que se vio con una turba de yangüeses</title> 
 
 <para n="X">Ya en este tiempo se había levantado Sancho Panza, algo maltratado de los
@@ -2167,7 +2173,8 @@ un acto posesivo que facilitaba la prueba de su caballería.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XI"><title> De lo que le sucedió a don Quijote con unos cabreros</title> 
+<chapter n="X" roman="XI">
+<title> De lo que le sucedió a don Quijote con unos cabreros</title> 
 
 <para n="X">Fue recogido de los cabreros con buen ánimo; y, habiendo Sancho, lo mejor
 que pudo, acomodado a Rocinante y a su jumento, se fue tras el olor que
@@ -2409,7 +2416,8 @@ fue la verdad.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XII"><title> De lo que contó un cabrero a los que estaban con don Quijote</title> 
+<chapter n="X" roman="XII">
+<title> De lo que contó un cabrero a los que estaban con don Quijote</title> 
 
 <para n="X">Estando en esto, llegó otro mozo de los que les traían del aldea el
 bastimento, y dijo:</para> 
@@ -2621,7 +2629,8 @@ sino como hombre molido a coces.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XIII"><title> Donde se da fin al cuento de la pastora Marcela, con otros
+<chapter n="X" roman="XIII">
+<title> Donde se da fin al cuento de la pastora Marcela, con otros
 sucesos</title> 
 
 <para n="X">Mas, apenas comenzó a descubrirse el día por los balcones del oriente,
@@ -2958,7 +2967,8 @@ redonda; y él, leyendo en voz clara, vio que así decía:</para>
 
 </chapter> 
 
-<chapter n="X" roman="XIV"><title> Donde se ponen los versos desesperados del difunto pastor,
+<chapter n="X" roman="XIV">
+<title>Donde se ponen los versos desesperados del difunto pastor,
 con otros no esperados sucesos</title> 
 
 <!--jm: Song-->
@@ -3254,7 +3264,7 @@ de los circunstantes. Cerraron la sepultura con una gruesa peña, en tanto
 que se acababa una losa que, según Ambrosio dijo, pensaba mandar hacer, con
 un epitafio que había de decir desta manera:</para> 
 
-<!--epitaph--> 
+<!--jm: epitaph--> 
 <para n="X">Yace aquí de un amador
 el mísero cuerpo helado,
 que fue pastor de ganado,
@@ -3285,7 +3295,8 @@ en el discurso desta verdadera historia, dando aquí fin la segunda parte.</para
 
 </chapter> 
 
-<chapter n="X" roman="XV"><title> Donde se cuenta la desgraciada aventura que se topó don
+<chapter n="X" roman="XV">
+<title> Donde se cuenta la desgraciada aventura que se topó don
 Quijote en topar con unos desalmados yangüeses</title> 
 
 <para n="X">Cuenta el sabio Cide Hamete Benengeli que, así como don Quijote se despidió
@@ -3555,7 +3566,8 @@ averiguación, con toda su recua.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XVI"><title> De lo que le sucedió al ingenioso hidalgo en la venta que él
+<chapter n="X" roman="XVI">
+<title> De lo que le sucedió al ingenioso hidalgo en la venta que él
 imaginaba ser castillo</title> 
 
 <para n="X">El ventero, que vio a don Quijote atravesado en el asno, preguntó a Sancho
@@ -3820,7 +3832,8 @@ otro candil.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XVII"><title> Donde se prosiguen los innumerables trabajos que el bravo
+<chapter n="X" roman="XVII">
+<title> Donde se prosiguen los innumerables trabajos que el bravo
 don Quijote y su buen escudero Sancho Panza pasaron en la venta que, por su
 mal, pensó que era castillo</title> 
 
@@ -4132,7 +4145,8 @@ andantes de la Tabla Redonda, no le estimaran en dos ardites.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XVIII"><title> Donde se cuentan las razones que pasó Sancho Panza con su
+<chapter n="X" roman="XVIII">
+<title> Donde se cuentan las razones que pasó Sancho Panza con su
 señor Don Quijote, con otras aventuras dignas de ser contadas</title> 
 
 <para n="X">Llegó Sancho a su amo marchito y desmayado; tanto, que no podía arrear a su
@@ -4508,7 +4522,8 @@ se dirá en el siguiente capítulo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XIX"><title> De las discretas razones que Sancho pasaba con su amo, y de
+<chapter n="X" roman="XIX">
+<title> De las discretas razones que Sancho pasaba con su amo, y de
 la aventura que le sucedió con un cuerpo muerto, con otros acontecimientos
 famosos</title> 
 
@@ -4782,7 +4797,8 @@ colmado de verde y menuda yerba, lo que se dirá en el siguiente capítulo.</par
 
 </chapter> 
 
-<chapter n="X" roman="XX"><title> De la jamás vista ni oída aventura que con más poco peligro
+<chapter n="X" roman="XX">
+<title> De la jamás vista ni oída aventura que con más poco peligro
 fue acabada de famoso caballero en el mundo, como la que acabó el valeroso
 don Quijote de la Mancha</title> 
 
@@ -5256,7 +5272,8 @@ fuesen.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXI"><title> Que trata de la alta aventura y rica ganancia del yelmo de
+<chapter n="X" roman="XXI">
+<title> Que trata de la alta aventura y rica ganancia del yelmo de
 Mambrino, con otras cosas sucedidas a nuestro invencible caballero</title> 
 
 <para n="X">En esto, comenzó a llover un poco, y quisiera Sancho que se entraran en el
@@ -5659,7 +5676,8 @@ se quede el procurar venir a ser rey y el hacerme conde.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXII"><title> De la libertad que dio don Quijote a muchos desdichados que,
+<chapter n="X" roman="XXII">
+<title> De la libertad que dio don Quijote a muchos desdichados que,
 mal de su grado, los llevaban donde no quisieran ir</title> 
 
 <para n="X">Cuenta Cide Hamete Benengeli, autor arábigo y manchego, en esta gravísima,
@@ -6057,7 +6075,8 @@ hecho.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXIII"><title> De lo que le aconteció al famoso don Quijote en Sierra
+<chapter n="X" roman="XXIII">
+<title> De lo que le aconteció al famoso don Quijote en Sierra
 Morena, que fue una de las más raras aventuras que en esta verdadera
 historia se cuentan</title> 
 
@@ -6440,7 +6459,8 @@ dijo lo que se dirá adelante.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXIV"><title> Donde se prosigue la aventura de la Sierra Morena</title> 
+<chapter n="X" roman="XXIV">
+<title> Donde se prosigue la aventura de la Sierra Morena</title> 
 
 <para n="X">Dice la historia que era grandísima la atención con que don Quijote
 escuchaba al astroso Caballero de la Sierra, el cual, prosiguiendo su
@@ -6740,7 +6760,8 @@ contornos, no dejaría de hallarle, o cuerdo o loco.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXV"><title> Que trata de las estrañas cosas que en Sierra Morena
+<chapter n="X" roman="XXV">
+<title> Que trata de las estrañas cosas que en Sierra Morena
 sucedieron al valiente caballero de la Mancha, y de la imitación que hizo a
 la penitencia de Beltenebros</title> 
 
@@ -7317,7 +7338,8 @@ camino, hasta la vuelta, que fue breve.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXVI"><title> Donde se prosiguen las finezas que de enamorado hizo don
+<chapter n="X" roman="XXVI">
+<title> Donde se prosiguen las finezas que de enamorado hizo don
 Quijote en Sierra Morena</title> 
 
 <para n="X">Y, volviendo a contar lo que hizo el de la Triste Figura después que se vio
@@ -7599,7 +7621,8 @@ algún remedio su estraña locura.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXVII"><title> De cómo salieron con su intención el cura y el barbero, con
+<chapter n="X" roman="XXVII">
+<title> De cómo salieron con su intención el cura y el barbero, con
 otras cosas dignas de que se cuenten en esta grande historia</title> 
 
 <para n="X">No le pareció mal al barbero la invención del cura, sino tan bien, que
@@ -7697,7 +7720,8 @@ sino de discretos cortesanos. Y confirmó esta verdad haber sido los versos
 que oyeron éstos:</para> 
  
 <!--jm: poem-->
-<para n="X">¿Quién menoscaba mis bienes?
+<para n="X"><poem type="poem"><verse>
+¿Quién menoscaba mis bienes?
 Desdenes.
 Y ¿quién aumenta mis duelos?
 Los celos.
@@ -7706,7 +7730,8 @@ Ausencia.
 De ese modo, en mi dolencia
 ningún remedio se alcanza,
 pues me matan la esperanza
-desdenes, celos y ausencia.
+desdenes, celos y ausencia.</verse>
+<verse>
 ¿Quién me causa este dolor?
 Amor.
 Y ¿quién mi gloria repugna?
@@ -7716,7 +7741,8 @@ El cielo
 De ese modo, yo recelo
 morir deste mal estraño,
 pues se aumentan en mi daño,
-amor, fortuna y el cielo.
+amor, fortuna y el cielo.</verse>
+<verse>
 ¿Quién mejorará mi suerte?
 La muerte.
 Y el bien de amor, ¿quién le alcanza?
@@ -7726,7 +7752,7 @@ Locura.
 De ese modo, no es cordura
 querer curar la pasión
 cuando los remedios son
-muerte, mudanza y locura.</para> 
+muerte, mudanza y locura.</verse></poem></para> 
 
 <para n="X">La hora, el tiempo, la soledad, la voz y la destreza del que cantaba causó
 admiración y contento en los dos oyentes, los cuales se estuvieron quedos,
@@ -8155,7 +8181,8 @@ Hamete Benengeli.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXVIII"><title> Que trata de la nueva y agradable aventura que al cura y
+<chapter n="X" roman="XXVIII">
+<title> Que trata de la nueva y agradable aventura que al cura y
 barbero sucedió en la mesma sierra</title> 
 
 <para n="X">Felicísimos y venturosos fueron los tiempos donde se echó al mundo el
@@ -8624,7 +8651,8 @@ suya y en las ajenas tierras.»</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXIX"><title> Que trata de la discreción de la hermosa Dorotea, con otras
+<chapter n="X" roman="XXIX">
+<title> Que trata de la discreción de la hermosa Dorotea, con otras
 cosas de mucho gusto y pasatiempo</title> 
 
 <para n="X">— Esta es, señores, la verdadera historia de mi tragedia: mirad y juzgad
@@ -9041,7 +9069,8 @@ misericordia, se lo perdone al que no los dejó llevar al debido suplicio.</para
 
 </chapter> 
 
-<chapter n="X" roman="XXX"><title> Que trata del gracioso artificio y orden que se tuvo en sacar
+<chapter n="X" roman="XXX">
+<title> Que trata del gracioso artificio y orden que se tuvo en sacar
 a nuestro enamorado caballero de la asperísima penitencia en que se había
 puesto</title> 
 
@@ -9402,7 +9431,8 @@ le puse más de trecientas almas, y vidas, y ojos míos.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXI"><title> De los sabrosos razonamientos que pasaron entre don Quijote
+<chapter n="X" roman="XXXI">
+<title> De los sabrosos razonamientos que pasaron entre don Quijote
 y Sancho Panza, su escudero, con otros sucesos</title> 
 
 <para n="X">— Todo eso no me descontenta; prosigue adelante —dijo don Quijote—.
@@ -9735,7 +9765,8 @@ reírse, por no acaballe de correr del todo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXII"><title> Que trata de lo que sucedió en la venta a toda la cuadrilla
+<chapter n="X" roman="XXXII">
+<title> Que trata de lo que sucedió en la venta a toda la cuadrilla
 de don Quijote</title> 
 
 <para n="X">Acabóse la buena comida, ensillaron luego, y, sin que les sucediese cosa
@@ -9994,7 +10025,8 @@ del cura, y entendiendo que a todos daría gusto y él le recibiría, dijo:
 
 </chapter> 
 
-<chapter n="X" roman="XXXIII"><title> Donde se cuenta la novela del Curioso impertinente</title> 
+<chapter n="X" roman="XXXIII">
+<title> Donde se cuenta la novela del Curioso impertinente</title> 
 
 <para n="X">«En Florencia, ciudad rica y famosa de Italia, en la provincia que llaman
 Toscana, vivían Anselmo y Lotario, dos caballeros ricos y principales, y
@@ -10619,7 +10651,8 @@ Anselmo, donde le escribió estas razones:</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXIV"><title> Donde se prosigue la novela del Curioso impertinente</title> 
+<chapter n="X" roman="XXXIV">
+<title> Donde se prosigue la novela del Curioso impertinente</title> 
 
 <para n="X">»Así como suele decirse que parece mal el ejército sin su general y el
 castillo sin su castellano, digo yo que parece muy peor la mujer casada y
@@ -11276,7 +11309,8 @@ Anselmo le costó la vida su impertinente curiosidad.»</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXV"><title> Donde se da fin a la novela del Curioso impertinente</title> 
+<chapter n="X" roman="XXXV">
+<title> Donde se da fin a la novela del Curioso impertinente</title> 
 
 <para n="X">Poco más quedaba por leer de la novela, cuando del caramanchón donde
 reposaba don Quijote salió Sancho Panza todo alborotado, diciendo a voces:</para> 
@@ -11585,7 +11619,8 @@ toca al modo de contarle, no me descontenta.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXVI"><title> Que trata de la brava y descomunal batalla que don Quijote
+<chapter n="X" roman="XXXVI">
+<title> Que trata de la brava y descomunal batalla que don Quijote
 tuvo con unos cueros de vino tinto, con otros raros sucesos que en la venta
 le sucedieron</title> 
 
@@ -11930,7 +11965,8 @@ rematan y tienen fin todas las desventuras de la tierra.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXVII"><title> Que prosigue la historia de la famosa infanta Micomicona,
+<chapter n="X" roman="XXXVII">
+<title> Que prosigue la historia de la famosa infanta Micomicona,
 con otras graciosas aventuras</title> 
 
 <para n="X">Todo esto escuchaba Sancho, no con poco dolor de su ánima, viendo que se
@@ -12302,7 +12338,8 @@ se quedan muy atrás en todo, como ahora diré.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXVIII"><title> Que trata del curioso discurso que hizo don Quijote de
+<chapter n="X" roman="XXXVIII">
+<title> Que trata del curioso discurso que hizo don Quijote de
 las armas y las letras</title> 
 
 <para n="X">Prosiguiendo don Quijote, dijo:</para> 
@@ -12435,7 +12472,8 @@ con voz agradable y reposada, comenzó a decir desta manera:</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXIX"><title> Donde el cautivo cuenta su vida y sucesos</title> 
+<chapter n="X" roman="XXXIX">
+<title> Donde el cautivo cuenta su vida y sucesos</title> 
 
 <para n="X">— «En un lugar de las Montañas de León tuvo principio mi linaje, con quien
 fue más agradecida y liberal la naturaleza que la fortuna, aunque, en la
@@ -12697,7 +12735,8 @@ que yo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XL"><title> Donde se prosigue la historia del cautivo</title> 
+<chapter n="X" roman="XL">
+<title> Donde se prosigue la historia del cautivo</title> 
 
  <!--jm: Sonnet-->
 <para n="X">Soneto</para> 
@@ -13098,7 +13137,8 @@ cual nunca descubrimos nuestro trato y secreto, por el peligro que había.</para
 
 </chapter> 
 
-<chapter n="X" roman="XLI"><title> Donde todavía prosigue el cautivo su suceso</title> 
+<chapter n="X" roman="XLI">
+<title> Donde todavía prosigue el cautivo su suceso</title> 
 
 <para n="X">»No se pasaron quince días, cuando ya nuestro renegado tenía comprada una
 muy buena barca, capaz de más de treinta personas: y, para asegurar su
@@ -13721,7 +13761,8 @@ circustancias me ha quitado de la lengua.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLII"><title> Que trata de lo que más sucedió en la venta y de otras
+<chapter n="X" roman="XLII">
+<title> Que trata de lo que más sucedió en la venta y de otras
 muchas cosas dignas de saberse</title> 
 
 <para n="X">Calló, en diciendo esto, el cautivo, a quien don Fernando dijo:</para> 
@@ -13979,7 +14020,8 @@ entendió que lo que se cantaba era esto:</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLIII"><title>Donde se cuenta la agradable historia del mozo de mulas,
+<chapter n="X" roman="XLIII">
+<title>Donde se cuenta la agradable historia del mozo de mulas,
      con otros estraños acaecimientos en la venta sucedidos]</title>
 
 <para n="X">-Marinero soy de amor,
@@ -14353,7 +14395,8 @@ estiren llegarán al suelo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLIV"><title> Donde se prosiguen los inauditos sucesos de la venta</title> 
+<chapter n="X" roman="XLIV">
+<title> Donde se prosiguen los inauditos sucesos de la venta</title> 
 
 <para n="X">En efeto, fueron tantas las voces que don Quijote dio, que, abriendo de
 presto las puertas de la venta, salió el ventero, despavorido, a ver quién
@@ -14675,7 +14718,8 @@ entonces muy bien, porque hubo asaz de pedradas en aquel trance.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLV"><title> Donde se acaba de averiguar la duda del yelmo de Mambrino y
+<chapter n="X" roman="XLV">
+<title> Donde se acaba de averiguar la duda del yelmo de Mambrino y
 de la albarda, y otras aventuras sucedidas, con toda verdad</title> 
 
 <para n="X">— ¿Qué les parece a vuestras mercedes, señores —dijo el barbero—, de lo que
@@ -14954,7 +14998,8 @@ cuadrilleros que se le pongan delante?</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLVI"><title> De la notable aventura de los cuadrilleros, y la gran
+<chapter n="X" roman="XLVI">
+<title> De la notable aventura de los cuadrilleros, y la gran
 ferocidad de nuestro buen caballero don Quijote</title> 
 
 <para n="X">En tanto que don Quijote esto decía, estaba persuadiendo el cura a los
@@ -15248,7 +15293,8 @@ carro de los bueyes.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLVII"><title> Del estraño modo con que fue encantado don Quijote de la
+<chapter n="X" roman="XLVII">
+<title> Del estraño modo con que fue encantado don Quijote de la
 Mancha, con otros famosos sucesos</title> 
 
 <para n="X">Cuando don Quijote se vio de aquella manera enjaulado y encima del carro,
@@ -15586,7 +15632,8 @@ la épica también puede escrebirse en prosa como en verso.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLVIII"><title> Donde prosigue el canónigo la materia de los libros de
+<chapter n="X" roman="XLVIII">
+<title> Donde prosigue el canónigo la materia de los libros de
 caballerías, con otras cosas dignas de su ingenio</title> 
 
 <para n="X">— Así es como vuestra merced dice, señor canónigo —dijo el cura—, y por esta
@@ -15834,7 +15881,8 @@ deste peligro, que no anda todo limpio!</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLIX"><title> Donde se trata del discreto coloquio que Sancho Panza tuvo
+<chapter n="X" roman="XLIX">
+<title> Donde se trata del discreto coloquio que Sancho Panza tuvo
 con su señor don Quijote</title> 
 
 <para n="X">— ¡Ah —dijo Sancho—; cogido le tengo! Esto es lo que yo deseaba saber, como
@@ -16084,7 +16132,8 @@ caballerías.</para>
 
 </chapter> 
 
-<chapter n="X" roman="L"><title> De las discretas altercaciones que don Quijote y el canónigo
+<chapter n="X" roman="L">
+<title> De las discretas altercaciones que don Quijote y el canónigo
 tuvieron, con otros sucesos</title> 
 
 <para n="X">— ¡Bueno está eso! —respondió don Quijote—. Los libros que están impresos
@@ -16312,7 +16361,8 @@ historia desta manera:</para>
 
 </chapter> 
 
-<chapter n="X" roman="LI"><title> Que trata de lo que contó el cabrero a todos los que llevaban
+<chapter n="X" roman="LI">
+<title> Que trata de lo que contó el cabrero a todos los que llevaban
 a don Quijote</title> 
 
 <para n="X">— «Tres leguas deste valle está una aldea que, aunque pequeña, es de las más
@@ -16483,7 +16533,8 @@ varias y sazonadas frutas, no menos a la vista que al gusto agradables.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LII"><title> De la pendencia que don Quijote tuvo con el cabrero, con la
+<chapter n="X" roman="LII">
+<title> De la pendencia que don Quijote tuvo con el cabrero, con la
 rara aventura de los deceplinantes, a quien dio felice fin a costa de su
 sudor</title> 
 
@@ -17290,7 +17341,8 @@ quince.</para>
 
 </chapter> 
 
-<chapter n="X" roman="I"><title>De lo que el cura y el barbero pasaron con don Quijote
+<chapter n="X" roman="I">
+<title>De lo que el cura y el barbero pasaron con don Quijote
   cerca de su enfermedad</title>
 
 <para n="X">Cuenta Cide Hamete Benengeli, en la segunda parte desta historia y tercera
@@ -17676,7 +17728,8 @@ conversación, daban grandes voces en el patio, y acudieron todos al ruido.</par
 
 </chapter> 
 
-<chapter n="X" roman="II"><title> Que trata de la notable pendencia que Sancho Panza tuvo con la
+<chapter n="X" roman="II">
+<title> Que trata de la notable pendencia que Sancho Panza tuvo con la
 sobrina y ama de don Quijote, con otros sujetos graciosos</title> 
 
 <para n="X">Cuenta la historia que las voces que oyeron don Quijote, el cura y el
@@ -17866,7 +17919,8 @@ allí a poco espacio, y entre los tres pasaron un graciosísimo coloquio.</para>
 
 </chapter> 
 
-<chapter n="X" roman="III"><title> Del ridículo razonamiento que pasó entre don Quijote, Sancho
+<chapter n="X" roman="III">
+<title> Del ridículo razonamiento que pasó entre don Quijote, Sancho
 Panza y el bachiller Sansón Carrasco</title> 
 
 <para n="X">Pensativo además quedó don Quijote, esperando al bachiller Carrasco, de
@@ -18164,7 +18218,8 @@ plática pasada.</para>
 
 </chapter> 
 
-<chapter n="X" roman="IV"><title> Donde Sancho Panza satisface al bachiller Sansón Carrasco de
+<chapter n="X" roman="IV">
+<title> Donde Sancho Panza satisface al bachiller Sansón Carrasco de
 sus dudas y preguntas, con otros sucesos dignos de saberse y de contarse</title> 
 
 <para n="X">Volvió Sancho a casa de don Quijote, y, volviendo al pasado razonamiento,
@@ -18354,7 +18409,8 @@ orden lo necesario para su jornada.</para>
 
 </chapter> 
 
-<chapter n="X" roman="V"><title> De la discreta y graciosa plática que pasó entre Sancho Panza y
+<chapter n="X" roman="V">
+<title> De la discreta y graciosa plática que pasó entre Sancho Panza y
 su mujer Teresa Panza, y otros sucesos dignos de felice recordación</title> 
 
 <para n="X">(Llegando a escribir el traductor desta historia este quinto capítulo, dice
@@ -18582,7 +18638,8 @@ partida.</para>
 
 </chapter> 
 
-<chapter n="X" roman="VI"><title> De lo que le pasó a Don Quijote con su sobrina y con su ama, y
+<chapter n="X" roman="VI">
+<title> De lo que le pasó a Don Quijote con su sobrina y con su ama, y
 es uno de los importantes capítulos de toda la historia</title> 
 
 <para n="X">En tanto que Sancho Panza y su mujer Teresa Cascajo pasaron la impertinente
@@ -18768,7 +18825,8 @@ le hace ventaja el pasado.</para>
 
 </chapter> 
 
-<chapter n="X" roman="VII"><title> De lo que pasó don Quijote con su escudero, con otros
+<chapter n="X" roman="VII">
+<title> De lo que pasó don Quijote con su escudero, con otros
 sucesos famosísimos</title> 
 
 <para n="X">Apenas vio el ama que Sancho Panza se encerraba con su señor, cuando dio en
@@ -19026,7 +19084,8 @@ lugar, y los dos tomaron la de la gran ciudad del Toboso.</para>
 
 </chapter> 
 
-<chapter n="X" roman="VIII"><title> Donde se cuenta lo que le sucedió a don Quijote, yendo a ver
+<chapter n="X" roman="VIII">
+<title> Donde se cuenta lo que le sucedió a don Quijote, yendo a ver
 su señora Dulcinea del Toboso</title> 
 
 <para n="X">''¡Bendito sea el poderoso Alá! —dice Hamete Benengeli al comienzo deste
@@ -19286,7 +19345,8 @@ entraron en la ciudad, donde les sucedió cosas que a cosas llegan.</para>
 
 </chapter> 
 
-<chapter n="X" roman="IX"><title> Donde se cuenta lo que en él se verá</title> 
+<chapter n="X" roman="IX">
+<title> Donde se cuenta lo que en él se verá</title> 
 
 <para n="X">Media noche era por filo, poco más a menos, cuando don Quijote y Sancho
 dejaron el monte y entraron en el Toboso. Estaba el pueblo en un sosegado
@@ -19438,7 +19498,8 @@ sucedieron cosas que piden nueva atención y nuevo crédito.</para>
 
 </chapter> 
 
-<chapter n="X" roman="X"><title> Donde se cuenta la industria que Sancho tuvo para encantar a la
+<chapter n="X" roman="X">
+<title> Donde se cuenta la industria que Sancho tuvo para encantar a la
 señora Dulcinea, y de otros sucesos tan ridículos como verdaderos</title> 
 
 <para n="X">Llegando el autor desta grande historia a contar lo que en este capítulo
@@ -19760,7 +19821,8 @@ como se verá adelante.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XI"><title> De la estraña aventura que le sucedió al valeroso don Quijote
+<chapter n="X" roman="XI">
+<title> De la estraña aventura que le sucedió al valeroso don Quijote
 con el carro, o carreta, de Las Cortes de la Muerte</title> 
 
 <para n="X">Pensativo además iba don Quijote por su camino adelante, considerando la
@@ -19989,7 +20051,8 @@ menos suspensión que la pasada.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XII"><title> De la estraña aventura que le sucedió al valeroso don
+<chapter n="X" roman="XII">
+<title> De la estraña aventura que le sucedió al valeroso don
 Quijote con el bravo Caballero de los Espejos</title> 
 
 <para n="X">La noche que siguió al día del rencuentro de la Muerte la pasaron don
@@ -20260,7 +20323,8 @@ gracioso coloquio como fue grave el que pasó entre sus señores.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XIII"><title> Donde se prosigue la aventura del Caballero del Bosque, con
+<chapter n="X" roman="XIII">
+<title> Donde se prosigue la aventura del Caballero del Bosque, con
 el discreto, nuevo y suave coloquio que pasó entre los dos escuderos</title> 
 
 <para n="X">Divididos estaban caballeros y escuderos: éstos contándose sus vidas, y
@@ -20496,7 +20560,8 @@ pasó con el de la Triste Figura.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XIV"><title> Donde se prosigue la aventura del Caballero del Bosque</title> 
+<chapter n="X" roman="XIV">
+<title> Donde se prosigue la aventura del Caballero del Bosque</title> 
 
 <para n="X">Entre muchas razones que pasaron don Quijote y el Caballero de la Selva,
 dice la historia que el del Bosque dijo a don Quijote:</para> 
@@ -20891,7 +20956,8 @@ el Caballero de los Espejos y su narigante escudero.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XV"><title> Donde se cuenta y da noticia de quién era el Caballero de los
+<chapter n="X" roman="XV">
+<title> Donde se cuenta y da noticia de quién era el Caballero de los
 Espejos y su escudero</title> 
 
 <para n="X">En estremo contento, ufano y vanaglorioso iba don Quijote por haber
@@ -20965,7 +21031,8 @@ con don Quijote.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XVI"><title> De lo que sucedió a don Quijote con un discreto caballero de
+<chapter n="X" roman="XVI">
+<title> De lo que sucedió a don Quijote con un discreto caballero de
 la Mancha</title> 
 
 <para n="X">Con la alegría, contento y ufanidad que se ha dicho, seguía don Quijote su
@@ -21289,7 +21356,8 @@ quien sucedió una espantosa y desatinada aventura.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XVII"><title> De donde se declaró el último punto y estremo adonde llegó y
+<chapter n="X" roman="XVII">
+<title> De donde se declaró el último punto y estremo adonde llegó y
 pudo llegar el inaudito ánimo de don Quijote, con la felicemente acabada
 aventura de los leones</title> 
 
@@ -21680,7 +21748,8 @@ llamaba el Caballero del Verde Gabán.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XVIII"><title> De lo que sucedió a don Quijote en el castillo o casa del
+<chapter n="X" roman="XVIII">
+<title> De lo que sucedió a don Quijote en el castillo o casa del
 Caballero del Verde Gabán, con otras cosas extravagantes</title> 
 
 <para n="X">Halló don Quijote ser la casa de don Diego de Miranda ancha como de aldea;
@@ -22023,7 +22092,8 @@ Quijote y Sancho, sobre Rocinante y el rucio, se partieron.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XIX"><title> Donde se cuenta la aventura del pastor enamorado, con otros
+<chapter n="X" roman="XIX">
+<title> Donde se cuenta la aventura del pastor enamorado, con otros
 en verdad graciosos sucesos</title> 
 
 <para n="X">Poco trecho se había alongado don Quijote del lugar de don Diego, cuando
@@ -22281,7 +22351,8 @@ tenido en el castillo o casa de don Diego.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XX"><title> Donde se cuentan las bodas de Camacho el rico, con el suceso
+<chapter n="X" roman="XX">
+<title> Donde se cuentan las bodas de Camacho el rico, con el suceso
 de Basilio el pobre</title> 
 
 <para n="X">Apenas la blanca aurora había dado lugar a que el luciente Febo, con el
@@ -22471,7 +22542,8 @@ diestros tañedores de tamboril y flauta.</para>
 y flechaba el arco contra una doncella que se ponía entre las almenas del
 castillo, a la cual desta suerte dijo:</para> 
 
-<para n="X">-Yo soy el dios poderoso
+<!--jm: poem-->
+<para n="X"><poem type="poem"><verse>-Yo soy el dios poderoso
 en el aire y en la tierra
 y en el ancho mar undoso,
 y en cuanto el abismo encierra
@@ -22480,13 +22552,14 @@ Nunca conocí qué es miedo;
 todo cuanto quiero puedo,
 aunque quiera lo imposible,
 y en todo lo que es posible
-mando, quito, pongo y vedo.</para> 
+mando, quito, pongo y vedo.</verse></poem></para> 
 
 <para n="X">Acabó la copla, disparó una flecha por lo alto del castillo y retiróse a
 su puesto. Salió luego el Interés, y hizo otras dos mudanzas; callaron los
 tamborinos, y él dijo:</para> 
 
-<para n="X">-Soy quien puede más que Amor,
+<!--jm: poem-->
+<para n="X"><poem type="poem"><verse>-Soy quien puede más que Amor,
 y es Amor el que me guía;
 soy de la estirpe mejor
 que el cielo en la tierra cría,
@@ -22495,14 +22568,14 @@ Soy el Interés, en quien
 pocos suelen obrar bien,
 y obrar sin mí es gran milagro;
 y cual soy te me consagro,
-por siempre jamás, amén.</para> 
+por siempre jamás, amén.</verse></poem></para>
 
 <para n="X">Retiróse el Interés, y hízose adelante la Poesía; la cual, después de haber
 hecho sus mudanzas como los demás, puestos los ojos en la doncella del
 castillo, dijo:</para> 
 
-<!--poem-->
-<para n="X">-En dulcísimos conceptos,
+<!--jm: poem-->
+<para n="X"><poem type="poem"><verse>-En dulcísimos conceptos,
 la dulcísima Poesía,
 altos, graves y discretos,
 señora, el alma te envía
@@ -22511,12 +22584,13 @@ Si acaso no te importuna
 mi porfía, tu fortuna,
 de otras muchas invidiada,
 será por mí levantada
-sobre el cerco de la luna.</para> 
+sobre el cerco de la luna.</verse></poem></para> 
 
 <para n="X">Desvióse la Poesía, y de la parte del Interés salió la Liberalidad, y,
 después de hechas sus mudanzas, dijo:</para> 
 
-<para n="X">-Llaman Liberalidad
+<!--jm: poem-->
+<para n="X"><poem type="poem"><verse>-Llaman Liberalidad
 al dar que el estremo huye
 de la prodigalidad,
 y del contrario, que arguye
@@ -22525,7 +22599,7 @@ Mas yo, por te engrandecer,
 de hoy más, pródiga he de ser;
 que, aunque es vicio, es vicio honrado
 y de pecho enamorado,
-que en el dar se echa de ver.</para> 
+que en el dar se echa de ver.</verse></poem></para>
 
 <para n="X">Deste modo salieron y se retiraron todas las dos figuras de las dos
 escuadras, y cada uno hizo sus mudanzas y dijo sus versos, algunos
@@ -22635,13 +22709,10 @@ pedir cuenta en la otra vida.</para>
 <para n="X">Y, diciendo esto, comenzó de nuevo a dar asalto a su caldero, con tan
 buenos alientos que despertó los de don Quijote, y sin duda le ayudara, si
 no lo impidiera lo que es fuerza se diga adelante.</para> 
-
- 
- 
-
 </chapter> 
 
-<chapter n="X" roman="XXI"><title> Donde se prosiguen las bodas de Camacho, con otros gustosos
+<chapter n="X" roman="XXI">
+<title>Donde se prosiguen las bodas de Camacho, con otros gustosos
 sucesos</title> 
 
 <para n="X">Cuando estaban don Quijote y Sancho en las razones referidas en el capítulo
@@ -22877,7 +22948,8 @@ siguió las huellas de Rocinante.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXII"><title> Donde se da cuenta de la grande aventura de la cueva de
+<chapter n="X" roman="XXII">
+<title> Donde se da cuenta de la grande aventura de la cueva de
 Montesinos, que está en el corazón de la Mancha, a quien dio felice cima el
 valeroso don Quijote de la Mancha</title> 
 
@@ -23169,7 +23241,8 @@ cenaron, todo junto. Levantada la arpillera, dijo don Quijote de la Mancha:</par
 
 </chapter> 
 
-<chapter n="X" roman="XXIII"><title> De las admirables cosas que el estremado don Quijote contó
+<chapter n="X" roman="XXIII">
+<title> De las admirables cosas que el estremado don Quijote contó
 que había visto en la profunda cueva de Montesinos, cuya imposibilidad y
 grandeza hace que se tenga esta aventura por apócrifa</title> 
 
@@ -23526,7 +23599,8 @@ réplica ni disputa.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXIV"><title> Donde se cuentan mil zarandajas tan impertinentes como
+<chapter n="X" roman="XXIV">
+<title> Donde se cuentan mil zarandajas tan impertinentes como
 necesarias al verdadero entendimiento desta grande historia</title> 
 
 <para n="X">Dice el que tradujo esta grande historia del original, de la que escribió
@@ -23759,7 +23833,8 @@ lugar de la caballeriza.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXV"><title> Donde se apunta la aventura del rebuzno y la graciosa del
+<chapter n="X" roman="XXV">
+<title> Donde se apunta la aventura del rebuzno y la graciosa del
 titerero, con las memorables adivinanzas del mono adivino</title> 
 
 <para n="X">No se le cocía el pan a don Quijote, como suele decirse, hasta oír y saber
@@ -24099,7 +24174,8 @@ oyere o viere el capítulo siguiente.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXVI"><title> Donde se prosigue la graciosa aventura del titerero, con
+<chapter n="X" roman="XXVI">
+<title> Donde se prosigue la graciosa aventura del titerero, con
 otras cosas en verdad harto buenas</title> 
 
 <para n="X">Callaron todos, tirios y troyanos; quiero decir, pendientes estaban todos
@@ -24427,7 +24503,8 @@ historia.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXVII"><title> Donde se da cuenta quiénes eran maese Pedro y su mono, con
+<chapter n="X" roman="XXVII">
+<title> Donde se da cuenta quiénes eran maese Pedro y su mono, con
 el mal suceso que don Quijote tuvo en la aventura del rebuzno, que no la
 acabó como él quisiera y como lo tenía pensado</title> 
 
@@ -24650,7 +24727,8 @@ levantaran en aquel lugar y sitio un trofeo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXVIII"><title> De cosas que dice Benengeli que las sabrá quien le leyere,
+<chapter n="X" roman="XXVIII">
+<title> De cosas que dice Benengeli que las sabrá quien le leyere,
 si las lee con atención</title> 
 
 <para n="X">Cuando el valiente huye, la superchería está descubierta, y es de varones
@@ -24831,7 +24909,8 @@ venidero.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXIX"><title> De la famosa aventura del barco encantado</title> 
+<chapter n="X" roman="XXIX">
+<title> De la famosa aventura del barco encantado</title> 
 
 <para n="X">Por sus pasos contados y por contar, dos días después que salieron de la
 alameda, llegaron don Quijote y Sancho al río Ebro, y el verle fue de gran
@@ -25078,7 +25157,8 @@ don Quijote y Sancho, y este fin tuvo la aventura del encantado barco.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXX"><title> De lo que le avino a don Quijote con una bella cazadora</title> 
+<chapter n="X" roman="XXX">
+<title> De lo que le avino a don Quijote con una bella cazadora</title> 
 
 <para n="X">Asaz melancólicos y de mal talante llegaron a sus animales caballero y
 escudero, especialmente Sancho, a quien llegaba al alma llegar al caudal
@@ -25259,7 +25339,8 @@ ventura acoger en su castillo tal caballero andante y tal escudero andado.</para
 
 </chapter> 
 
-<chapter n="X" roman="XXXI"><title> Que trata de muchas y grandes cosas</title> 
+<chapter n="X" roman="XXXI">
+<title> Que trata de muchas y grandes cosas</title> 
 
 <para n="X">Suma era la alegría que llevaba consigo Sancho, viéndose, a su parecer, en
 privanza con la duquesa, porque se le figuraba que había de hallar en su
@@ -25591,7 +25672,8 @@ alborotado rostro, se puso en pie y dijo...</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXII"><title> De la respuesta que dio don Quijote a su reprehensor, con
+<chapter n="X" roman="XXXII">
+<title> De la respuesta que dio don Quijote a su reprehensor, con
 otros graves y graciosos sucesos</title> 
 
 <para n="X">Levantado, pues, en pie don Quijote, temblando de los pies a la cabeza como
@@ -26067,7 +26149,8 @@ estilo como cuentan que se trataban los antiguos caballeros.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXIII"><title> De la sabrosa plática que la duquesa y sus doncellas
+<chapter n="X" roman="XXXIII">
+<title> De la sabrosa plática que la duquesa y sus doncellas
 pasaron con Sancho Panza, digna de que se lea y de que se note</title> 
 
 <para n="X">Cuenta, pues, la historia, que Sancho no durmió aquella siesta, sino que,
@@ -26314,7 +26397,8 @@ aventuras que en esta grande historia se contienen.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXIV"><title> Que cuenta de la noticia que se tuvo de cómo se había de
+<chapter n="X" roman="XXXIV">
+<title> Que cuenta de la noticia que se tuvo de cómo se había de
 desencantar la sin par Dulcinea del Toboso, que es una de las aventuras más
 famosas deste libro</title> 
 
@@ -26596,7 +26680,8 @@ indicio de regocijos y de fiestas.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXV"><title> Donde se prosigue la noticia que tuvo don Quijote del
+<chapter n="X" roman="XXXV">
+<title> Donde se prosigue la noticia que tuvo don Quijote del
 desencanto de Dulcinea, con otros admirables sucesos</title> 
 
 <para n="X">Al compás de la agradable música vieron que hacia ellos venía un carro de
@@ -26868,7 +26953,8 @@ había veras que más gusto les diesen.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXVI"><title> Donde se cuenta la estraña y jamás imaginada aventura de la
+<chapter n="X" roman="XXXVI">
+<title> Donde se cuenta la estraña y jamás imaginada aventura de la
 dueña Dolorida, alias de la condesa Trifaldi, con una carta que Sancho
 Panza escribió a su mujer Teresa Panza</title> 
 
@@ -27078,7 +27164,8 @@ brazo y en la intrépida resolución de mi animoso espíritu.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXVII"><title> Donde se prosigue la famosa aventura de la dueña Dolorida</title> 
+<chapter n="X" roman="XXXVII">
+<title> Donde se prosigue la famosa aventura de la dueña Dolorida</title> 
 
 <para n="X">En estremo se holgaron el duque y la duquesa de ver cuán bien iba
 respondiendo a su intención don Quijote, y a esta sazón dijo Sancho:</para> 
@@ -27162,7 +27249,8 @@ siguiendo la mesma aventura, que es una de las más notables de la historia.</pa
 
 </chapter> 
 
-<chapter n="X" roman="XXXVIII"><title> Donde se cuenta la que dio de su mala andanza la dueña
+<chapter n="X" roman="XXXVIII">
+<title> Donde se cuenta la que dio de su mala andanza la dueña
 Dolorida</title> 
 
 <para n="X">Detrás de los tristes músicos comenzaron a entrar por el jardín adelante
@@ -27389,7 +27477,8 @@ desta tan larga historia.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XXXIX"><title> Donde la Trifaldi prosigue su estupenda y memorable
+<chapter n="X" roman="XXXIX">
+<title> Donde la Trifaldi prosigue su estupenda y memorable
 historia</title> 
 
 <para n="X">De cualquiera palabra que Sancho decía, la duquesa gustaba tanto como se
@@ -27490,7 +27579,8 @@ nacimos, en hora menguada nuestros padres nos engendraron!»</para>
 
 </chapter> 
 
-<chapter n="X" roman="XL"><title> De cosas que atañen y tocan a esta aventura y a esta
+<chapter n="X" roman="XL">
+<title> De cosas que atañen y tocan a esta aventura y a esta
 memorable historia</title> 
 
 <para n="X">Real y verdaderamente, todos los que gustan de semejantes historias como
@@ -27692,7 +27782,8 @@ es que en ello consistiese quitar la lana de aquellos venerables rostros.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLI"><title> De la venida de Clavileño, con el fin desta dilatada aventura</title> 
+<chapter n="X" roman="XLI">
+<title> De la venida de Clavileño, con el fin desta dilatada aventura</title> 
 
 <para n="X">Llegó en esto la noche, y con ella el punto determinado en que el famoso
 caballo Clavileño viniese, cuya tardanza fatigaba ya a don Quijote,
@@ -28092,7 +28183,8 @@ os digo más.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLII"><title> De los consejos que dio don Quijote a Sancho Panza antes que
+<chapter n="X" roman="XLII">
+<title> De los consejos que dio don Quijote a Sancho Panza antes que
 fuese a gobernar la ínsula, con otras cosas bien consideradas</title> 
 
 <para n="X">Con el felice y gracioso suceso de la aventura de la Dolorida, quedaron tan
@@ -28258,7 +28350,8 @@ escucha ahora los que han de servir para adorno del cuerpo.</para>
  
 </chapter> 
 
-<chapter n="X" roman="XLIII"><title> De los consejos segundos que dio don Quijote a Sancho Panza</title> 
+<chapter n="X" roman="XLIII">
+<title> De los consejos segundos que dio don Quijote a Sancho Panza</title> 
 
 <para n="X">¿Quién oyera el pasado razonamiento de don Quijote que no le tuviera por
 persona muy cuerda y mejor intencionada? Pero, como muchas veces en el
@@ -28451,7 +28544,8 @@ creo que ya estos señores nos aguardan.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLIV"><title> Cómo Sancho Panza fue llevado al gobierno, y de la estraña
+<chapter n="X" roman="XLIV">
+<title> Cómo Sancho Panza fue llevado al gobierno, y de la estraña
 aventura que en el castillo sucedió a don Quijote</title> 
 
 <para n="X">Dicen que en el propio original desta historia se lee que, llegando Cide
@@ -28796,7 +28890,8 @@ quiere dar principio a su famoso gobierno.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLV"><title> De cómo el gran Sancho Panza tomó la posesión de su ínsula, y
+<chapter n="X" roman="XLV">
+<title> De cómo el gran Sancho Panza tomó la posesión de su ínsula, y
 del modo que comenzó a gobernar</title> 
 
 <para n="X">¡Oh perpetuo descubridor de los antípodas, hacha del mundo, ojo del cielo,
@@ -29070,7 +29165,8 @@ alborozado con la música de Altisidora.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLVI"><title> Del temeroso espanto cencerril y gatuno que recibió don
+<chapter n="X" roman="XLVI">
+<title> Del temeroso espanto cencerril y gatuno que recibió don
 Quijote en el discurso de los amores de la enamorada Altisidora</title> 
 
 <para n="X">Dejamos al gran don Quijote envuelto en los pensamientos que le habían
@@ -29236,7 +29332,8 @@ Panza, que andaba muy solícito y muy gracioso en su gobierno.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLVII"><title> Donde se prosigue cómo se portaba Sancho Panza en su
+<chapter n="X" roman="XLVII">
+<title> Donde se prosigue cómo se portaba Sancho Panza en su
 gobierno</title> 
 
 <para n="X">Cuenta la historia que desde el juzgado llevaron a Sancho Panza a un
@@ -29571,7 +29668,8 @@ verdad que suele contar las cosas desta historia, por mínimas que sean.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLVIII"><title> De lo que le sucedió a don Quijote con doña Rodríguez, la
+<chapter n="X" roman="XLVIII">
+<title> De lo que le sucedió a don Quijote con doña Rodríguez, la
 dueña de la duquesa, con otros acontecimientos dignos de escritura y de
 memoria eterna</title> 
 
@@ -29853,7 +29951,8 @@ que Sancho Panza nos llama, y el buen concierto de la historia lo pide.</para>
 
 </chapter> 
 
-<chapter n="X" roman="XLIX"><title> De lo que le sucedió a Sancho Panza rondando su ínsula</title> 
+<chapter n="X" roman="XLIX">
+<title> De lo que le sucedió a Sancho Panza rondando su ínsula</title> 
 
 <para n="X">Dejamos al gran gobernador enojado y mohíno con el labrador pintor y
 socarrón, el cual, industriado del mayordomo, y el mayordomo del duque, se
@@ -30281,7 +30380,8 @@ verá adelante.</para>
 
 </chapter> 
 
-<chapter n="X" roman="L"><title> Donde se declara quién fueron los encantadores y verdugos que
+<chapter n="X" roman="L">
+<title> Donde se declara quién fueron los encantadores y verdugos que
 azotaron a la dueña y pellizcaron y arañaron a don Quijote, con el suceso
 que tuvo el paje que llevó la carta a Teresa Sancha, mujer de Sancho Panza</title> 
 
@@ -30639,7 +30739,8 @@ grande historia se ponen, como se verá adelante.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LI"><title> Del progreso del gobierno de Sancho Panza, con otros sucesos
+<chapter n="X" roman="LI">
+<title> Del progreso del gobierno de Sancho Panza, con otros sucesos
 tales como buenos</title> 
 
 <para n="X">Amaneció el día que se siguió a la noche de la ronda del gobernador, la
@@ -30943,7 +31044,8 @@ lugar, y se nombran Las constituciones del gran gobernador Sancho Panza.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LII"><title> Donde se cuenta la aventura de la segunda dueña Dolorida, o
+<chapter n="X" roman="LII">
+<title> Donde se cuenta la aventura de la segunda dueña Dolorida, o
 Angustiada, llamada por otro nombre doña Rodríguez</title> 
 
 <para n="X">Cuenta Cide Hamete que estando ya don Quijote sano de sus aruños, le
@@ -31193,7 +31295,8 @@ todos los insulanos gobernadores.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LIII"><title> Del fatigado fin y remate que tuvo el gobierno de Sancho
+<chapter n="X" roman="LIII">
+<title> Del fatigado fin y remate que tuvo el gobierno de Sancho
 Panza</title> 
 
 <para n="X">''Pensar que en esta vida las cosas della han de durar siempre en un estado
@@ -31406,7 +31509,8 @@ su determinación tan resoluta y tan discreta.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LIV"><title> Que trata de cosas tocantes a esta historia, y no a otra
+<chapter n="X" roman="LIV">
+<title> Que trata de cosas tocantes a esta historia, y no a otra
 alguna</title> 
 
 <para n="X">Resolviéronse el duque y la duquesa de que el desafío que don Quijote hizo
@@ -31689,7 +31793,8 @@ arrimó a su bordón, y se apartaron.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LV"><title> De cosas sucedidas a Sancho en el camino, y otras que no hay
+<chapter n="X" roman="LV">
+<title> De cosas sucedidas a Sancho en el camino, y otras que no hay
 más que ver</title> 
 
 <para n="X">El haberse detenido Sancho con Ricote no le dio lugar a que aquel día
@@ -31938,7 +32043,8 @@ parado.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LVI"><title> De la descomunal y nunca vista batalla que pasó entre don
+<chapter n="X" roman="LVI">
+<title> De la descomunal y nunca vista batalla que pasó entre don
 Quijote de la Mancha y el lacayo Tosilos, en la defensa de la hija de la
 dueña doña Rodríguez</title> 
 
@@ -32126,7 +32232,8 @@ menos.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LVII"><title> Que trata de cómo don Quijote se despidió del duque, y de lo
+<chapter n="X" roman="LVII">
+<title> Que trata de cómo don Quijote se despidió del duque, y de lo
 que le sucedió con la discreta y desenvuelta Altisidora, doncella de la
 duquesa</title> 
 
@@ -32280,7 +32387,8 @@ sobre el rucio, se salió del castillo, enderezando su camino a Zaragoza.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LVIII"><title> Que trata de cómo menudearon sobre don Quijote aventuras
+<chapter n="X" roman="LVIII">
+<title> Que trata de cómo menudearon sobre don Quijote aventuras
 tantas, que no se daban vagar unas a otras</title> 
 
 <para n="X">Cuando don Quijote se vio en la campaña rasa, libre y desembarazado de los
@@ -32694,7 +32802,8 @@ con más vergüenza que gusto, siguieron su camino.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LIX"><title> Donde se cuenta del extraordinario suceso, que se puede
+<chapter n="X" roman="LIX">
+<title> Donde se cuenta del extraordinario suceso, que se puede
 tener por aventura, que le sucedió a don Quijote</title> 
 
 <para n="X">Al polvo y al cansancio que don Quijote y Sancho sacaron del
@@ -33004,7 +33113,8 @@ proveída.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LX"><title> De lo que sucedió a don Quijote yendo a Barcelona</title> 
+<chapter n="X" roman="LX">
+<title> De lo que sucedió a don Quijote yendo a Barcelona</title> 
 
 <para n="X">Era fresca la mañana, y daba muestras de serlo asimesmo el día en que don
 Quijote salió de la venta, informándose primero cuál era el más derecho
@@ -33480,7 +33590,8 @@ quien iba.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXI"><title> De lo que le sucedió a don Quijote en la entrada de
+<chapter n="X" roman="LXI">
+<title> De lo que le sucedió a don Quijote en la entrada de
 Barcelona, con otras cosas que tienen más de lo verdadero que de lo
 discreto</title> 
 
@@ -33584,7 +33695,8 @@ Hamete.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXII"><title> Que trata de la aventura de la cabeza encantada, con otras
+<chapter n="X" roman="LXII">
+<title> Que trata de la aventura de la cabeza encantada, con otras
 niñerías que no pueden dejar de contarse</title> 
 
 <para n="X">Don Antonio Moreno se llamaba el huésped de don Quijote, caballero rico y
@@ -34069,7 +34181,8 @@ noticia; y lo que le sucedió en ellas se dirá en el siguiente capítulo.</para
 
 </chapter> 
 
-<chapter n="X" roman="LXIII"><title> De lo mal que le avino a Sancho Panza con la visita de las
+<chapter n="X" roman="LXIII">
+<title> De lo mal que le avino a Sancho Panza con la visita de las
 galeras, y la nueva aventura de la hermosa morisca</title> 
 
 <para n="X">Grandes eran los discursos que don Quijote hacía sobre la respuesta de la
@@ -34407,7 +34520,8 @@ y caridad que la hermosura de Ana Félix infundió en su pecho.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXIV"><title> Que trata de la aventura que más pesadumbre dio a don
+<chapter n="X" roman="LXIV">
+<title> Que trata de la aventura que más pesadumbre dio a don
 Quijote de cuantas hasta entonces le habían sucedido</title> 
 
 <para n="X">La mujer de don Antonio Moreno cuenta la historia que recibió grandísimo
@@ -34564,7 +34678,8 @@ había dejado a don Quijote.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXV"><title> Donde se da noticia quién era el de la Blanca Luna, con la
+<chapter n="X" roman="LXV">
+<title> Donde se da noticia quién era el de la Blanca Luna, con la
 libertad de Don Gregorio, y de otros sucesos</title> 
 
 <para n="X">Siguió don Antonio Moreno al Caballero de la Blanca Luna, y siguiéronle
@@ -34749,7 +34864,8 @@ las armas.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXVI"><title> Que trata de lo que verá el que lo leyere, o lo oirá el que
+<chapter n="X" roman="LXVI">
+<title> Que trata de lo que verá el que lo leyere, o lo oirá el que
 lo escuchare leer</title> 
 
 <para n="X">Al salir de Barcelona, volvió don Quijote a mirar el sitio donde había
@@ -34945,7 +35061,8 @@ de un árbol le estaba esperando.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXVII"><title> De la resolución que tomó don Quijote de hacerse pastor y
+<chapter n="X" roman="LXVII">
+<title> De la resolución que tomó don Quijote de hacerse pastor y
 seguir la vida del campo, en tanto que se pasaba el año de su promesa, con
 otros sucesos en verdad gustosos y buenos</title> 
 
@@ -35115,7 +35232,8 @@ velando.</para>
  
 </chapter> 
 
-<chapter n="X" roman="LXVIII"><title> De la cerdosa aventura que le aconteció a don Quijote</title> 
+<chapter n="X" roman="LXVIII">
+<title> De la cerdosa aventura que le aconteció a don Quijote</title> 
 
 <para n="X">Era la noche algo escura, puesto que la luna estaba en el cielo, pero no en
 parte que pudiese ser vista: que tal vez la señora Diana se va a pasear a
@@ -35225,7 +35343,7 @@ Quijote, arrimado a un tronco de una haya o de un alcornoque —que Cide
 Hamete Benengeli no distingue el árbol que era—, al son de sus mesmos
 suspiros, cantó de esta suerte:</para> 
 
-<!--jm: song-->
+<!--jm: Song-->
 <para n="X">-Amor, cuando yo pienso
 en el mal que me das, terrible y fuerte,
 voy corriendo a la muerte,
@@ -35305,7 +35423,8 @@ en el siguiente capítulo.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXIX"><title> Del más raro y más nuevo suceso que en todo el discurso
+<chapter n="X" roman="LXIX">
+<title> Del más raro y más nuevo suceso que en todo el discurso
 desta grande historia avino a don Quijote</title> 
 
 <para n="X">Apeáronse los de a caballo, y, junto con los de a pie, tomando en peso y
@@ -35509,7 +35628,8 @@ Quijote y a Sancho los llevasen a las que ellos ya se sabían.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXX"><title> Que sigue al de sesenta y nueve, y trata de cosas no
+<chapter n="X" roman="LXX">
+<title> Que sigue al de sesenta y nueve, y trata de cosas no
 escusadas para la claridad desta historia</title> 
 
 <para n="X">Durmió Sancho aquella noche en una carriola, en el mesmo aposento de don
@@ -35778,7 +35898,8 @@ aquella tarde.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXXI"><title> De lo que a don Quijote le sucedió con su escudero Sancho
+<chapter n="X" roman="LXXI">
+<title> De lo que a don Quijote le sucedió con su escudero Sancho
 yendo a su aldea</title> 
 
 <para n="X">Iba el vencido y asendereado don Quijote pensativo además por una parte,
@@ -35992,7 +36113,8 @@ si pudiere.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXXII"><title> De cómo don Quijote y Sancho llegaron a su aldea</title> 
+<chapter n="X" roman="LXXII">
+<title> De cómo don Quijote y Sancho llegaron a su aldea</title> 
 
 <para n="X">Todo aquel día, esperando la noche, estuvieron en aquel lugar y mesón don
 Quijote y Sancho: el uno, para acabar en la campaña rasa la tanda de su
@@ -36182,7 +36304,8 @@ que en la pastoral vida pensamos ejercitar.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXXIII"><title> De los agüeros que tuvo don Quijote al entrar de su aldea,
+<chapter n="X" roman="LXXIII">
+<title> De los agüeros que tuvo don Quijote al entrar de su aldea,
 con otros sucesos que adornan y acreditan esta grande historia</title> 
 
 <para n="X">A la entrada del cual, según dice Cide Hamete, vio don Quijote que en las
@@ -36369,7 +36492,8 @@ cama, donde le dieron de comer y regalaron lo posible.</para>
 
 </chapter> 
 
-<chapter n="X" roman="LXXIV"><title> De cómo don Quijote cayó malo, y del testamento que hizo, y
+<chapter n="X" roman="LXXIV">
+<title> De cómo don Quijote cayó malo, y del testamento que hizo, y
 su muerte</title> 
 
 <para n="X">Como las cosas humanas no sean eternas, yendo siempre en declinación de sus
@@ -36622,7 +36746,7 @@ sus escritos enteramente, como deseaba, pues no ha sido otro mi deseo que
 poner en aborrecimiento de los hombres las fingidas y disparatadas
 historias de los libros de caballerías, que, por las de mi verdadero don
 Quijote, van ya tropezando, y han de caer del todo, sin duda alguna. Vale.</para> 
-
+  
 <para n="X">Fin</para> 
 
 </chapter>

@@ -8,7 +8,6 @@ language= element language{text}
 title= element title{text}
 author= element author{text}
 
-
 chapter = element chapter{n, roman, title, para+ } 
 n = attribute n {text}
 roman = attribute roman {text}
@@ -20,4 +19,3 @@ verse = element verse {mixed {title?}}
 
 quote = element quote {mixed {(piece | poem | quote)*}}
 piece = element piece {mixed {(piece | poem | quote)*}}
-
