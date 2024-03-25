@@ -6,8 +6,8 @@ This file tracks all manual changes of the auto-replaced `<piece>`/`</piece>` ta
 
 Volume 1:
 
-1. Rename all `<piece>` elements to `<quote>`.
-2. Starting from the first replaced quote, going downwards:
+1. Chapter 1: Rename all `<piece>` elements to `<quote>`.
+2. Chapter 2:
 	1. 2nd paragraph:
 		1. Rename the first `<piece>` element to `<quote>`.
 		2. Put the next two `<piece>` elements in a parent `<quote>` element.
@@ -37,4 +37,28 @@ Volume 1:
 		1. Put the first two `<piece>` elements in a parent `<quote>` element.
 		2. Rename the next four `<piece>` elements to `<quote>`.
 		3. Put the remaining (last two) `<piece>` elements in a parent `<quote>` element.
+3. Chapter 3:
+	1. 1st paragraph:
+		1. Rename the first `<piece>` element to `<quote>`.
+		2. Put the last two `<piece>` elements in a parent `<quote>`.
+	2. 5th paragraph: Rename all `<piece>` elements to `<quote>`.
+	3. 6th paragraph:
+		1. Rename the first `<piece>` element to `<quote>`.
+		2. Put the remaining `<piece>` elements in a parent `<quote>`.
+	4. 8th paragraph: Rename all `<piece>` elements to `<quote>`.
+4. Chapter 4:
+	1. 2nd paragraph: Rename all `<piece>` elements to `<quote>`.
+	2. 3rd paragraph:
+		1. Put the first two `<piece>` elements in a parent `<quote>`.
+		2. Rename the last `<piece>` element to `<quote>`.
+	3. 4th and 8th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	5. 9th paragraph: Rename the `<piece>` element to `<quote>`.
+	6. 10th-16th paragraphs, both inclusive: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	13. 17th paragraph: Rename the `<piece>` element to `<quote>`.
+	14. 18th, 19th, and 20th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	17. 22th, 23th, and 24th paragraphs: In each paragraph, rename the `<piece>` element to `<quote>`.
+	20. 25th, 26th, and 27th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	23. 28th paragraph: Rename the `<piece>` element to `<quote>`.
+
+
 
