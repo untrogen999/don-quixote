@@ -1,4 +1,6 @@
-declare default element namespace "http://www.tei-c.org/ns/1.0";
+(:I got it working by commenting out the first declaration:)
+(:declare default element namespace "http://www.tei-c.org/ns/1.0";:)
+
 declare option saxon:output "method=text";
 declare variable $newline := "&#xa;";
 declare variable $tab := "&#9;"; 
@@ -12,3 +14,4 @@ declare variable $tab := "&#9;";
 (:I will continue working on it :)
 let $chapters := doc("../xml/cervantes_saavedra_SPAN.xml")//chapter
 return $chapters
+
