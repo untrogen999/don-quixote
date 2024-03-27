@@ -59,6 +59,20 @@ Volume 1:
 	17. 22th, 23th, and 24th paragraphs: In each paragraph, rename the `<piece>` element to `<quote>`.
 	20. 25th, 26th, and 27th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
 	23. 28th paragraph: Rename the `<piece>` element to `<quote>`.
-
+5. Chapter 5:
+	1. 1st paragraph: Remove the closing `</para>` tag.
+	2. 2nd paragraph (first ballad):
+		1. Replace the opening `<para>` tag with `<quote><piece><poem type="ballad"><verse>`.
+		2. Replace the closing `</para>` tag with `</verse></poem></piece>`.
+	3. 3rd paragraph: Remove the opening and closing `<para>`/`</para>` tags.
+	4. 4th paragraph (second ballad):
+		1. Replace the opening `<para>` tag with `<piece><poem type="ballad"><verse>`.
+		2. Insert `</verse></poem></piece></quote>` right before the closing `</para>` tag.
+	5. 7th paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	6. 9th paragraph: Rename all `<piece>` elements to `<quote>`.
+	7. 10th paragraph: Rename the `<piece>` element to `<quote>`.
+	8. 11th-14th paragraphs, both inclusive: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	9. 15th paragraph: Rename the `<piece>` element to `<quote>`.
+	10. 17th, 18th, and 20th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
 
 
