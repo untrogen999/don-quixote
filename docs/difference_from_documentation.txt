@@ -1,0 +1,1 @@
+This folder holds the site-specific stuff. Documentation goes in the "documentation" folder.
