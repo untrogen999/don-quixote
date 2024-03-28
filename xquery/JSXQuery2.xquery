@@ -1,18 +1,29 @@
-declare option saxon:output "method=text";  
+declare option saxon:output "method=html";  
 declare variable $linefeed := "&#10;";  
 declare variable $tab := "&#9;";     
 
 declare variable $source := collection('../xml/?select=*.xml');
-(: let $paras := $source//para
-let $parasCount := $paras=>count()
-return $parasCount  :)
+<html>
+<head>
+<title>Paragraphs_count</title>
+</head>
+<body>
+<h1>Para</h1>
+<table>
 
-(: declare variable $source := collection('../xml/?select=*.xml');  :)
-(:  where $paras=>count()  :)
- for $book in distinct-values($source//book)
+{
+for $book in distinct-values($source//book)
 let $paras := $source//book[. = $book]//para
 let $parasCount := count($paras)
-order by $book
-return $parasCount  
+let $translator := $source//book[. = $book]//translator
+let $author := $source//book[. = $book]//author
 
-(: I tried to figure out why my text is in red but I tried many things but it didnt work, I hope you can help me figue out what I did wrong in class on monday. Thanks :)
+order by $book
+return
+if (.//translator) then
+<tr><td>{$translator,$author}</td><td>{$parasCount}</td></tr>
+else (:<tr><td>{$author}</td><td>{$parasCount}</td></tr>:) "text"
+}
+</table>
+</body>
+</html>
