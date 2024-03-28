@@ -10,7 +10,7 @@ declare variable $source := collection('../xml/?select=*.xml');
 <body>
 <h1>Para</h1>
 <table>
-
+<tr><th>Author or Translator</th><th>No. of Paragraphs</th></tr>
 {
 for $book in distinct-values($source//book)
 let $paras := $source//book[. = $book]//para
@@ -20,9 +20,10 @@ let $author := $source//book[. = $book]//author
 
 order by $book
 return
-if (.//translator) then
-<tr><td>{$translator,$author}</td><td>{$parasCount}</td></tr>
-else (:<tr><td>{$author}</td><td>{$parasCount}</td></tr>:) "text"
+if (.//book[. = $book]//language!string-length() > 1)
+then
+<tr><td>{$author}</td><td>{$parasCount}</td></tr>
+else <tr><td>{$translator}</td><td>{$parasCount}</td></tr>
 }
 </table>
 </body>
