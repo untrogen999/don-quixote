@@ -74,5 +74,41 @@ Volume 1:
 	8. 11th-14th paragraphs, both inclusive: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
 	9. 15th paragraph: Rename the `<piece>` element to `<quote>`.
 	10. 17th, 18th, and 20th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
-
+6. Chapter 6:
+	1. 1st paragraph: Rename the `<piece>` element to `<quote>`.
+	2. 3rd paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	3. 4th paragraph:
+		1. Rename the first `<piece>` element to `<quote>`.
+		2. Put the other `<piece>` elements in a parent `<quote>`.
+	4. 5th-8th paragraphs, both inclusive: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	5. 9th and 10th paragraphs: Rename the `<piece>` elements to `<quote>`.
+	6. 11th and 12th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	7. 13th and 14th paragraphs, both inclusive: In each paragraph, rename the `<piece>` elements to `<quote>`.
+	8. 15th paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	9. 17th and 18th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	10. 19th paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	11. 20th paragraph: Rename the `<piece>` element to `<quote>`.
+	12. 21st paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	13. 22nd paragraph: Rename the `<piece>` element to `<quote>`.
+	14. 23rd and 24th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	15. 25th paragraph: Rename the `<piece>` element to `<quote>`.
+	16. 26th paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	17. 27th paragraph: Rename the `<piece>` element to `<quote>`.
+	18. 28th, 29th, 30th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	19. 31st paragraph: Rename all `<piece>` elements to `<quote>`.
+	20. 32nd and 33rd paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	21. 34th and 35th paragraphs: In each paragraph, rename all `<piece>` elements to `<quote>`.
+	22. 36th and 37th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	23. 38th paragraph:
+		1. Rename the first two `<piece>` elements to `<quote>`. 
+		2. Put all other `<piece>` elements in a parent `<quote>`.
+	24. 39th-44th paragraphs, both inclusive: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	25. 45th paragraph: Rename the `<piece>` element to `<quote>`.
+	26. 46th paragraph: Put all `<piece>` elements in a parent `<quote>`.
+	27. 47th paragraph: Rename the `<piece>` element to `<quote>`.
+	28. 48th-52nd paragraphs, both inclusive: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	29. 53rd and 54th paragraphs: In each paragraph, rename the `<piece>` element to `<quote>`.
+	30. 55th and 56th paragraphs: In each paragraph, put all `<piece>` elements in a parent `<quote>`.
+	31. 57th paragraph: Rename all `<piece>` elements to `<quote>`.
+	32. 58th paragraph: Put all `<piece>` elements in a parent `<quote>`.
 
